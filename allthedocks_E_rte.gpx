@@ -2,8 +2,10 @@
 <gpx version="1.1" creator="GDAL 3.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <metadata><bounds minlat="51.486461705996753" minlon="-0.129466270724071" maxlat="51.549377641571567" maxlon="0.000350588793638"/></metadata>                   
 <trk>
-  <name>01 Olympic Park</name>
+  <name>E01 Olympic Park</name>
   <desc>9992.626399846098</desc>
+  <src>15</src>
+  <number>1</number>
   <trkseg>
     <trkpt lat="51.549377641571567" lon="-0.015723570223335">
     </trkpt>
@@ -202,9 +204,11 @@
   </trkseg>
 </trk>
 <trk>
-  <name>02 Bow</name>
+  <name>E02 Bow</name>
   <cmt>Walk bikes on A12 bridge pavement.</cmt>
   <desc>10887.84916661081</desc>
+  <src>20</src>
+  <number>2</number>
   <trkseg>
     <trkpt lat="51.5311459959958" lon="-0.048005387840766">
     </trkpt>
@@ -453,9 +457,11 @@
   </trkseg>
 </trk>
 <trk>
-  <name>03 Isle of Dogs</name>
+  <name>E03 Isle of Dogs</name>
   <cmt>Walk bikes atn A12 underpass and East India lifts/bridge.</cmt>
   <desc>10102.09511417262</desc>
+  <src>17</src>
+  <number>3</number>
   <trkseg>
     <trkpt lat="51.518818683191874" lon="-0.011584078310712">
     </trkpt>
@@ -816,9 +822,11 @@
   </trkseg>
 </trk>
 <trk>
-  <name>04 Limehouse</name>
+  <name>E04 Limehouse</name>
   <cmt>Walk across South Quay footbridge</cmt>
   <desc>10345.44152484938</desc>
+  <src>19</src>
+  <number>4</number>
   <trkseg>
     <trkpt lat="51.499029133943139" lon="-0.0201313925785">
     </trkpt>
@@ -1169,8 +1177,10 @@
   </trkseg>
 </trk>
 <trk>
-  <name>05 Bethnal Green</name>
+  <name>E05 Bethnal Green</name>
   <desc>10095.08429931687</desc>
+  <src>21</src>
+  <number>5</number>
   <trkseg>
     <trkpt lat="51.525927429811759" lon="-0.036101849538213">
     </trkpt>
@@ -1419,8 +1429,10 @@
   </trkseg>
 </trk>
 <trk>
-  <name>06 Whitechapel</name>
+  <name>E06 Whitechapel</name>
   <desc>10046.54217785383</desc>
+  <src>20</src>
+  <number>6</number>
   <trkseg>
     <trkpt lat="51.528283329666223" lon="-0.069590050897781">
     </trkpt>
@@ -1597,8 +1609,10 @@
   </trkseg>
 </trk>
 <trk>
-  <name>07 Wapping</name>
+  <name>E07 Wapping</name>
   <desc>9672.058366557865</desc>
+  <src>24</src>
+  <number>7</number>
   <trkseg>
     <trkpt lat="51.5159674152018" lon="-0.053144523946319">
     </trkpt>
@@ -1933,8 +1947,10 @@
   </trkseg>
 </trk>
 <trk>
-  <name>08 City of London</name>
+  <name>E08 City of London</name>
   <desc>9171.885041376754</desc>
+  <src>30</src>
+  <number>8</number>
   <trkseg>
     <trkpt lat="51.50966505015068" lon="-0.084975501705384">
     </trkpt>
@@ -2241,8 +2257,10 @@
   </trkseg>
 </trk>
 <trk>
-  <name>09 Hoxton</name>
+  <name>E09 Hoxton</name>
   <desc>9917.618601572807</desc>
+  <src>28</src>
+  <number>9</number>
   <trkseg>
     <trkpt lat="51.519905585747686" lon="-0.083965318373701">
     </trkpt>
@@ -2501,8 +2519,10 @@
   </trkseg>
 </trk>
 <trk>
-  <name>10 Clerkenwell</name>
+  <name>E10 Clerkenwell</name>
   <desc>10080.3106311708</desc>
+  <src>30</src>
+  <number>10</number>
   <trkseg>
     <trkpt lat="51.527019203436964" lon="-0.088500992415109">
     </trkpt>
@@ -2819,8 +2839,10 @@
   </trkseg>
 </trk>
 <trk>
-  <name>11 Islington</name>
+  <name>E11 Islington</name>
   <desc>9403.154655612138</desc>
+  <src>23</src>
+  <number>11</number>
   <trkseg>
     <trkpt lat="51.530497154351352" lon="-0.106364380729823">
     </trkpt>
@@ -3053,9 +3075,11 @@
   </trkseg>
 </trk>
 <trk>
-  <name>12 Holborn</name>
+  <name>E12 Holborn</name>
   <cmt>Walk bikes through Little Turnstile (70m)</cmt>
   <desc>6417.968170514396</desc>
+  <src>21</src>
+  <number>12</number>
   <trkseg>
     <trkpt lat="51.530010082859285" lon="-0.123680604553528">
     </trkpt>
