@@ -60,9 +60,17 @@ function init()
 	var initialLat = 51.514;
 	var initialLon = -0.122;
 
-	layerDocks = new ol.layer.VectorImage({
+	var layerDocksE = new ol.layer.VectorImage({
 		source: new ol.source.Vector({
 			url: 'https://raw.githubusercontent.com/oobrien/allthedocks/main/allthedocks_E.gpx',
+			format: new ol.format.GPX()
+		}),
+	  	style: gpxStyle
+	});
+
+	var layerDocksS = new ol.layer.VectorImage({
+		source: new ol.source.Vector({
+			url: 'https://raw.githubusercontent.com/oobrien/allthedocks/main/allthedocks_S.gpx',
 			format: new ol.format.GPX()
 		}),
 	  	style: gpxStyle
@@ -88,7 +96,7 @@ function init()
       
 	olMap = new ol.Map({
 		target: "mapcontainer",
-		layers: [ layerBackground, layerDocks, layerLocation ],
+		layers: [ layerBackground, layerDocksE, layerDocksS, layerLocation ],
 		controls: ol.control.defaults({}).extend([
 			new ol.control.ScaleLine({geodesic: true, units: 'metric' })
 		]),
@@ -115,11 +123,11 @@ function init()
 		  sourceLocation.clear(true);
 		  sourceLocation.addFeature(
 			new ol.Feature(new ol.geom.Point(ol.proj.fromLonLat([pos.coords.longitude, pos.coords.latitude]))));
-		  if (geolocation == 1)
+		  if (geolocation == 1 || geolocation == 2)
 		  {
 		  	geolocation = 2;
 			olMap.getView().fit(sourceLocation.getExtent(), {
-			  maxZoom: 18,
+			  maxZoom: 16,
 			  duration: 500
 			});
 		  }
