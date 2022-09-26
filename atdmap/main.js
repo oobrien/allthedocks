@@ -28,8 +28,8 @@ function gpxStyle(feature, resolution)
 	var scale = 2;
 	if (resolution < 6) { scale = 3; }
 	if (resolution < 3) { scale = 4; }
-	//	if (feature.getGeometry().getType() == 'LineString') //Route lines are LineStrings
-	if (feature.getGeometry().getType() == 'MultiLineString' || feature.getGeometry().getType() == 'LineString'))
+	//Route lines are LineStrings, track lines are MultiLineStrings
+	if (feature.getGeometry().getType() == 'MultiLineString' || feature.getGeometry().getType() == 'LineString')
 	{
 		return new ol.style.Style({
        		stroke: new ol.style.Stroke({
