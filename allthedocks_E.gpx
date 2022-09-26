@@ -3271,1610 +3271,1611 @@
 </trk>
 <wpt lat="51.549369" lon="-0.015717614">
   <name>1.LVV</name>
-  <cmt>786</cmt>
+  <cmt>E01.001</cmt>
   <desc>Lee Valley VeloPark, Queen Elizabeth Olympic Park</desc>
-  <src>E001</src>
+  <src>786</src>
 </wpt>
 <wpt lat="51.54873119" lon="-0.022606555">
   <name>2.HEN</name>
-  <cmt>812</cmt>
+  <cmt>E01.002</cmt>
   <desc>Here East North, Queen Elizabeth Olympic Park</desc>
-  <src>E002</src>
+  <src>812</src>
 </wpt>
 <wpt lat="51.54653279" lon="-0.02059759">
   <name>3.HES</name>
-  <cmt>816</cmt>
+  <cmt>E01.003</cmt>
   <desc>Here East South, Queen Elizabeth Olympic Park</desc>
-  <src>E003</src>
+  <src>816</src>
 </wpt>
 <wpt lat="51.544909" lon="-0.0205426">
   <name>4.CBA</name>
-  <cmt>788</cmt>
+  <cmt>E01.004</cmt>
   <desc>Copper Box Arena, Queen Elizabeth Olympic Park</desc>
-  <src>E004</src>
+  <src>788</src>
 </wpt>
 <wpt lat="51.546805" lon="-0.01469126">
   <name>5.TL</name>
-  <cmt>787</cmt>
+  <cmt>E01.005</cmt>
   <desc>Timber Lodge, Queen Elizabeth Olympic Park</desc>
-  <src>E005</src>
+  <src>787</src>
 </wpt>
 <wpt lat="51.546326" lon="-0.00993526">
   <name>6.EV</name>
-  <cmt>784</cmt>
+  <cmt>E01.006</cmt>
   <desc>East Village, Queen Elizabeth Olympic Park</desc>
-  <src>E006</src>
+  <src>784</src>
 </wpt>
 <wpt lat="51.541793" lon="-0.00481">
   <name>7.SS</name>
-  <cmt>790</cmt>
+  <cmt>E01.007</cmt>
   <desc>Stratford Station, Stratford</desc>
-  <src>E007</src>
+  <src>790</src>
 </wpt>
 <wpt lat="51.54094" lon="-0.010510565">
   <name>8.AC</name>
-  <cmt>785</cmt>
+  <cmt>E01.008</cmt>
   <desc>Aquatic Centre, Queen Elizabeth Olympic Park</desc>
-  <src>E008</src>
+  <src>785</src>
 </wpt>
 <wpt lat="51.538718" lon="-0.011889482">
   <name>9.P</name>
-  <cmt>789</cmt>
+  <cmt>E01.009</cmt>
   <desc>Podium, Queen Elizabeth Olympic Park</desc>
-  <src>E009</src>
+  <src>789</src>
 </wpt>
 <wpt lat="51.5403115" lon="-0.021630359">
   <name>10.MR</name>
-  <cmt>783</cmt>
+  <cmt>E01.010</cmt>
   <desc>Monier Road, Hackney Wick</desc>
-  <src>E010</src>
+  <src>783</src>
 </wpt>
 <wpt lat="51.54211855" lon="-0.028941601">
   <name>11.CC</name>
-  <cmt>692</cmt>
+  <cmt>E01.011</cmt>
   <desc>Cadogan Close, Victoria Park</desc>
-  <src>E011</src>
+  <src>692</src>
 </wpt>
 <wpt lat="51.541515" lon="-0.038557746">
   <name>12.GR</name>
-  <cmt>474</cmt>
+  <cmt>E01.012</cmt>
   <desc>Gascoyne Road, Victoria Park</desc>
-  <src>E012</src>
+  <src>474</src>
 </wpt>
 <wpt lat="51.53642464" lon="-0.054162264">
   <name>13.VPR</name>
-  <cmt>719</cmt>
+  <cmt>E01.013</cmt>
   <desc>Victoria Park Road, Hackney Central</desc>
-  <src>E013</src>
+  <src>719</src>
 </wpt>
 <wpt lat="51.53341" lon="-0.049591815">
   <name>14.BG</name>
-  <cmt>502</cmt>
+  <cmt>E01.014</cmt>
   <desc>Bonner Gate, Victoria Park</desc>
-  <src>E014</src>
+  <src>502</src>
 </wpt>
 <wpt lat="51.531127" lon="-0.048017">
   <name>15.OFR</name>
-  <cmt>485</cmt>
+  <cmt>E01.015</cmt>
   <desc>Old Ford Road, Bethnal Green</desc>
-  <src>E015</src>
+  <src>485</src>
 </wpt>
 <wpt lat="51.528869" lon="-0.047548">
   <name>16.GTM</name>
-  <cmt>577</cmt>
+  <cmt>E02.016</cmt>
   <desc>Globe Town Market, Bethnal Green</desc>
-  <src>E016</src>
+  <src>577</src>
 </wpt>
 <wpt lat="51.530326" lon="-0.042744">
   <name>17.TFB</name>
-  <cmt>531</cmt>
+  <cmt>E02.017</cmt>
   <desc>Twig Folly Bridge, Mile End</desc>
-  <src>E017</src>
+  <src>531</src>
 </wpt>
 <wpt lat="51.534137" lon="-0.037366">
   <name>18.DR</name>
-  <cmt>521</cmt>
+  <cmt>E02.018</cmt>
   <desc>Driffield Road, Old Ford</desc>
-  <src>E018</src>
+  <src>521</src>
 </wpt>
 <wpt lat="51.535179" lon="-0.03338">
   <name>19.GL</name>
-  <cmt>459</cmt>
+  <cmt>E02.019</cmt>
   <desc>Gunmakers Lane, Old Ford</desc>
-  <src>E019</src>
+  <src>459</src>
 </wpt>
 <wpt lat="51.53603947" lon="-0.026262677">
   <name>20.WS</name>
-  <cmt>721</cmt>
+  <cmt>E02.020</cmt>
   <desc>Wendon Street, Old Ford</desc>
-  <src>E020</src>
+  <src>721</src>
 </wpt>
 <wpt lat="51.533283" lon="-0.028155">
   <name>21.HS</name>
-  <cmt>471</cmt>
+  <cmt>E02.021</cmt>
   <desc>Hewison Street, Old Ford</desc>
-  <src>E021</src>
+  <src>471</src>
 </wpt>
 <wpt lat="51.532513" lon="-0.033085">
   <name>22.FR</name>
-  <cmt>517</cmt>
+  <cmt>E02.022</cmt>
   <desc>Ford Road, Old Ford</desc>
-  <src>E022</src>
+  <src>517</src>
 </wpt>
 <wpt lat="51.529452" lon="-0.027616">
   <name>23.MR</name>
-  <cmt>472</cmt>
+  <cmt>E02.023</cmt>
   <desc>Malmesbury Road, Bow</desc>
-  <src>E023</src>
+  <src>472</src>
 </wpt>
 <wpt lat="51.530535" lon="-0.025492">
   <name>24.MG</name>
-  <cmt>470</cmt>
+  <cmt>E02.024</cmt>
   <desc>Mostyn Grove, Bow</desc>
-  <src>E024</src>
+  <src>470</src>
 </wpt>
 <wpt lat="51.52512" lon="-0.015578">
   <name>25.DR</name>
-  <cmt>496</cmt>
+  <cmt>E02.025</cmt>
   <desc>Devons Road, Bow</desc>
-  <src>E025</src>
+  <src>496</src>
 </wpt>
 <wpt lat="51.528828" lon="-0.013258">
   <name>26.BHS</name>
-  <cmt>484</cmt>
+  <cmt>E02.026</cmt>
   <desc>Bromley High Street, Bow</desc>
-  <src>E026</src>
+  <src>484</src>
 </wpt>
 <wpt lat="51.528169" lon="-0.018703">
   <name>27.BCS</name>
-  <cmt>495</cmt>
+  <cmt>E02.027</cmt>
   <desc>Bow Church Station, Bow</desc>
-  <src>E027</src>
+  <src>495</src>
 </wpt>
 <wpt lat="51.527058" lon="-0.025296">
   <name>28.BRS</name>
-  <cmt>498</cmt>
+  <cmt>E02.028</cmt>
   <desc>Bow Road Station, Bow</desc>
-  <src>E028</src>
+  <src>498</src>
 </wpt>
 <wpt lat="51.526578" lon="-0.027581">
   <name>29.MS</name>
-  <cmt>497</cmt>
+  <cmt>E02.029</cmt>
   <desc>Merchant Street, Bow</desc>
-  <src>E029</src>
+  <src>497</src>
 </wpt>
 <wpt lat="51.525501" lon="-0.032267204">
   <name>30.MS</name>
-  <cmt>492</cmt>
+  <cmt>E02.030</cmt>
   <desc>Maplin Street, Mile End</desc>
-  <src>E030</src>
+  <src>492</src>
 </wpt>
 <wpt lat="51.523538" lon="-0.030556">
   <name>31.SG</name>
-  <cmt>467</cmt>
+  <cmt>E02.031</cmt>
   <desc>Southern Grove, Bow</desc>
-  <src>E031</src>
+  <src>467</src>
 </wpt>
 <wpt lat="51.520398" lon="-0.026768">
   <name>32.AD</name>
-  <cmt>505</cmt>
+  <cmt>E02.032</cmt>
   <desc>Ackroyd Drive, Bow</desc>
-  <src>E032</src>
+  <src>505</src>
 </wpt>
 <wpt lat="51.519265" lon="-0.021345">
   <name>33.FG</name>
-  <cmt>499</cmt>
+  <cmt>E02.033</cmt>
   <desc>Furze Green, Bow</desc>
-  <src>E033</src>
+  <src>499</src>
 </wpt>
 <wpt lat="51.521564" lon="-0.022694">
   <name>34.CR</name>
-  <cmt>468</cmt>
+  <cmt>E02.034</cmt>
   <desc>Cantrell Road, Bow</desc>
-  <src>E034</src>
+  <src>468</src>
 </wpt>
 <wpt lat="51.518811" lon="-0.011662">
   <name>35.TS</name>
-  <cmt>519</cmt>
+  <cmt>E02.035</cmt>
   <desc>Teviot Street, Poplar</desc>
-  <src>E035</src>
+  <src>519</src>
 </wpt>
 <wpt lat="51.51549" lon="-0.013475">
   <name>36.LP</name>
-  <cmt>523</cmt>
+  <cmt>E03.036</cmt>
   <desc>Langdon Park, Poplar</desc>
-  <src>E036</src>
+  <src>523</src>
 </wpt>
 <wpt lat="51.513548" lon="-0.005659">
   <name>37.AS</name>
-  <cmt>554</cmt>
+  <cmt>E03.037</cmt>
   <desc>Aberfeldy Street, Poplar</desc>
-  <src>E037</src>
+  <src>554</src>
 </wpt>
 <wpt lat="51.509474" lon="-0.002275">
   <name>38.EID</name>
-  <cmt>547</cmt>
+  <cmt>E03.038</cmt>
   <desc>East India DLR, Blackwall</desc>
-  <src>E038</src>
+  <src>547</src>
 </wpt>
 <wpt lat="51.508981" lon="-0.00699">
   <name>39.NR</name>
-  <cmt>538</cmt>
+  <cmt>E03.039</cmt>
   <desc>Naval Row, Blackwall</desc>
-  <src>E039</src>
+  <src>538</src>
 </wpt>
 <wpt lat="51.503143" lon="-0.008428">
   <name>40.LD</name>
-  <cmt>526</cmt>
+  <cmt>E03.040</cmt>
   <desc>Lancaster Drive, Blackwall</desc>
-  <src>E040</src>
+  <src>526</src>
 </wpt>
 <wpt lat="51.499286" lon="-0.009152">
   <name>41.PR</name>
-  <cmt>563</cmt>
+  <cmt>E03.041</cmt>
   <desc>Preston's Road, Cubitt Town</desc>
-  <src>E041</src>
+  <src>563</src>
 </wpt>
 <wpt lat="51.496454" lon="-0.009506">
   <name>42.SJP</name>
-  <cmt>504</cmt>
+  <cmt>E03.042</cmt>
   <desc>St. John's Park, Cubitt Town</desc>
-  <src>E042</src>
+  <src>504</src>
 </wpt>
 <wpt lat="51.493381" lon="-0.007542">
   <name>43.JC</name>
-  <cmt>447</cmt>
+  <cmt>E03.043</cmt>
   <desc>Jubilee Crescent, Cubitt Town</desc>
-  <src>E043</src>
+  <src>447</src>
 </wpt>
 <wpt lat="51.489096" lon="-0.009205">
   <name>44.SS</name>
-  <cmt>476</cmt>
+  <cmt>E03.044</cmt>
   <desc>Stebondale Street, Cubitt Town</desc>
-  <src>E044</src>
+  <src>476</src>
 </wpt>
 <wpt lat="51.487129" lon="-0.0090011">
   <name>45.SNR</name>
-  <cmt>481</cmt>
+  <cmt>E03.045</cmt>
   <desc>Saunders Ness Road, Cubitt Town</desc>
-  <src>E045</src>
+  <src>481</src>
 </wpt>
 <wpt lat="51.487679" lon="-0.021582">
   <name>46.NA</name>
-  <cmt>454</cmt>
+  <cmt>E03.046</cmt>
   <desc>Napier Avenue, Millwall</desc>
-  <src>E046</src>
+  <src>454</src>
 </wpt>
 <wpt lat="51.49109" lon="-0.018716">
   <name>47.SA</name>
-  <cmt>477</cmt>
+  <cmt>E03.047</cmt>
   <desc>Spindrift Avenue, Millwall</desc>
-  <src>E047</src>
+  <src>477</src>
 </wpt>
 <wpt lat="51.490645" lon="-0.014582">
   <name>48.MD</name>
-  <cmt>586</cmt>
+  <cmt>E03.048</cmt>
   <desc>Mudchute DLR, Cubitt Town</desc>
-  <src>E048</src>
+  <src>586</src>
 </wpt>
 <wpt lat="51.49447" lon="-0.014409">
   <name>49.EFR</name>
-  <cmt>455</cmt>
+  <cmt>E03.049</cmt>
   <desc>East Ferry Road, Cubitt Town</desc>
-  <src>E049</src>
+  <src>455</src>
 </wpt>
 <wpt lat="51.496137" lon="-0.019355">
   <name>50.M</name>
-  <cmt>473</cmt>
+  <cmt>E03.050</cmt>
   <desc>Millharbour, Millwall</desc>
-  <src>E050</src>
+  <src>473</src>
 </wpt>
 <wpt lat="51.497304" lon="-0.022793">
   <name>51.AG</name>
-  <cmt>576</cmt>
+  <cmt>E03.051</cmt>
   <desc>Alpha Grove, Millwall</desc>
-  <src>E051</src>
+  <src>576</src>
 </wpt>
 <wpt lat="51.499041" lon="-0.020157">
   <name>52.LR</name>
-  <cmt>475</cmt>
+  <cmt>E03.052</cmt>
   <desc>Lightermans Road, Millwall</desc>
-  <src>E052</src>
+  <src>475</src>
 </wpt>
 <wpt lat="51.502661" lon="-0.021596">
   <name>53.HQD</name>
-  <cmt>556</cmt>
+  <cmt>E04.053</cmt>
   <desc>Heron Quays DLR, Canary Wharf</desc>
-  <src>E053</src>
+  <src>556</src>
 </wpt>
 <wpt lat="51.50357" lon="-0.020068">
   <name>54.JP</name>
-  <cmt>532</cmt>
+  <cmt>E04.054</cmt>
   <desc>Jubilee Plaza, Canary Wharf</desc>
-  <src>E054</src>
+  <src>532</src>
 </wpt>
 <wpt lat="51.503083" lon="-0.017676">
   <name>55.UBS</name>
-  <cmt>570</cmt>
+  <cmt>E04.055</cmt>
   <desc>Upper Bank Street, Canary Wharf</desc>
-  <src>E055</src>
+  <src>570</src>
 </wpt>
 <wpt lat="51.50196" lon="-0.016251">
   <name>56.SQE</name>
-  <cmt>494</cmt>
+  <cmt>E04.056</cmt>
   <desc>South Quay East, Canary Wharf</desc>
-  <src>E056</src>
+  <src>494</src>
 </wpt>
 <wpt lat="51.505772" lon="-0.016460175">
   <name>57.ID</name>
-  <cmt>551</cmt>
+  <cmt>E04.057</cmt>
   <desc>Import Dock, Canary Wharf</desc>
-  <src>E057</src>
+  <src>551</src>
 </wpt>
 <wpt lat="51.50623" lon="-0.02296">
   <name>58.FWW</name>
-  <cmt>448</cmt>
+  <cmt>E04.058</cmt>
   <desc>Fisherman's Walk West, Canary Wharf</desc>
-  <src>E058</src>
+  <src>448</src>
 </wpt>
 <wpt lat="51.50570304" lon="-0.027772743">
   <name>59.WC</name>
-  <cmt>811</cmt>
+  <cmt>E04.059</cmt>
   <desc>Westferry Circus, Canary Wharf</desc>
-  <src>E059</src>
+  <src>811</src>
 </wpt>
 <wpt lat="51.509303" lon="-0.025996">
   <name>60.WD</name>
-  <cmt>510</cmt>
+  <cmt>E04.060</cmt>
   <desc>Westferry DLR, Limehouse</desc>
-  <src>E060</src>
+  <src>510</src>
 </wpt>
 <wpt lat="51.508896" lon="-0.012413">
   <name>61.NP</name>
-  <cmt>530</cmt>
+  <cmt>E04.061</cmt>
   <desc>Newby Place, Poplar</desc>
-  <src>E061</src>
+  <src>530</src>
 </wpt>
 <wpt lat="51.5112" lon="-0.014438">
   <name>62.CSM</name>
-  <cmt>516</cmt>
+  <cmt>E04.062</cmt>
   <desc>Chrisp Street Market, Poplar</desc>
-  <src>E062</src>
+  <src>516</src>
 </wpt>
 <wpt lat="51.513757" lon="-0.020467">
   <name>63.LS</name>
-  <cmt>469</cmt>
+  <cmt>E04.063</cmt>
   <desc>Lindfield Street, Poplar</desc>
-  <src>E063</src>
+  <src>469</src>
 </wpt>
 <wpt lat="51.511811" lon="-0.025626">
   <name>64.CS</name>
-  <cmt>487</cmt>
+  <cmt>E04.064</cmt>
   <desc>Canton Street, Poplar</desc>
-  <src>E064</src>
+  <src>487</src>
 </wpt>
 <wpt lat="51.516196" lon="-0.029138">
   <name>65.BR</name>
-  <cmt>460</cmt>
+  <cmt>E04.065</cmt>
   <desc>Burdett Road, Mile End</desc>
-  <src>E065</src>
+  <src>460</src>
 </wpt>
 <wpt lat="51.514115" lon="-0.033828">
   <name>66.SL</name>
-  <cmt>542</cmt>
+  <cmt>E04.066</cmt>
   <desc>Salmon Lane, Limehouse</desc>
-  <src>E066</src>
+  <src>542</src>
 </wpt>
 <wpt lat="51.5128711" lon="-0.0389866">
   <name>67.FS</name>
-  <cmt>480</cmt>
+  <cmt>E04.067</cmt>
   <desc>Flamborough Street, Limehouse</desc>
-  <src>E067</src>
+  <src>480</src>
 </wpt>
 <wpt lat="51.516" lon="-0.038775">
   <name>68.AS</name>
-  <cmt>461</cmt>
+  <cmt>E04.068</cmt>
   <desc>Aston Street, Stepney</desc>
-  <src>E068</src>
+  <src>461</src>
 </wpt>
 <wpt lat="51.51854104" lon="-0.034903714">
   <name>69.MES</name>
-  <cmt>712</cmt>
+  <cmt>E04.069</cmt>
   <desc>Mile End Stadium, Mile End</desc>
-  <src>E069</src>
+  <src>712</src>
 </wpt>
 <wpt lat="51.52059714" lon="-0.032566533">
   <name>70.MEPLC</name>
-  <cmt>763</cmt>
+  <cmt>E04.070</cmt>
   <desc>Mile End Park Leisure Centre, Mile End</desc>
-  <src>E070</src>
+  <src>763</src>
 </wpt>
 <wpt lat="51.525941" lon="-0.036017">
   <name>71.CR</name>
-  <cmt>522</cmt>
+  <cmt>E04.071</cmt>
   <desc>Clinton Road, Mile End</desc>
-  <src>E071</src>
+  <src>522</src>
 </wpt>
 <wpt lat="51.528224" lon="-0.037471">
   <name>72.AR</name>
-  <cmt>518</cmt>
+  <cmt>E05.072</cmt>
   <desc>Antill Road, Mile End</desc>
-  <src>E072</src>
+  <src>518</src>
 </wpt>
 <wpt lat="51.526041" lon="-0.047218">
   <name>73.BR</name>
-  <cmt>520</cmt>
+  <cmt>E05.073</cmt>
   <desc>Bancroft Road, Bethnal Green</desc>
-  <src>E073</src>
+  <src>520</src>
 </wpt>
 <wpt lat="51.522561" lon="-0.054883">
   <name>74.CS</name>
-  <cmt>501</cmt>
+  <cmt>E05.074</cmt>
   <desc>Cephas Street, Bethnal Green</desc>
-  <src>E074</src>
+  <src>501</src>
 </wpt>
 <wpt lat="51.52568" lon="-0.055312">
   <name>75.BGG</name>
-  <cmt>444</cmt>
+  <cmt>E05.075</cmt>
   <desc>Bethnal Green Garden, Bethnal Green</desc>
-  <src>E075</src>
+  <src>444</src>
 </wpt>
 <wpt lat="51.527152" lon="-0.058005">
   <name>76.PS</name>
-  <cmt>479</cmt>
+  <cmt>E05.076</cmt>
   <desc>Pott Street, Bethnal Green</desc>
-  <src>E076</src>
+  <src>479</src>
 </wpt>
 <wpt lat="51.52458353" lon="-0.058631453">
   <name>77.FS</name>
-  <cmt>722</cmt>
+  <cmt>E05.077</cmt>
   <desc>Finnis Street, Bethnal Green</desc>
-  <src>E077</src>
+  <src>722</src>
 </wpt>
 <wpt lat="51.528692" lon="-0.059091">
   <name>78.CS</name>
-  <cmt>507</cmt>
+  <cmt>E05.078</cmt>
   <desc>Clarkson Street, Bethnal Green</desc>
-  <src>E078</src>
+  <src>507</src>
 </wpt>
 <wpt lat="51.527607" lon="-0.057133">
   <name>79.HG</name>
-  <cmt>578</cmt>
+  <cmt>E05.079</cmt>
   <desc>Hollybush Gardens, Bethnal Green</desc>
-  <src>E079</src>
+  <src>578</src>
 </wpt>
 <wpt lat="51.528936" lon="-0.055894">
   <name>80.YH</name>
-  <cmt>446</cmt>
+  <cmt>E05.080</cmt>
   <desc>York Hall, Bethnal Green</desc>
-  <src>E080</src>
+  <src>446</src>
 </wpt>
 <wpt lat="51.532091" lon="-0.06142">
   <name>81.PR</name>
-  <cmt>512</cmt>
+  <cmt>E05.081</cmt>
   <desc>Pritchard's Road, Bethnal Green</desc>
-  <src>E081</src>
+  <src>512</src>
 </wpt>
 <wpt lat="51.535678" lon="-0.062546">
   <name>82.RR</name>
-  <cmt>553</cmt>
+  <cmt>E05.082</cmt>
   <desc>Regent's Row , Haggerston</desc>
-  <src>E082</src>
+  <src>553</src>
 </wpt>
 <wpt lat="51.53571683" lon="-0.060291813">
   <name>83.AS</name>
-  <cmt>718</cmt>
+  <cmt>E05.083</cmt>
   <desc>Ada Street, Hackney Central</desc>
-  <src>E083</src>
+  <src>718</src>
 </wpt>
 <wpt lat="51.54119" lon="-0.058826101">
   <name>84.LF</name>
-  <cmt>614</cmt>
+  <cmt>E05.084</cmt>
   <desc>London Fields, Hackney Central</desc>
-  <src>E084</src>
+  <src>614</src>
 </wpt>
 <wpt lat="51.539834" lon="-0.062806212">
   <name>85.LD</name>
-  <cmt>21</cmt>
+  <cmt>E05.085</cmt>
   <desc>Lansdowne Drive, Hackney Central</desc>
-  <src>E085</src>
+  <src>21</src>
 </wpt>
 <wpt lat="51.53908372" lon="-0.070329419">
   <name>86.SC</name>
-  <cmt>698</cmt>
+  <cmt>E05.086</cmt>
   <desc>Shoreditch Court, Haggerston</desc>
-  <src>E086</src>
+  <src>698</src>
 </wpt>
 <wpt lat="51.53932857" lon="-0.074284675">
   <name>87.HR</name>
-  <cmt>749</cmt>
+  <cmt>E05.087</cmt>
   <desc>Haggerston Road, Haggerston</desc>
-  <src>E087</src>
+  <src>749</src>
 </wpt>
 <wpt lat="51.5366541" lon="-0.07023031">
   <name>88.BH</name>
-  <cmt>699</cmt>
+  <cmt>E05.088</cmt>
   <desc>Belford House, Haggerston</desc>
-  <src>E088</src>
+  <src>699</src>
 </wpt>
 <wpt lat="51.53385" lon="-0.06992">
   <name>89.QR</name>
-  <cmt>536</cmt>
+  <cmt>E05.089</cmt>
   <desc>Queensbridge Road, Haggerston</desc>
-  <src>E089</src>
+  <src>536</src>
 </wpt>
 <wpt lat="51.531864" lon="-0.066035">
   <name>90.GR</name>
-  <cmt>534</cmt>
+  <cmt>E05.090</cmt>
   <desc>Goldsmith's Row, Haggerston</desc>
-  <src>E090</src>
+  <src>534</src>
 </wpt>
 <wpt lat="51.52868155" lon="-0.065550321">
   <name>91.DS</name>
-  <cmt>702</cmt>
+  <cmt>E05.091</cmt>
   <desc>Durant Street, Bethnal Green</desc>
-  <src>E091</src>
+  <src>702</src>
 </wpt>
 <wpt lat="51.528222" lon="-0.069743">
   <name>92.WR</name>
-  <cmt>533</cmt>
+  <cmt>E05.092</cmt>
   <desc>Wellington Row, Bethnal Green</desc>
-  <src>E092</src>
+  <src>533</src>
 </wpt>
 <wpt lat="51.525645" lon="-0.069543">
   <name>93.GS</name>
-  <cmt>486</cmt>
+  <cmt>E06.093</cmt>
   <desc>Granby Street, Shoreditch</desc>
-  <src>E093</src>
+  <src>486</src>
 </wpt>
 <wpt lat="51.52364804" lon="-0.074754872">
   <name>94.BGR</name>
-  <cmt>132</cmt>
+  <cmt>E06.094</cmt>
   <desc>Bethnal Green Road, Shoreditch</desc>
-  <src>E094</src>
+  <src>132</src>
 </wpt>
 <wpt lat="51.52127071" lon="-0.0755789">
   <name>95.CS</name>
-  <cmt>40</cmt>
+  <cmt>E06.095</cmt>
   <desc>Commercial Street, Shoreditch</desc>
-  <src>E095</src>
+  <src>40</src>
 </wpt>
 <wpt lat="51.519362" lon="-0.074431">
   <name>96.FS</name>
-  <cmt>508</cmt>
+  <cmt>E06.096</cmt>
   <desc>Fournier Street, Whitechapel</desc>
-  <src>E096</src>
+  <src>508</src>
 </wpt>
 <wpt lat="51.51838043" lon="-0.073438925">
   <name>97.FS</name>
-  <cmt>236</cmt>
+  <cmt>E06.097</cmt>
   <desc>Fashion Street, Whitechapel</desc>
-  <src>E097</src>
+  <src>236</src>
 </wpt>
 <wpt lat="51.51793" lon="-0.067937">
   <name>98.OMS</name>
-  <cmt>537</cmt>
+  <cmt>E06.098</cmt>
   <desc>Old Montague Street, Whitechapel</desc>
-  <src>E098</src>
+  <src>537</src>
 </wpt>
 <wpt lat="51.521776" lon="-0.068856">
   <name>99.BS1</name>
-  <cmt>390</cmt>
+  <cmt>E06.099</cmt>
   <desc>Buxton Street 1, Shoreditch</desc>
-  <src>E099</src>
+  <src>390</src>
 </wpt>
 <wpt lat="51.52261762" lon="-0.071653961">
   <name>100.BLM</name>
-  <cmt>399</cmt>
+  <cmt>E06.100</cmt>
   <desc>Brick Lane Market, Shoreditch</desc>
-  <src>E100</src>
+  <src>399</src>
 </wpt>
 <wpt lat="51.52388" lon="-0.065076">
   <name>101.CS</name>
-  <cmt>445</cmt>
+  <cmt>E06.101</cmt>
   <desc>Cheshire Street, Bethnal Green</desc>
-  <src>E101</src>
+  <src>445</src>
 </wpt>
 <wpt lat="51.521905" lon="-0.063386">
   <name>102.SS</name>
-  <cmt>565</cmt>
+  <cmt>E06.102</cmt>
   <desc>Selby Street, Whitechapel</desc>
-  <src>E102</src>
+  <src>565</src>
 </wpt>
 <wpt lat="51.520893" lon="-0.051394">
   <name>103.CW</name>
-  <cmt>503</cmt>
+  <cmt>E06.103</cmt>
   <desc>Cleveland Way, Stepney</desc>
-  <src>E103</src>
+  <src>503</src>
 </wpt>
 <wpt lat="51.521889" lon="-0.04667">
   <name>104.SGS</name>
-  <cmt>478</cmt>
+  <cmt>E06.104</cmt>
   <desc>Stepney Green Station, Stepney</desc>
-  <src>E104</src>
+  <src>478</src>
 </wpt>
 <wpt lat="51.518369" lon="-0.043371">
   <name>105.RS</name>
-  <cmt>561</cmt>
+  <cmt>E06.105</cmt>
   <desc>Rectory Square, Stepney</desc>
-  <src>E105</src>
+  <src>561</src>
 </wpt>
 <wpt lat="51.521564" lon="-0.039264">
   <name>106.HS</name>
-  <cmt>550</cmt>
+  <cmt>E06.106</cmt>
   <desc>Harford Street, Mile End</desc>
-  <src>E106</src>
+  <src>550</src>
 </wpt>
 <wpt lat="51.522507" lon="-0.041378">
   <name>107.QM</name>
-  <cmt>491</cmt>
+  <cmt>E06.107</cmt>
   <desc>Queen Mary's, Mile End</desc>
-  <src>E107</src>
+  <src>491</src>
 </wpt>
 <wpt lat="51.520019" lon="-0.05438">
   <name>108.AH</name>
-  <cmt>500</cmt>
+  <cmt>E06.108</cmt>
   <desc>Ansell House, Stepney</desc>
-  <src>E108</src>
+  <src>500</src>
 </wpt>
 <wpt lat="51.518675" lon="-0.06111">
   <name>109.RLH</name>
-  <cmt>282</cmt>
+  <cmt>E06.109</cmt>
   <desc>Royal London Hospital, Whitechapel</desc>
-  <src>E109</src>
+  <src>282</src>
 </wpt>
 <wpt lat="51.518154" lon="-0.062697">
   <name>110.NR1</name>
-  <cmt>206</cmt>
+  <cmt>E06.110</cmt>
   <desc>New Road 1 , Whitechapel</desc>
-  <src>E110</src>
+  <src>206</src>
 </wpt>
 <wpt lat="51.515256" lon="-0.058641">
   <name>111.PS</name>
-  <cmt>443</cmt>
+  <cmt>E06.111</cmt>
   <desc>Philpot Street, Whitechapel</desc>
-  <src>E111</src>
+  <src>443</src>
 </wpt>
 <wpt lat="51.515975" lon="-0.053177">
   <name>112.JS</name>
-  <cmt>450</cmt>
+  <cmt>E06.112</cmt>
   <desc>Jubilee Street, Stepney</desc>
-  <src>E112</src>
+  <src>450</src>
 </wpt>
 <wpt lat="51.51417" lon="-0.052099">
   <name>113.SMSMC</name>
-  <cmt>464</cmt>
+  <cmt>E07.113</cmt>
   <desc>St. Mary &amp;amp; St. Michael Church, Stepney</desc>
-  <src>E113</src>
+  <src>464</src>
 </wpt>
 <wpt lat="51.51563007" lon="-0.049067243">
   <name>114.AS</name>
-  <cmt>715</cmt>
+  <cmt>E07.114</cmt>
   <desc>Aylward Street, Stepney</desc>
-  <src>E114</src>
+  <src>715</src>
 </wpt>
 <wpt lat="51.51328" lon="-0.047784">
   <name>115.AG</name>
-  <cmt>483</cmt>
+  <cmt>E07.115</cmt>
   <desc>Albert Gardens, Stepney</desc>
-  <src>E115</src>
+  <src>483</src>
 </wpt>
 <wpt lat="51.5142228" lon="-0.055656">
   <name>116.WM</name>
-  <cmt>513</cmt>
+  <cmt>E07.116</cmt>
   <desc>Watney Market, Stepney</desc>
-  <src>E116</src>
+  <src>513</src>
 </wpt>
 <wpt lat="51.511066" lon="-0.053558">
   <name>117.SS</name>
-  <cmt>511</cmt>
+  <cmt>E07.117</cmt>
   <desc>Sutton Street, Shadwell</desc>
-  <src>E117</src>
+  <src>511</src>
 </wpt>
 <wpt lat="51.511542" lon="-0.056667">
   <name>118.WS</name>
-  <cmt>552</cmt>
+  <cmt>E07.118</cmt>
   <desc>Watney Street, Shadwell</desc>
-  <src>E118</src>
+  <src>552</src>
 </wpt>
 <wpt lat="51.511088" lon="-0.057159">
   <name>119.SS</name>
-  <cmt>449</cmt>
+  <cmt>E07.119</cmt>
   <desc>Shadwell Station, Shadwell</desc>
-  <src>E119</src>
+  <src>449</src>
 </wpt>
 <wpt lat="51.508447" lon="-0.055167">
   <name>120.GS</name>
-  <cmt>453</cmt>
+  <cmt>E07.120</cmt>
   <desc>Garnet Street, Shadwell</desc>
-  <src>E120</src>
+  <src>453</src>
 </wpt>
 <wpt lat="51.504749" lon="-0.057544">
   <name>121.WL</name>
-  <cmt>458</cmt>
+  <cmt>E07.121</cmt>
   <desc>Wapping Lane, Wapping</desc>
-  <src>E121</src>
+  <src>458</src>
 </wpt>
 <wpt lat="51.506946" lon="-0.058681">
   <name>122.RS</name>
-  <cmt>488</cmt>
+  <cmt>E07.122</cmt>
   <desc>Reardon Street, Wapping</desc>
-  <src>E122</src>
+  <src>488</src>
 </wpt>
 <wpt lat="51.504719" lon="-0.063531">
   <name>123.HC</name>
-  <cmt>451</cmt>
+  <cmt>E07.123</cmt>
   <desc>Hermitage Court, Wapping</desc>
-  <src>E123</src>
+  <src>451</src>
 </wpt>
 <wpt lat="51.504904" lon="-0.06797">
   <name>124.WHS</name>
-  <cmt>134</cmt>
+  <cmt>E07.124</cmt>
   <desc>Wapping High Street, Wapping</desc>
-  <src>E124</src>
+  <src>134</src>
 </wpt>
 <wpt lat="51.507131" lon="-0.06691">
   <name>125.NS</name>
-  <cmt>46</cmt>
+  <cmt>E07.125</cmt>
   <desc>Nesham Street, Wapping</desc>
-  <src>E125</src>
+  <src>46</src>
 </wpt>
 <wpt lat="51.50978602" lon="-0.068161981">
   <name>126.DS</name>
-  <cmt>237</cmt>
+  <cmt>E07.126</cmt>
   <desc>Dock Street, Wapping</desc>
-  <src>E126</src>
+  <src>237</src>
 </wpt>
 <wpt lat="51.51236389" lon="-0.06954201">
   <name>127.LS</name>
-  <cmt>202</cmt>
+  <cmt>E07.127</cmt>
   <desc>Leman Street, Aldgate</desc>
-  <src>E127</src>
+  <src>202</src>
 </wpt>
 <wpt lat="51.51492456" lon="-0.066078037">
   <name>128.LCR</name>
-  <cmt>200</cmt>
+  <cmt>E07.128</cmt>
   <desc>LMU Commercial Road, Whitechapel</desc>
-  <src>E128</src>
+  <src>200</src>
 </wpt>
 <wpt lat="51.51423368" lon="-0.073537654">
   <name>129.BS</name>
-  <cmt>115</cmt>
+  <cmt>E07.129</cmt>
   <desc>Braham Street, Aldgate</desc>
-  <src>E129</src>
+  <src>115</src>
 </wpt>
 <wpt lat="51.51422502" lon="-0.080660083">
   <name>130.SMA</name>
-  <cmt>263</cmt>
+  <cmt>E07.130</cmt>
   <desc>St. Mary Axe, Aldgate</desc>
-  <src>E130</src>
+  <src>263</src>
 </wpt>
 <wpt lat="51.514449" lon="-0.077178979">
   <name>131.H</name>
-  <cmt>779</cmt>
+  <cmt>E07.131</cmt>
   <desc>Houndsditch, Aldgate</desc>
-  <src>E131</src>
+  <src>779</src>
 </wpt>
 <wpt lat="51.51340693" lon="-0.076793375">
   <name>132.JS</name>
-  <cmt>102</cmt>
+  <cmt>E07.132</cmt>
   <desc>Jewry Street, Aldgate</desc>
-  <src>E132</src>
+  <src>102</src>
 </wpt>
 <wpt lat="51.51159481" lon="-0.077121322">
   <name>133.C</name>
-  <cmt>104</cmt>
+  <cmt>E07.133</cmt>
   <desc>Crosswall, Tower</desc>
-  <src>E133</src>
+  <src>104</src>
 </wpt>
 <wpt lat="51.50950627" lon="-0.075459482">
   <name>134.TG</name>
-  <cmt>130</cmt>
+  <cmt>E07.134</cmt>
   <desc>Tower Gardens , Tower</desc>
-  <src>E134</src>
+  <src>130</src>
 </wpt>
 <wpt lat="51.51048489" lon="-0.082989638">
   <name>135.GTS</name>
-  <cmt>199</cmt>
+  <cmt>E07.135</cmt>
   <desc>Great Tower Street, Monument</desc>
-  <src>E135</src>
+  <src>199</src>
 </wpt>
 <wpt lat="51.50964" lon="-0.08497">
   <name>136.MS</name>
-  <cmt>587</cmt>
+  <cmt>E07.136</cmt>
   <desc>Monument Street, Monument</desc>
-  <src>E136</src>
+  <src>587</src>
 </wpt>
 <wpt lat="51.511246" lon="-0.093051">
   <name>137.QS2</name>
-  <cmt>579</cmt>
+  <cmt>E08.137</cmt>
   <desc>Queen Street 2, Bank</desc>
-  <src>E137</src>
+  <src>579</src>
 </wpt>
 <wpt lat="51.51155322" lon="-0.0929401">
   <name>138.QS1</name>
-  <cmt>101</cmt>
+  <cmt>E08.138</cmt>
   <desc>Queen Street 1, Bank</desc>
-  <src>E138</src>
+  <src>101</src>
 </wpt>
 <wpt lat="51.51196176" lon="-0.097441687">
   <name>139.QVS</name>
-  <cmt>136</cmt>
+  <cmt>E08.139</cmt>
   <desc>Queen Victoria Street, St. Paul's</desc>
-  <src>E139</src>
+  <src>136</src>
 </wpt>
 <wpt lat="51.51248445" lon="-0.099141408">
   <name>140.GS</name>
-  <cmt>48</cmt>
+  <cmt>E08.140</cmt>
   <desc>Godliman Street, St. Paul's</desc>
-  <src>E140</src>
+  <src>48</src>
 </wpt>
 <wpt lat="51.511934" lon="-0.10307894">
   <name>141.BS</name>
-  <cmt>659</cmt>
+  <cmt>E08.141</cmt>
   <desc>Blackfriars Station, St. Paul's</desc>
-  <src>E141</src>
+  <src>659</src>
 </wpt>
 <wpt lat="51.510981" lon="-0.10832249">
   <name>142.TG</name>
-  <cmt>842</cmt>
+  <cmt>E08.142</cmt>
   <desc>Temple Gardens, Temple</desc>
-  <src>E142</src>
+  <src>842</src>
 </wpt>
 <wpt lat="51.511891" lon="-0.107349">
   <name>143.TS</name>
-  <cmt>773</cmt>
+  <cmt>E08.143</cmt>
   <desc>Tallis Street, Temple</desc>
-  <src>E143</src>
+  <src>773</src>
 </wpt>
 <wpt lat="51.51382102" lon="-0.107927706">
   <name>144.BS</name>
-  <cmt>27</cmt>
+  <cmt>E08.144</cmt>
   <desc>Bouverie Street, Temple</desc>
-  <src>E144</src>
+  <src>27</src>
 </wpt>
 <wpt lat="51.51505991" lon="-0.10534448">
   <name>145.SBS</name>
-  <cmt>703</cmt>
+  <cmt>E08.145</cmt>
   <desc>St. Bride Street, Holborn</desc>
-  <src>E145</src>
+  <src>703</src>
 </wpt>
 <wpt lat="51.51580998" lon="-0.105270275">
   <name>146.SS</name>
-  <cmt>112</cmt>
+  <cmt>E08.146</cmt>
   <desc>Stonecutter Street, Holborn</desc>
-  <src>E146</src>
+  <src>112</src>
 </wpt>
 <wpt lat="51.516785" lon="-0.10494775">
   <name>147.FS</name>
-  <cmt>835</cmt>
+  <cmt>E08.147</cmt>
   <desc>Farringdon Street, Holborn</desc>
-  <src>E147</src>
+  <src>835</src>
 </wpt>
 <wpt lat="51.51733427" lon="-0.103604248">
   <name>148.SH</name>
-  <cmt>393</cmt>
+  <cmt>E08.148</cmt>
   <desc>Snow Hill, Farringdon</desc>
-  <src>E148</src>
+  <src>393</src>
 </wpt>
 <wpt lat="51.51821864" lon="-0.100791005">
   <name>149.WSR</name>
-  <cmt>203</cmt>
+  <cmt>E08.149</cmt>
   <desc>West Smithfield Rotunda, Farringdon</desc>
-  <src>E149</src>
+  <src>203</src>
 </wpt>
 <wpt lat="51.51782144" lon="-0.096496865">
   <name>150.MoL</name>
-  <cmt>126</cmt>
+  <cmt>E08.150</cmt>
   <desc>Museum of London, Barbican</desc>
-  <src>E150</src>
+  <src>126</src>
 </wpt>
 <wpt lat="51.5154186" lon="-0.098850915">
   <name>151.NS</name>
-  <cmt>71</cmt>
+  <cmt>E08.151</cmt>
   <desc>Newgate Street , St. Paul's</desc>
-  <src>E151</src>
+  <src>71</src>
 </wpt>
 <wpt lat="51.51601" lon="-0.0985">
   <name>152.KES</name>
-  <cmt>557</cmt>
+  <cmt>E08.152</cmt>
   <desc>King Edward Street, St Pauls</desc>
-  <src>E152</src>
+  <src>557</src>
 </wpt>
 <wpt lat="51.51397065" lon="-0.09294031">
   <name>153.C</name>
-  <cmt>427</cmt>
+  <cmt>E08.153</cmt>
   <desc>Cheapside, Bank</desc>
-  <src>E153</src>
+  <src>427</src>
 </wpt>
 <wpt lat="51.51444134" lon="-0.087587447">
   <name>154.BoEM</name>
-  <cmt>340</cmt>
+  <cmt>E08.154</cmt>
   <desc>Bank of England Museum, Bank</desc>
-  <src>E154</src>
+  <src>340</src>
 </wpt>
 <wpt lat="51.51573534" lon="-0.093080779">
   <name>155.TG</name>
-  <cmt>120</cmt>
+  <cmt>E08.155</cmt>
   <desc>The Guildhall, Guildhall</desc>
-  <src>E155</src>
+  <src>120</src>
 </wpt>
 <wpt lat="51.51700801" lon="-0.09388536">
   <name>156.WS</name>
-  <cmt>127</cmt>
+  <cmt>E08.156</cmt>
   <desc>Wood Street, Guildhall</desc>
-  <src>E156</src>
+  <src>127</src>
 </wpt>
 <wpt lat="51.518093" lon="-0.0914017">
   <name>157.FSA</name>
-  <cmt>838</cmt>
+  <cmt>E08.157</cmt>
   <desc>Fore Street Avenue, Guildhall</desc>
-  <src>E157</src>
+  <src>838</src>
 </wpt>
 <wpt lat="51.517842" lon="-0.090075">
   <name>158.FS</name>
-  <cmt>509</cmt>
+  <cmt>E08.158</cmt>
   <desc>Fore Street, Guildhall</desc>
-  <src>E158</src>
+  <src>509</src>
 </wpt>
 <wpt lat="51.51707521" lon="-0.086685542">
   <name>159.FC</name>
-  <cmt>55</cmt>
+  <cmt>E08.159</cmt>
   <desc>Finsbury Circus, Liverpool Street</desc>
-  <src>E159</src>
+  <src>55</src>
 </wpt>
 <wpt lat="51.51615461" lon="-0.082422399">
   <name>160.WS</name>
-  <cmt>217</cmt>
+  <cmt>E08.160</cmt>
   <desc>Wormwood Street, Liverpool Street</desc>
-  <src>E160</src>
+  <src>217</src>
 </wpt>
 <wpt lat="51.51646835" lon="-0.079684557">
   <name>161.DS</name>
-  <cmt>87</cmt>
+  <cmt>E08.161</cmt>
   <desc>Devonshire Square, Liverpool Street</desc>
-  <src>E161</src>
+  <src>87</src>
 </wpt>
 <wpt lat="51.517475" lon="-0.075855">
   <name>162.BL</name>
-  <cmt>506</cmt>
+  <cmt>E08.162</cmt>
   <desc>Bell Lane, Liverpool Street</desc>
-  <src>E162</src>
+  <src>506</src>
 </wpt>
 <wpt lat="51.518908" lon="-0.079249">
   <name>163.BS</name>
-  <cmt>251</cmt>
+  <cmt>E08.163</cmt>
   <desc>Brushfield Street, Liverpool Street</desc>
-  <src>E163</src>
+  <src>251</src>
 </wpt>
 <wpt lat="51.52111369" lon="-0.078869751">
   <name>164.NF</name>
-  <cmt>122</cmt>
+  <cmt>E08.164</cmt>
   <desc>Norton Folgate, Liverpool Street</desc>
-  <src>E164</src>
+  <src>122</src>
 </wpt>
 <wpt lat="51.521668" lon="-0.079608554">
   <name>165.WS</name>
-  <cmt>175</cmt>
+  <cmt>E08.165</cmt>
   <desc>Worship Street, Shoreditch</desc>
-  <src>E165</src>
+  <src>175</src>
 </wpt>
 <wpt lat="51.520009" lon="-0.083935724">
   <name>166.SS</name>
-  <cmt>408</cmt>
+  <cmt>E08.166</cmt>
   <desc>Sun Street, Liverpool Street</desc>
-  <src>E166</src>
+  <src>408</src>
 </wpt>
 <wpt lat="51.52096262" lon="-0.085634242">
   <name>167.FS</name>
-  <cmt>140</cmt>
+  <cmt>E09.167</cmt>
   <desc>Finsbury Square , Moorgate</desc>
-  <src>E167</src>
+  <src>140</src>
 </wpt>
 <wpt lat="51.52128377" lon="-0.084605692">
   <name>168.CS</name>
-  <cmt>3</cmt>
+  <cmt>E09.168</cmt>
   <desc>Christopher Street, Liverpool Street</desc>
-  <src>E168</src>
+  <src>3</src>
 </wpt>
 <wpt lat="51.520955" lon="-0.083493552">
   <name>169.PS</name>
-  <cmt>41</cmt>
+  <cmt>E09.169</cmt>
   <desc>Pindar Street, Liverpool Street</desc>
-  <src>E169</src>
+  <src>41</src>
 </wpt>
 <wpt lat="51.523196" lon="-0.083067">
   <name>170.CS</name>
-  <cmt>323</cmt>
+  <cmt>E09.170</cmt>
   <desc>Clifton Street, Shoreditch</desc>
-  <src>E170</src>
+  <src>323</src>
 </wpt>
 <wpt lat="51.52469624" lon="-0.084439283">
   <name>171.LC</name>
-  <cmt>32</cmt>
+  <cmt>E09.171</cmt>
   <desc>Leonard Circus , Shoreditch</desc>
-  <src>E171</src>
+  <src>32</src>
 </wpt>
 <wpt lat="51.52452699" lon="-0.079248081">
   <name>172.NIY</name>
-  <cmt>58</cmt>
+  <cmt>E09.172</cmt>
   <desc>New Inn Yard, Shoreditch</desc>
-  <src>E172</src>
+  <src>58</src>
 </wpt>
 <wpt lat="51.5263778" lon="-0.078130921">
   <name>173.SHS</name>
-  <cmt>39</cmt>
+  <cmt>E09.173</cmt>
   <desc>Shoreditch High Street, Shoreditch</desc>
-  <src>E173</src>
+  <src>39</src>
 </wpt>
 <wpt lat="51.526293" lon="-0.073955">
   <name>174.PS</name>
-  <cmt>322</cmt>
+  <cmt>E09.174</cmt>
   <desc>Palissy Street, Shoreditch</desc>
-  <src>E174</src>
+  <src>322</src>
 </wpt>
 <wpt lat="51.528187" lon="-0.075375">
   <name>175.CR</name>
-  <cmt>401</cmt>
+  <cmt>E09.175</cmt>
   <desc>Columbia Road, Shoreditch</desc>
-  <src>E175</src>
+  <src>401</src>
 </wpt>
 <wpt lat="51.531091" lon="-0.075901">
   <name>176.HS</name>
-  <cmt>539</cmt>
+  <cmt>E09.176</cmt>
   <desc>Hoxton Station, Hoxton</desc>
-  <src>E176</src>
+  <src>539</src>
 </wpt>
 <wpt lat="51.53095071" lon="-0.078505384">
   <name>177.FS</name>
-  <cmt>96</cmt>
+  <cmt>E09.177</cmt>
   <desc>Falkirk Street, Hoxton</desc>
-  <src>E177</src>
+  <src>96</src>
 </wpt>
 <wpt lat="51.52959" lon="-0.0801">
   <name>178.HS</name>
-  <cmt>588</cmt>
+  <cmt>E09.178</cmt>
   <desc>Hoxton Street, Hoxton</desc>
-  <src>E178</src>
+  <src>588</src>
 </wpt>
 <wpt lat="51.52953709" lon="-0.083353323">
   <name>179.FS</name>
-  <cmt>31</cmt>
+  <cmt>E09.179</cmt>
   <desc>Fanshaw Street, Hoxton</desc>
-  <src>E179</src>
+  <src>31</src>
 </wpt>
 <wpt lat="51.53213" lon="-0.08299">
   <name>180.PSC</name>
-  <cmt>569</cmt>
+  <cmt>E09.180</cmt>
   <desc>Pitfield Street Central, Hoxton</desc>
-  <src>E180</src>
+  <src>569</src>
 </wpt>
 <wpt lat="51.534464" lon="-0.076341">
   <name>181.WR</name>
-  <cmt>466</cmt>
+  <cmt>E09.181</cmt>
   <desc>Whiston Road, Haggerston</desc>
-  <src>E181</src>
+  <src>466</src>
 </wpt>
 <wpt lat="51.534776" lon="-0.071881">
   <name>182.TR</name>
-  <cmt>463</cmt>
+  <cmt>E09.182</cmt>
   <desc>Thurtle Road, Haggerston</desc>
-  <src>E182</src>
+  <src>463</src>
 </wpt>
 <wpt lat="51.53658514" lon="-0.075885686">
   <name>183.DR</name>
-  <cmt>717</cmt>
+  <cmt>E09.183</cmt>
   <desc>Dunston Road , Haggerston</desc>
-  <src>E183</src>
+  <src>717</src>
 </wpt>
 <wpt lat="51.53727795" lon="-0.079201849">
   <name>184.HR</name>
-  <cmt>748</cmt>
+  <cmt>E09.184</cmt>
   <desc>Hertford Road, De Beauvoir Town</desc>
-  <src>E184</src>
+  <src>748</src>
 </wpt>
 <wpt lat="51.53558" lon="-0.08249">
   <name>185.PSN</name>
-  <cmt>465</cmt>
+  <cmt>E09.185</cmt>
   <desc>Pitfield Street North,Hoxton</desc>
-  <src>E185</src>
+  <src>465</src>
 </wpt>
 <wpt lat="51.53404294" lon="-0.086379717">
   <name>186.SP</name>
-  <cmt>253</cmt>
+  <cmt>E09.186</cmt>
   <desc>Shoreditch Park, Hoxton</desc>
-  <src>E186</src>
+  <src>253</src>
 </wpt>
 <wpt lat="51.53356" lon="-0.09315">
   <name>187.EWR</name>
-  <cmt>574</cmt>
+  <cmt>E09.187</cmt>
   <desc>Eagle Wharf Road, Hoxton</desc>
-  <src>E187</src>
+  <src>574</src>
 </wpt>
 <wpt lat="51.53099181" lon="-0.093903825">
   <name>188.WR</name>
-  <cmt>42</cmt>
+  <cmt>E09.188</cmt>
   <desc>Wenlock Road , Hoxton</desc>
-  <src>E188</src>
+  <src>42</src>
 </wpt>
 <wpt lat="51.52915444" lon="-0.093421615">
   <name>189.WT</name>
-  <cmt>30</cmt>
+  <cmt>E09.189</cmt>
   <desc>Windsor Terrace, Hoxton</desc>
-  <src>E189</src>
+  <src>30</src>
 </wpt>
 <wpt lat="51.53089041" lon="-0.089782579">
   <name>190.MG</name>
-  <cmt>63</cmt>
+  <cmt>E09.190</cmt>
   <desc>Murray Grove , Hoxton</desc>
-  <src>E190</src>
+  <src>63</src>
 </wpt>
 <wpt lat="51.53095" lon="-0.085603">
   <name>191.NNR1</name>
-  <cmt>327</cmt>
+  <cmt>E09.191</cmt>
   <desc>New North Road 1, Hoxton</desc>
-  <src>E191</src>
+  <src>327</src>
 </wpt>
 <wpt lat="51.53114" lon="-0.086016">
   <name>192.NNR2</name>
-  <cmt>328</cmt>
+  <cmt>E09.192</cmt>
   <desc>New North Road 2, Hoxton</desc>
-  <src>E192</src>
+  <src>328</src>
 </wpt>
 <wpt lat="51.52867339" lon="-0.087459376">
   <name>193.ER</name>
-  <cmt>50</cmt>
+  <cmt>E09.193</cmt>
   <desc>East Road, Hoxton</desc>
-  <src>E193</src>
+  <src>50</src>
 </wpt>
 <wpt lat="51.52702563" lon="-0.088542771">
   <name>194.BS</name>
-  <cmt>319</cmt>
+  <cmt>E09.194</cmt>
   <desc>Baldwin Street, St. Luke's</desc>
-  <src>E194</src>
+  <src>319</src>
 </wpt>
 <wpt lat="51.52589324" lon="-0.090847761">
   <name>195.BS</name>
-  <cmt>119</cmt>
+  <cmt>E10.195</cmt>
   <desc>Bath Street, St. Luke's</desc>
-  <src>E195</src>
+  <src>119</src>
 </wpt>
 <wpt lat="51.52548" lon="-0.089659871">
   <name>196.OSS</name>
-  <cmt>73</cmt>
+  <cmt>E10.196</cmt>
   <desc>Old Street Station, St. Luke's</desc>
-  <src>E196</src>
+  <src>73</src>
 </wpt>
 <wpt lat="51.52085887" lon="-0.089887855">
   <name>197.BR</name>
-  <cmt>331</cmt>
+  <cmt>E10.197</cmt>
   <desc>Bunhill Row, Moorgate</desc>
-  <src>E197</src>
+  <src>331</src>
 </wpt>
 <wpt lat="51.51906932" lon="-0.088285377">
   <name>198.M</name>
-  <cmt>215</cmt>
+  <cmt>E10.198</cmt>
   <desc>Moorfields, Moorgate</desc>
-  <src>E198</src>
+  <src>215</src>
 </wpt>
 <wpt lat="51.52004497" lon="-0.092176447">
   <name>199.BC</name>
-  <cmt>275</cmt>
+  <cmt>E10.199</cmt>
   <desc>Barbican Centre, Barbican</desc>
-  <src>E199</src>
+  <src>275</src>
 </wpt>
 <wpt lat="51.52174785" lon="-0.094475072">
   <name>200.GL</name>
-  <cmt>54</cmt>
+  <cmt>E10.200</cmt>
   <desc>Golden Lane, Barbican</desc>
-  <src>E200</src>
+  <src>54</src>
 </wpt>
 <wpt lat="51.52295439" lon="-0.094934859">
   <name>201.RS</name>
-  <cmt>52</cmt>
+  <cmt>E10.201</cmt>
   <desc>Roscoe Street, St. Luke's</desc>
-  <src>E201</src>
+  <src>52</src>
 </wpt>
 <wpt lat="51.5208417" lon="-0.097340162">
   <name>202.AS</name>
-  <cmt>95</cmt>
+  <cmt>E10.202</cmt>
   <desc>Aldersgate Street, Barbican</desc>
-  <src>E202</src>
+  <src>95</src>
 </wpt>
 <wpt lat="51.52285301" lon="-0.099994052">
   <name>203.BS</name>
-  <cmt>246</cmt>
+  <cmt>E10.203</cmt>
   <desc>Berry Street, Clerkenwell</desc>
-  <src>E203</src>
+  <src>246</src>
 </wpt>
 <wpt lat="51.52486887" lon="-0.099489485">
   <name>204.SSC</name>
-  <cmt>78</cmt>
+  <cmt>E10.204</cmt>
   <desc>Sadlers Sports Centre, Finsbury</desc>
-  <src>E204</src>
+  <src>78</src>
 </wpt>
 <wpt lat="51.52600832" lon="-0.096317627">
   <name>205.FLC</name>
-  <cmt>107</cmt>
+  <cmt>E10.205</cmt>
   <desc>Finsbury Leisure Centre, St. Luke's</desc>
-  <src>E205</src>
+  <src>107</src>
 </wpt>
 <wpt lat="51.529423" lon="-0.097122">
   <name>206.MR</name>
-  <cmt>351</cmt>
+  <cmt>E10.206</cmt>
   <desc>Macclesfield Rd, St Lukes</desc>
-  <src>E206</src>
+  <src>351</src>
 </wpt>
 <wpt lat="51.530344" lon="-0.100168">
   <name>207.CR</name>
-  <cmt>365</cmt>
+  <cmt>E10.207</cmt>
   <desc>City Road, Angel</desc>
-  <src>E207</src>
+  <src>365</src>
 </wpt>
 <wpt lat="51.528246" lon="-0.10102611">
   <name>208.GRCU</name>
-  <cmt>344</cmt>
+  <cmt>E10.208</cmt>
   <desc>Goswell Road (City Uni), Finsbury</desc>
-  <src>E208</src>
+  <src>344</src>
 </wpt>
 <wpt lat="51.52836014" lon="-0.104724625">
   <name>209.SJS</name>
-  <cmt>123</cmt>
+  <cmt>E10.209</cmt>
   <desc>St. John Street, Finsbury</desc>
-  <src>E209</src>
+  <src>123</src>
 </wpt>
 <wpt lat="51.52671796" lon="-0.104298194">
   <name>210.FL</name>
-  <cmt>51</cmt>
+  <cmt>E10.210</cmt>
   <desc>Finsbury Library , Finsbury</desc>
-  <src>E210</src>
+  <src>51</src>
 </wpt>
 <wpt lat="51.526153" lon="-0.102208">
   <name>211.PS</name>
-  <cmt>544</cmt>
+  <cmt>E10.211</cmt>
   <desc>Percival Street, Finsbury</desc>
-  <src>E211</src>
+  <src>544</src>
 </wpt>
 <wpt lat="51.52326004" lon="-0.104708922">
   <name>212.CG</name>
-  <cmt>135</cmt>
+  <cmt>E10.212</cmt>
   <desc>Clerkenwell Green, Clerkenwell</desc>
-  <src>E212</src>
+  <src>135</src>
 </wpt>
 <wpt lat="51.52352001" lon="-0.108340165">
   <name>213.FL</name>
-  <cmt>72</cmt>
+  <cmt>E10.213</cmt>
   <desc>Farringdon Lane, Clerkenwell</desc>
-  <src>E213</src>
+  <src>72</src>
 </wpt>
 <wpt lat="51.51795029" lon="-0.108657431">
   <name>214.HC</name>
-  <cmt>66</cmt>
+  <cmt>E10.214</cmt>
   <desc>Holborn Circus, Holborn</desc>
-  <src>E214</src>
+  <src>66</src>
 </wpt>
 <wpt lat="51.517428" lon="-0.107987">
   <name>215.NFL</name>
-  <cmt>546</cmt>
+  <cmt>E10.215</cmt>
   <desc>New Fetter Lane, Holborn</desc>
-  <src>E215</src>
+  <src>546</src>
 </wpt>
 <wpt lat="51.51882555" lon="-0.108028472">
   <name>216.HG</name>
-  <cmt>67</cmt>
+  <cmt>E10.216</cmt>
   <desc>Hatton Garden, Holborn</desc>
-  <src>E216</src>
+  <src>67</src>
 </wpt>
 <wpt lat="51.5216612" lon="-0.109006325">
   <name>217.HW</name>
-  <cmt>17</cmt>
+  <cmt>E10.217</cmt>
   <desc>Hatton Wall, Holborn</desc>
-  <src>E217</src>
+  <src>17</src>
 </wpt>
 <wpt lat="51.5222641" lon="-0.114079481">
   <name>218.NS</name>
-  <cmt>22</cmt>
+  <cmt>E10.218</cmt>
   <desc>Northington Street , Holborn</desc>
-  <src>E218</src>
+  <src>22</src>
 </wpt>
 <wpt lat="51.524564" lon="-0.116279">
   <name>219.WS</name>
-  <cmt>433</cmt>
+  <cmt>E10.219</cmt>
   <desc>Wren Street, Holborn</desc>
-  <src>E219</src>
+  <src>433</src>
 </wpt>
 <wpt lat="51.52659961" lon="-0.112432615">
   <name>220.MS</name>
-  <cmt>204</cmt>
+  <cmt>E10.220</cmt>
   <desc>Margery Street, Clerkenwell</desc>
-  <src>E220</src>
+  <src>204</src>
 </wpt>
 <wpt lat="51.52644342" lon="-0.109256828">
   <name>221.TS</name>
-  <cmt>264</cmt>
+  <cmt>E10.221</cmt>
   <desc>Tysoe Street, Clerkenwell</desc>
-  <src>E221</src>
+  <src>264</src>
 </wpt>
 <wpt lat="51.52784273" lon="-0.108068155">
   <name>222.HS</name>
-  <cmt>170</cmt>
+  <cmt>E10.222</cmt>
   <desc>Hardwick Street, Clerkenwell</desc>
-  <src>E222</src>
+  <src>170</src>
 </wpt>
 <wpt lat="51.52916347" lon="-0.109970527">
   <name>223.RS</name>
-  <cmt>1</cmt>
+  <cmt>E10.223</cmt>
   <desc>River Street , Clerkenwell</desc>
-  <src>E223</src>
+  <src>1</src>
 </wpt>
 <wpt lat="51.53051587" lon="-0.106408455">
   <name>224.CS</name>
-  <cmt>254</cmt>
+  <cmt>E10.224</cmt>
   <desc>Chadwell Street, Angel</desc>
-  <src>E224</src>
+  <src>254</src>
 </wpt>
 <wpt lat="51.53166681" lon="-0.109914711">
   <name>225.CS</name>
-  <cmt>189</cmt>
+  <cmt>E11.225</cmt>
   <desc>Claremont Square, Angel</desc>
-  <src>E225</src>
+  <src>189</src>
 </wpt>
 <wpt lat="51.5333196" lon="-0.1117812">
   <name>226.RS</name>
-  <cmt>339</cmt>
+  <cmt>E11.226</cmt>
   <desc>Risinghill Street, Angel</desc>
-  <src>E226</src>
+  <src>339</src>
 </wpt>
 <wpt lat="51.53440868" lon="-0.109025404">
   <name>227.CR</name>
-  <cmt>93</cmt>
+  <cmt>E11.227</cmt>
   <desc>Cloudesley Road, Angel</desc>
-  <src>E227</src>
+  <src>93</src>
 </wpt>
 <wpt lat="51.53450449" lon="-0.106992706">
   <name>228.LRNC</name>
-  <cmt>234</cmt>
+  <cmt>E11.228</cmt>
   <desc>Liverpool Road (N1 Centre), Angel</desc>
-  <src>E228</src>
+  <src>234</src>
 </wpt>
 <wpt lat="51.53219984" lon="-0.105480698">
   <name>229.TS</name>
-  <cmt>75</cmt>
+  <cmt>E11.229</cmt>
   <desc>Torrens Street, Angel</desc>
-  <src>E229</src>
+  <src>75</src>
 </wpt>
 <wpt lat="51.53266186" lon="-0.099981142">
   <name>230.GS</name>
-  <cmt>326</cmt>
+  <cmt>E11.230</cmt>
   <desc>Graham Street, Angel</desc>
-  <src>E230</src>
+  <src>326</src>
 </wpt>
 <wpt lat="51.53638435" lon="-0.102757578">
   <name>231.IG</name>
-  <cmt>695</cmt>
+  <cmt>E11.231</cmt>
   <desc>Islington Green, Angel</desc>
-  <src>E231</src>
+  <src>695</src>
 </wpt>
 <wpt lat="51.53639219" lon="-0.112721065">
   <name>232.CT</name>
-  <cmt>697</cmt>
+  <cmt>E11.232</cmt>
   <desc>Charlotte Terrace, Angel</desc>
-  <src>E232</src>
+  <src>697</src>
 </wpt>
 <wpt lat="51.53546778" lon="-0.11619105">
   <name>233.CS</name>
-  <cmt>674</cmt>
+  <cmt>E11.233</cmt>
   <desc>Carnegie Street, King's Cross</desc>
-  <src>E233</src>
+  <src>674</src>
 </wpt>
 <wpt lat="51.541596" lon="-0.12544145">
   <name>234.YW</name>
-  <cmt>836</cmt>
+  <cmt>E11.234</cmt>
   <desc>York Way, Kings Cross</desc>
-  <src>E234</src>
+  <src>836</src>
 </wpt>
 <wpt lat="51.53724056" lon="-0.124807386">
   <name>235.HS</name>
-  <cmt>806</cmt>
+  <cmt>E11.235</cmt>
   <desc>Handyside Street, King's Cross</desc>
-  <src>E235</src>
+  <src>806</src>
 </wpt>
 <wpt lat="51.5341235" lon="-0.129386874">
   <name>236.PR</name>
-  <cmt>34</cmt>
+  <cmt>E11.236</cmt>
   <desc>Pancras Road, King's Cross</desc>
-  <src>E236</src>
+  <src>34</src>
 </wpt>
 <wpt lat="51.53466774" lon="-0.125078653">
   <name>237.GW</name>
-  <cmt>804</cmt>
+  <cmt>E11.237</cmt>
   <desc>Good's Way, King's Cross</desc>
-  <src>E237</src>
+  <src>804</src>
 </wpt>
 <wpt lat="51.534474" lon="-0.122203">
   <name>238.CS</name>
-  <cmt>431</cmt>
+  <cmt>E11.238</cmt>
   <desc>Crinan Street, King's Cross</desc>
-  <src>E238</src>
+  <src>431</src>
 </wpt>
 <wpt lat="51.5338" lon="-0.118677">
   <name>239.KS</name>
-  <cmt>439</cmt>
+  <cmt>E11.239</cmt>
   <desc>Killick Street, King's Cross</desc>
-  <src>E239</src>
+  <src>439</src>
 </wpt>
 <wpt lat="51.531066" lon="-0.11934">
   <name>240.NS</name>
-  <cmt>593</cmt>
+  <cmt>E11.240</cmt>
   <desc>Northdown Street, King's Cross</desc>
-  <src>E240</src>
+  <src>593</src>
 </wpt>
 <wpt lat="51.53136059" lon="-0.117069978">
   <name>241.CS</name>
-  <cmt>70</cmt>
+  <cmt>E11.241</cmt>
   <desc>Calshot Street , King's Cross</desc>
-  <src>E241</src>
+  <src>70</src>
 </wpt>
 <wpt lat="51.52891573" lon="-0.115480888">
   <name>242.GPS</name>
-  <cmt>227</cmt>
+  <cmt>E11.242</cmt>
   <desc>Great Percy Street, Clerkenwell</desc>
-  <src>E242</src>
+  <src>227</src>
 </wpt>
 <wpt lat="51.52728093" lon="-0.11829517">
   <name>243.AS</name>
-  <cmt>26</cmt>
+  <cmt>E11.243</cmt>
   <desc>Ampton Street , Clerkenwell</desc>
-  <src>E243</src>
+  <src>26</src>
 </wpt>
 <wpt lat="51.528279" lon="-0.11955857">
   <name>244.CS</name>
-  <cmt>793</cmt>
+  <cmt>E11.244</cmt>
   <desc>Cromer Street, Bloomsbury</desc>
-  <src>E244</src>
+  <src>793</src>
 </wpt>
 <wpt lat="51.53005939" lon="-0.120973687">
   <name>245.SCS</name>
-  <cmt>4</cmt>
+  <cmt>E11.245</cmt>
   <desc>St. Chad's Street, King's Cross</desc>
-  <src>E245</src>
+  <src>4</src>
 </wpt>
 <wpt lat="51.53019988" lon="-0.122299441">
   <name>246.BS</name>
-  <cmt>798</cmt>
+  <cmt>E11.246</cmt>
   <desc>Birkenhead Street, King's Cross</desc>
-  <src>E246</src>
+  <src>798</src>
 </wpt>
 <wpt lat="51.52994371" lon="-0.123616824">
   <name>247.BS</name>
-  <cmt>14</cmt>
+  <cmt>E11.247</cmt>
   <desc>Belgrove Street , King's Cross</desc>
-  <src>E247</src>
+  <src>14</src>
 </wpt>
 <wpt lat="51.5293" lon="-0.12827903">
   <name>248.OS</name>
-  <cmt>797</cmt>
+  <cmt>E12.248</cmt>
   <desc>Ossulston Street, Somers Town</desc>
-  <src>E248</src>
+  <src>797</src>
 </wpt>
 <wpt lat="51.52635795" lon="-0.125979294">
   <name>249.CG</name>
-  <cmt>16</cmt>
+  <cmt>E12.249</cmt>
   <desc>Cartwright Gardens , Bloomsbury</desc>
-  <src>E249</src>
+  <src>16</src>
 </wpt>
 <wpt lat="51.5262503" lon="-0.123509611">
   <name>250.TP</name>
-  <cmt>89</cmt>
+  <cmt>E12.250</cmt>
   <desc>Tavistock Place, Bloomsbury</desc>
-  <src>E250</src>
+  <src>89</src>
 </wpt>
 <wpt lat="51.524" lon="-0.12640984">
   <name>251.CS</name>
-  <cmt>796</cmt>
+  <cmt>E12.251</cmt>
   <desc>Coram Street, Bloomsbury</desc>
-  <src>E251</src>
+  <src>796</src>
 </wpt>
 <wpt lat="51.52341837" lon="-0.124121774">
   <name>252.RSS</name>
-  <cmt>77</cmt>
+  <cmt>E12.252</cmt>
   <desc>Russell Square Station, Bloomsbury</desc>
-  <src>E252</src>
+  <src>77</src>
 </wpt>
 <wpt lat="51.52395143" lon="-0.122502346">
   <name>253.BS</name>
-  <cmt>11</cmt>
+  <cmt>E12.253</cmt>
   <desc>Brunswick Square, Bloomsbury</desc>
-  <src>E253</src>
+  <src>11</src>
 </wpt>
 <wpt lat="51.52334672" lon="-0.120202614">
   <name>254.GS</name>
-  <cmt>57</cmt>
+  <cmt>E12.254</cmt>
   <desc>Guilford Street , Bloomsbury</desc>
-  <src>E254</src>
+  <src>57</src>
 </wpt>
 <wpt lat="51.52059681" lon="-0.116688468">
   <name>255.TR</name>
-  <cmt>68</cmt>
+  <cmt>E12.255</cmt>
   <desc>Theobald's Road , Holborn</desc>
-  <src>E255</src>
+  <src>68</src>
 </wpt>
 <wpt lat="51.51943538" lon="-0.119123345">
   <name>256.RLS</name>
-  <cmt>23</cmt>
+  <cmt>E12.256</cmt>
   <desc>Red Lion Square, Holborn</desc>
-  <src>E256</src>
+  <src>23</src>
 </wpt>
 <wpt lat="51.51824" lon="-0.11655">
   <name>257.RLS</name>
-  <cmt>436</cmt>
+  <cmt>E12.257</cmt>
   <desc>Red Lion Street, Holborn</desc>
-  <src>E257</src>
+  <src>436</src>
 </wpt>
 <wpt lat="51.51627788" lon="-0.118272992">
   <name>258.LIF</name>
-  <cmt>809</cmt>
+  <cmt>E12.258</cmt>
   <desc>Lincoln's Inn Fields, Holborn</desc>
-  <src>E258</src>
+  <src>809</src>
 </wpt>
 <wpt lat="51.515208" lon="-0.117863">
   <name>259.SS</name>
-  <cmt>372</cmt>
+  <cmt>E12.259</cmt>
   <desc>Sardinia Street, Holborn</desc>
-  <src>E259</src>
+  <src>372</src>
 </wpt>
 <wpt lat="51.513875" lon="-0.117774">
   <name>260.KS</name>
-  <cmt>594</cmt>
+  <cmt>E12.260</cmt>
   <desc>Kingsway Southbound, Strand</desc>
-  <src>E260</src>
+  <src>594</src>
 </wpt>
 <wpt lat="51.51362054" lon="-0.116764211">
   <name>261.HS</name>
-  <cmt>256</cmt>
+  <cmt>E12.261</cmt>
   <desc>Houghton Street, Strand</desc>
-  <src>E261</src>
+  <src>256</src>
 </wpt>
 <wpt lat="51.51494305" lon="-0.11614642">
   <name>262.PS</name>
-  <cmt>147</cmt>
+  <cmt>E12.262</cmt>
   <desc>Portugal Street, Holborn</desc>
-  <src>E262</src>
+  <src>147</src>
 </wpt>
 <wpt lat="51.51501025" lon="-0.112753217">
   <name>263.CS</name>
-  <cmt>232</cmt>
+  <cmt>E12.263</cmt>
   <desc>Carey Street, Holborn</desc>
-  <src>E263</src>
+  <src>232</src>
 </wpt>
 <wpt lat="51.514274" lon="-0.111257">
   <name>264.CL</name>
-  <cmt>82</cmt>
+  <cmt>E12.264</cmt>
   <desc>Chancery Lane, Holborn</desc>
-  <src>E264</src>
+  <src>82</src>
 </wpt>
 <wpt lat="51.51593725" lon="-0.111778348">
   <name>265.BB</name>
-  <cmt>84</cmt>
+  <cmt>E12.265</cmt>
   <desc>Breams Buildings, Holborn</desc>
-  <src>E265</src>
+  <src>84</src>
 </wpt>
 <wpt lat="51.51760685" lon="-0.121328408">
   <name>266.SP</name>
-  <cmt>162</cmt>
+  <cmt>E12.266</cmt>
   <desc>Southampton Place, Holborn</desc>
-  <src>E266</src>
+  <src>162</src>
 </wpt>
 <wpt lat="51.51612862" lon="-0.120909408">
   <name>267.NS</name>
-  <cmt>751</cmt>
+  <cmt>E12.267</cmt>
   <desc>Newton Street, Covent Garden</desc>
-  <src>E267</src>
+  <src>751</src>
 </wpt>
 <wpt lat="51.51477076" lon="-0.12221963">
   <name>268.DL</name>
-  <cmt>18</cmt>
+  <cmt>E12.268</cmt>
   <desc>Drury Lane, Covent Garden</desc>
-  <src>E268</src>
+  <src>18</src>
 </wpt>
+
 </gpx>

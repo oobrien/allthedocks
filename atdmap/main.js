@@ -16,6 +16,13 @@ const lineColours =
 	12:  'rgba(192,192,0,0.65)',
 }
 
+const pointColours = 
+{
+	'E': 'rgba(255,0,0,0.6)',
+	'W': 'rgba(0,128,0,0.6)',
+	'S': 'rgba(0,0,255,0.6)',
+}
+
 function gpxStyle(feature, resolution)
 {
 	var scale = 2;
@@ -36,7 +43,7 @@ function gpxStyle(feature, resolution)
 		return new ol.style.Style({
 			image: new ol.style.Circle({
 			  fill: new ol.style.Fill({
-				color: 'rgba(255,0,0,0.6)',
+				color: pointColours["" + feature.get('cmt')[0]],
 			  }),
 			  radius: 4*scale,
 			  /* stroke: new ol.style.Stroke({
