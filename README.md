@@ -15,18 +15,18 @@ The map uses the no-suffix version.
 V2 published late on 26 September 2022 and takes into accounts 8 additions (and 5 closures) along with reworking the end:
 
 Closed: 
-79	Arundel Street, Temple SOUTH
-220	Chelsea Green, Chelsea SOUTH
-391	Clifford Street, Mayfair WEST
-731	Michael Road, Walham Green SOUTH
-842	Temple Gardens, Temple EAST
+* 79	Arundel Street, Temple SOUTH
+* 220	Chelsea Green, Chelsea SOUTH
+* 391	Clifford Street, Mayfair WEST
+* 731	Michael Road, Walham Green SOUTH
+* 842	Temple Gardens, Temple EAST
 
 Opened: 
-125	Borough High Street, The Borough SOUTH
-268 Belgrave Road, Victoria SOUTH
-276 Lower Thames Street, Monument EAST
-349	St. George Street, Mayfair WEST
-366	Millennium Hotel, Mayfair WEST
-452	St. Katharine's Way, Tower EAST
-490	Pennington Street, Wapping EAST
-716	Stainsby Road , Poplar EAST
+* 125	Borough High Street, The Borough SOUTH
+* 268 Belgrave Road, Victoria SOUTH
+* 276 Lower Thames Street, Monument EAST
+* 349	St. George Street, Mayfair WEST
+* 366	Millennium Hotel, Mayfair WEST
+* 452	St. Katharine's Way, Tower EAST
+* 490	Pennington Street, Wapping EAST
+* 716	Stainsby Road , Poplar EAST
