@@ -76,6 +76,14 @@ function init()
 	  	style: gpxStyle
 	});
 
+	var layerDocksW = new ol.layer.VectorImage({
+		source: new ol.source.Vector({
+			url: 'https://raw.githubusercontent.com/oobrien/allthedocks/main/allthedocks_W.gpx',
+			format: new ol.format.GPX()
+		}),
+	  	style: gpxStyle
+	});
+
 	var layerBackground = new ol.layer.Tile({
 	   source: new ol.source.OSM()
 	});
@@ -96,7 +104,7 @@ function init()
       
 	olMap = new ol.Map({
 		target: "mapcontainer",
-		layers: [ layerBackground, layerDocksE, layerDocksS, layerLocation ],
+		layers: [ layerBackground, layerDocksE, layerDocksS, layerDocksW, layerLocation ],
 		controls: ol.control.defaults({}).extend([
 			new ol.control.ScaleLine({geodesic: true, units: 'metric' })
 		]),
