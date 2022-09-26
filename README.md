@@ -10,7 +10,7 @@ Other possible variations that could be produced are:
 * 12 single-segment tracks (along the streets) + 12 routes (straight-line) with routepoints (docks)
 * 12 single-segment tracks (along the streets) + all the waypoints (docks)
 
-The map uses the no-suffix version. 
+The map uses these files. 
 
 V2 published late on 26 September 2022 and takes into accounts 8 additions (and 5 closures) along with reworking the end:
 
