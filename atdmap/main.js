@@ -29,7 +29,7 @@ function gpxStyle(feature, resolution)
 	if (resolution < 6) { scale = 3; }
 	if (resolution < 3) { scale = 4; }
 	//	if (feature.getGeometry().getType() == 'LineString') //Route lines are LineStrings
-	if (feature.getGeometry().getType() == 'MultiLineString')
+	if (feature.getGeometry().getType() == 'MultiLineString' || feature.getGeometry().getType() == 'LineString'))
 	{
 		return new ol.style.Style({
        		stroke: new ol.style.Stroke({

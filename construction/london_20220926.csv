@@ -1,0 +1,790 @@
+#id,timestamp|gmt_local_diff_sec|gmt_servertime_diff_sec,name,lat,lon,bikes,spaces,installed,locked,temporary,total_docks,givesbonus_acceptspedelecs_fbbattlevel,pedelecs
+1,1664222967|-3600|-3600,"River Street , Clerkenwell",51.52916347,-0.109970527,7,12,true,false,false,19,true,0
+2,1664222967|-3600|-3600,"Phillimore Gardens, Kensington",51.49960695,-0.197574246,16,21,true,false,false,37,true,0
+3,1664222967|-3600|-3600,"Christopher Street, Liverpool Street",51.52128377,-0.084605692,2,30,true,false,false,32,true,0
+4,1664222967|-3600|-3600,"St. Chad's Street, King's Cross",51.53005939,-0.120973687,1,22,true,false,false,23,true,0
+5,1664222967|-3600|-3600,"Sedding Street, Sloane Square",51.49313,-0.156876,2,25,true,false,false,27,true,0
+6,1664222967|-3600|-3600,"Broadcasting House, Marylebone",51.51811784,-0.144228881,1,17,true,false,false,18,true,0
+7,1664222967|-3600|-3600,"Charlbert Street, St. John's Wood",51.53430039,-0.1680743,6,10,true,false,false,16,true,0
+8,1664222967|-3600|-3600,"Maida Vale, Maida Vale",51.529857,-0.18348604,21,18,true,false,false,39,true,0
+9,1664222967|-3600|-3600,"New Globe Walk, Bankside",51.5073853,-0.096440751,2,17,true,false,false,19,true,0
+10,1664222967|-3600|-3600,"Park Street, Bankside",51.50597426,-0.092754157,5,13,true,false,false,18,true,0
+11,1664222967|-3600|-3600,"Brunswick Square, Bloomsbury",51.52395143,-0.122502346,14,10,true,false,false,24,true,0
+12,1664222967|-3600|-3600,"Malet Street, Bloomsbury",51.52168078,-0.130431727,30,19,true,false,false,49,true,0
+13,1664222967|-3600|-3600,"Scala Street, Fitzrovia",51.51991453,-0.136039674,1,20,true,false,false,21,true,0
+14,1664222967|-3600|-3600,"Belgrove Street , King's Cross",51.52994371,-0.123616824,31,17,true,false,false,48,true,0
+15,1664222967|-3600|-3600,"Great Russell Street, Bloomsbury",51.51772703,-0.127854211,13,13,true,false,false,26,true,0
+16,1664222967|-3600|-3600,"Cartwright Gardens , Bloomsbury",51.52635795,-0.125979294,10,11,true,false,false,21,true,0
+17,1664222967|-3600|-3600,"Hatton Wall, Holborn",51.5216612,-0.109006325,2,24,true,false,false,26,true,0
+18,1664222967|-3600|-3600,"Drury Lane, Covent Garden",51.51477076,-0.12221963,5,22,true,false,false,27,true,0
+19,1664222967|-3600|-3600,"Taviton Street, Bloomsbury",51.52505093,-0.131161087,9,21,true,false,false,30,true,0
+20,1664222967|-3600|-3600,"Drummond Street , Euston",51.527326,-0.13605286,25,3,true,false,false,28,true,0
+21,1664222967|-3600|-3600,"Lansdowne Drive, Hackney Central",51.539834,-0.062806212,11,15,true,false,false,26,true,0
+22,1664222967|-3600|-3600,"Northington Street , Holborn",51.5222641,-0.114079481,4,15,true,false,false,19,true,0
+23,1664222967|-3600|-3600,"Red Lion Square, Holborn",51.51943538,-0.119123345,2,14,true,false,false,16,true,0
+24,1664222967|-3600|-3600,"British Museum, Bloomsbury",51.51908011,-0.124678402,12,23,true,false,false,35,true,0
+25,1664222967|-3600|-3600,"Doric Way , Somers Town",51.5288338,-0.132250369,39,11,true,false,false,50,true,0
+26,1664222967|-3600|-3600,"Ampton Street , Clerkenwell",51.52728093,-0.11829517,11,10,true,false,false,21,true,0
+27,1664222967|-3600|-3600,"Bouverie Street, Temple",51.51382102,-0.107927706,0,33,true,false,false,33,true,0
+28,1664222967|-3600|-3600,"Bolsover Street, Fitzrovia",51.52351808,-0.143613641,1,18,true,false,false,19,true,0
+29,1664222967|-3600|-3600,"Hereford Road, Bayswater",51.513735,-0.193487,20,2,true,false,false,22,true,0
+30,1664222967|-3600|-3600,"Windsor Terrace, Hoxton",51.52915444,-0.093421615,4,20,true,false,false,24,true,0
+31,1664222967|-3600|-3600,"Fanshaw Street, Hoxton",51.52953709,-0.083353323,34,2,true,false,false,36,true,0
+32,1664222967|-3600|-3600,"Leonard Circus , Shoreditch",51.52469624,-0.084439283,19,24,true,false,false,43,true,0
+34,1664222967|-3600|-3600,"Pancras Road, King's Cross",51.5341235,-0.129386874,16,0,true,false,false,16,true,0
+36,1664222967|-3600|-3600,"De Vere Gardens, Kensington",51.50173726,-0.184980612,25,3,true,false,false,28,true,0
+37,1664222967|-3600|-3600,"Penywern Road, Earl's Court",51.49159394,-0.192369256,15,2,true,false,false,17,true,0
+38,1664222967|-3600|-3600,"Abingdon Villas, Kensington",51.4973875,-0.197245586,3,14,true,false,false,17,true,0
+39,1664222967|-3600|-3600,"Shoreditch High Street, Shoreditch",51.5263778,-0.078130921,12,29,true,false,false,41,true,0
+40,1664222967|-3600|-3600,"Commercial Street, Shoreditch",51.52127071,-0.0755789,7,9,true,false,false,16,true,0
+41,1664222967|-3600|-3600,"Pindar Street, Liverpool Street",51.520955,-0.083493552,0,24,true,false,false,24,true,0
+42,1664222967|-3600|-3600,"Wenlock Road , Hoxton",51.53099181,-0.093903825,7,21,true,false,false,28,true,0
+43,1664222967|-3600|-3600,"Crawford Street, Marylebone",51.52026,-0.157183945,1,17,true,false,false,18,true,0
+44,1664222967|-3600|-3600,"Bruton Street, Mayfair",51.51073687,-0.144165239,0,21,true,false,false,21,true,0
+45,1664222967|-3600|-3600,"Boston Place, Marylebone",51.522511,-0.162298,25,1,true,false,false,26,true,0
+46,1664222967|-3600|-3600,"Nesham Street, Wapping",51.507131,-0.06691,12,4,true,false,false,16,true,0
+47,1664222967|-3600|-3600,"Warwick Avenue Station, Maida Vale",51.52334476,-0.183846408,12,7,true,false,false,19,true,0
+48,1664222967|-3600|-3600,"Godliman Street, St. Paul's",51.51248445,-0.099141408,2,23,true,false,false,25,true,0
+49,1664222967|-3600|-3600,"Curzon Street, Mayfair",51.50706909,-0.145904427,0,16,true,false,false,16,true,0
+50,1664222967|-3600|-3600,"East Road, Hoxton",51.52867339,-0.087459376,13,14,true,false,false,27,true,0
+51,1664222967|-3600|-3600,"Finsbury Library , Finsbury",51.52671796,-0.104298194,9,20,true,false,false,29,true,0
+52,1664222967|-3600|-3600,"Roscoe Street, St. Luke's",51.52295439,-0.094934859,9,9,true,false,false,18,true,0
+53,1664222967|-3600|-3600,"Grafton Street, Mayfair",51.5099923,-0.143495266,0,18,true,false,false,18,true,0
+54,1664222967|-3600|-3600,"Golden Lane, Barbican",51.52174785,-0.094475072,3,24,true,false,false,27,true,0
+55,1664222967|-3600|-3600,"Finsbury Circus, Liverpool Street",51.51707521,-0.086685542,1,32,true,false,false,33,true,0
+56,1664222967|-3600|-3600,"Paddington Street, Marylebone",51.52058381,-0.154701411,0,16,true,false,false,16,true,0
+57,1664222967|-3600|-3600,"Guilford Street , Bloomsbury",51.52334672,-0.120202614,12,20,true,false,false,32,true,0
+58,1664222967|-3600|-3600,"New Inn Yard, Shoreditch",51.52452699,-0.079248081,11,9,true,false,false,20,true,0
+60,1664222967|-3600|-3600,"Lisson Grove, St. John's Wood",51.52644828,-0.172190727,6,12,true,false,false,18,true,0
+61,1664222967|-3600|-3600,"Great Dover Street, The Borough",51.49738251,-0.089446947,16,17,true,false,false,33,true,0
+62,1664222967|-3600|-3600,"Cotton Garden Estate, Kennington",51.4907579,-0.106323685,5,19,true,false,false,24,true,0
+63,1664222967|-3600|-3600,"Murray Grove , Hoxton",51.53089041,-0.089782579,17,10,true,false,false,27,true,0
+64,1664222967|-3600|-3600,"William IV Street, Strand",51.50946212,-0.124749274,1,25,true,false,false,26,true,0
+65,1664222967|-3600|-3600,"Gower Place , Euston",51.52522753,-0.13518856,1,16,true,false,false,17,true,0
+66,1664222967|-3600|-3600,"Holborn Circus, Holborn",51.51795029,-0.108657431,0,40,true,false,false,40,true,0
+67,1664222967|-3600|-3600,"Hatton Garden, Holborn",51.51882555,-0.108028472,0,28,true,false,false,28,true,0
+68,1664222967|-3600|-3600,"Theobald's Road , Holborn",51.52059681,-0.116688468,7,19,true,false,false,26,true,0
+69,1664222967|-3600|-3600,"Euston Road, Euston",51.5262363,-0.134407652,14,10,true,false,false,24,true,0
+70,1664222967|-3600|-3600,"Calshot Street , King's Cross",51.53136059,-0.117069978,19,5,true,false,false,24,true,0
+71,1664222967|-3600|-3600,"Newgate Street , St. Paul's",51.5154186,-0.098850915,1,33,true,false,false,34,true,0
+72,1664222967|-3600|-3600,"Farringdon Lane, Clerkenwell",51.52352001,-0.108340165,0,16,true,false,false,16,true,0
+73,1664222967|-3600|-3600,"Old Street Station, St. Luke's",51.52548,-0.089659871,1,28,true,false,false,29,true,0
+74,1664222967|-3600|-3600,"Vauxhall Cross, Vauxhall",51.48591714,-0.124469948,16,1,true,false,false,17,true,0
+75,1664222967|-3600|-3600,"Torrens Street, Angel",51.53219984,-0.105480698,7,12,true,false,false,19,true,0
+76,1664222967|-3600|-3600,"Longford Street, The Regent's Park",51.52559505,-0.144083893,13,8,true,false,false,21,true,0
+77,1664222967|-3600|-3600,"Russell Square Station, Bloomsbury",51.52341837,-0.124121774,16,10,true,false,false,26,true,0
+78,1664222967|-3600|-3600,"Sadlers Sports Centre, Finsbury",51.52486887,-0.099489485,5,12,true,false,false,17,true,0
+80,1664222967|-3600|-3600,"Webber Street , Southwark",51.50069361,-0.102091246,17,28,true,false,false,45,true,0
+81,1664222967|-3600|-3600,"Great Titchfield Street, Fitzrovia",51.52025302,-0.141327271,5,14,true,false,false,19,true,0
+82,1664222967|-3600|-3600,"Chancery Lane, Holborn",51.514274,-0.111257,0,15,true,false,false,15,true,0
+83,1664222967|-3600|-3600,"Panton Street, West End",51.50963938,-0.131510949,3,18,true,false,false,21,true,0
+84,1664222967|-3600|-3600,"Breams Buildings, Holborn",51.51593725,-0.111778348,0,25,true,false,false,25,true,0
+85,1664222967|-3600|-3600,"Tanner Street, Bermondsey",51.50064702,-0.078600401,11,30,true,false,false,41,true,0
+86,1664222967|-3600|-3600,"Sancroft Street, Vauxhall",51.48947903,-0.115156562,24,0,true,false,false,24,true,0
+87,1664222967|-3600|-3600,"Devonshire Square, Liverpool Street",51.51646835,-0.079684557,0,16,true,false,false,16,true,0
+88,1664222967|-3600|-3600,"Bayley Street , Bloomsbury",51.51858757,-0.132053392,3,22,true,false,false,25,true,0
+89,1664222967|-3600|-3600,"Tavistock Place, Bloomsbury",51.5262503,-0.123509611,4,15,true,false,false,19,true,0
+90,1664222967|-3600|-3600,"Harrington Square 1, Camden Town",51.53301907,-0.139174593,6,21,true,false,false,27,true,0
+91,1664222967|-3600|-3600,"Walnut Tree Walk, Vauxhall",51.49368637,-0.111014912,8,12,true,false,false,20,true,0
+92,1664222967|-3600|-3600,"Borough Road, Elephant &amp; Castle",51.49889832,-0.100440521,28,13,true,false,false,41,true,0
+93,1664222967|-3600|-3600,"Cloudesley Road, Angel",51.53440868,-0.109025404,20,17,true,false,false,37,true,0
+94,1664222967|-3600|-3600,"Bricklayers Arms, Borough",51.49506109,-0.085814489,20,8,true,false,false,28,true,0
+95,1664222967|-3600|-3600,"Aldersgate Street, Barbican",51.5208417,-0.097340162,1,14,true,false,false,15,true,0
+96,1664222967|-3600|-3600,"Falkirk Street, Hoxton",51.53095071,-0.078505384,16,10,true,false,false,26,true,0
+97,1664222967|-3600|-3600,"Gloucester Road (North), Kensington",51.49792478,-0.183834706,9,9,true,false,false,18,true,0
+98,1664222967|-3600|-3600,"Hampstead Road, Euston",51.52554222,-0.138231303,0,54,true,false,false,54,true,0
+99,1664222967|-3600|-3600,"Old Quebec Street, Marylebone",51.51457763,-0.158264483,4,12,true,false,false,16,true,0
+100,1664222967|-3600|-3600,"Albert Embankment, Vauxhall",51.49043573,-0.122806861,16,8,true,false,false,24,true,0
+101,1664222967|-3600|-3600,"Queen Street 1, Bank",51.51155322,-0.0929401,2,20,true,false,false,22,true,0
+102,1664222967|-3600|-3600,"Jewry Street, Aldgate",51.51340693,-0.076793375,0,17,true,false,false,17,true,0
+103,1664222967|-3600|-3600,"Vicarage Gate, Kensington",51.50472376,-0.192538767,2,16,true,false,false,18,true,0
+104,1664222967|-3600|-3600,"Crosswall, Tower",51.51159481,-0.077121322,28,6,true,false,false,34,true,0
+105,1664222967|-3600|-3600,"Westbourne Grove, Bayswater",51.51552971,-0.190240716,14,12,true,false,false,26,true,0
+106,1664222967|-3600|-3600,"Woodstock Street, Mayfair",51.51410514,-0.147301667,0,21,true,false,false,21,true,0
+107,1664222967|-3600|-3600,"Finsbury Leisure Centre, St. Luke's",51.52600832,-0.096317627,5,15,true,false,false,20,true,0
+108,1664222967|-3600|-3600,"Abbey Orchard Street, Westminster",51.49812559,-0.132102166,4,25,true,false,false,29,true,0
+109,1664222967|-3600|-3600,"Soho Square , Soho",51.51563144,-0.132328837,7,50,true,false,false,57,true,0
+110,1664222967|-3600|-3600,"Wellington Road, St. John's Wood",51.53304322,-0.172528678,16,1,true,false,false,17,true,0
+111,1664222967|-3600|-3600,"Park Lane , Hyde Park",51.5100172,-0.157275636,0,28,true,false,false,28,true,0
+112,1664222967|-3600|-3600,"Stonecutter Street, Holborn",51.51580998,-0.105270275,0,21,true,false,false,21,true,0
+113,1664222967|-3600|-3600,"Gloucester Road (Central), South Kensington",51.49646288,-0.183289032,13,6,true,false,false,19,true,0
+114,1664222967|-3600|-3600,"Park Road (Baker Street), The Regent's Park",51.52451738,-0.158963647,6,16,true,false,false,22,true,0
+115,1664222967|-3600|-3600,"Braham Street, Aldgate",51.51423368,-0.073537654,6,28,true,false,false,34,true,0
+116,1664222967|-3600|-3600,"Little Argyll Street, West End",51.51449962,-0.141423695,1,20,true,false,false,21,true,0
+117,1664222967|-3600|-3600,"Lollard Street, Vauxhall",51.49288067,-0.114934001,21,4,true,false,false,25,true,0
+118,1664222967|-3600|-3600,"Rochester Row, Westminster",51.49582705,-0.13547809,10,3,true,false,false,13,true,0
+119,1664222967|-3600|-3600,"Bath Street, St. Luke's",51.52589324,-0.090847761,2,16,true,false,false,18,true,0
+120,1664222967|-3600|-3600,"The Guildhall, Guildhall",51.51573534,-0.093080779,0,17,true,false,false,17,true,0
+121,1664222967|-3600|-3600,"Baker Street, Marylebone",51.51891348,-0.156166631,0,22,true,false,false,22,true,0
+122,1664222967|-3600|-3600,"Norton Folgate, Liverpool Street",51.52111369,-0.078869751,2,21,true,false,false,23,true,0
+123,1664222967|-3600|-3600,"St. John Street, Finsbury",51.52836014,-0.104724625,15,3,true,false,false,18,true,0
+124,1664222967|-3600|-3600,"Eaton Square, Belgravia",51.49654462,-0.150905245,1,19,true,false,false,20,true,0
+125,1664222967|-3600|-3600,"Borough High Street, The Borough",51.50069491,-0.094524319,7,14,true,false,false,21,true,0
+126,1664222967|-3600|-3600,"Museum of London, Barbican",51.51782144,-0.096496865,1,51,true,false,false,52,true,0
+127,1664222967|-3600|-3600,"Wood Street, Guildhall",51.51700801,-0.09388536,0,17,true,false,false,17,true,0
+128,1664222967|-3600|-3600,"Emperor's Gate, South Kensington",51.49536226,-0.185296516,7,15,true,false,false,22,true,0
+129,1664222967|-3600|-3600,"Golden Square, Soho",51.5118973,-0.137043852,0,18,true,false,false,18,true,0
+130,1664222967|-3600|-3600,"Tower Gardens , Tower",51.50950627,-0.075459482,19,5,true,false,false,24,true,0
+131,1664222967|-3600|-3600,"Eversholt Street , Camden Town",51.53300545,-0.136792671,13,3,true,false,false,16,true,0
+132,1664222967|-3600|-3600,"Bethnal Green Road, Shoreditch",51.52364804,-0.074754872,32,6,true,false,false,38,true,0
+133,1664222967|-3600|-3600,"Derry Street, Kensington",51.50136494,-0.191462381,1,17,true,false,false,18,true,0
+134,1664222967|-3600|-3600,"Wapping High Street, Wapping",51.504904,-0.06797,3,17,true,false,false,20,true,0
+135,1664222967|-3600|-3600,"Clerkenwell Green, Clerkenwell",51.52326004,-0.104708922,1,20,true,false,false,21,true,0
+136,1664222967|-3600|-3600,"Queen Victoria Street, St. Paul's",51.51196176,-0.097441687,0,32,true,false,false,32,true,0
+138,1664222967|-3600|-3600,"Green Street, Mayfair",51.51227622,-0.157436972,1,18,true,false,false,19,true,0
+139,1664222967|-3600|-3600,"Lambeth Road, Vauxhall",51.49488108,-0.117974901,1,17,true,false,false,18,true,0
+140,1664222967|-3600|-3600,"Finsbury Square , Moorgate",51.52096262,-0.085634242,7,26,true,false,false,33,true,0
+141,1664222967|-3600|-3600,"Chapel Place, Marylebone",51.51530805,-0.147203711,0,29,true,false,false,29,true,0
+142,1664222967|-3600|-3600,"West Cromwell Road, Earl's Court",51.49372451,-0.198286569,6,18,true,false,false,24,true,0
+143,1664222967|-3600|-3600,"Pont Street, Knightsbridge",51.4968865,-0.161203828,7,17,true,false,false,24,true,0
+144,1664222967|-3600|-3600,"Kennington Cross, Kennington",51.48894022,-0.111435796,47,0,true,false,false,47,true,0
+145,1664222967|-3600|-3600,"Ilchester Place, Kensington",51.50074359,-0.202759212,11,13,true,false,false,24,true,0
+146,1664222967|-3600|-3600,"Vauxhall Bridge , Pimlico",51.48836528,-0.129361842,3,32,true,false,false,35,true,0
+147,1664222967|-3600|-3600,"Portugal Street, Holborn",51.51494305,-0.11614642,0,16,true,false,false,16,true,0
+148,1664222967|-3600|-3600,"Tachbrook Street, Victoria",51.49211134,-0.138364847,14,2,true,false,false,16,true,0
+149,1664222967|-3600|-3600,"Kennington Road Post Office, Oval",51.48478899,-0.110683213,18,0,true,false,false,18,true,0
+150,1664222967|-3600|-3600,"Holy Trinity Brompton, Knightsbridge",51.49705603,-0.168917077,16,12,true,false,false,28,true,0
+151,1664222967|-3600|-3600,"Chepstow Villas, Notting Hill",51.51213691,-0.201554966,25,1,true,false,false,26,true,0
+152,1664222967|-3600|-3600,"Hampton Street, Walworth",51.49217002,-0.101536865,18,3,true,false,false,21,true,0
+153,1664222967|-3600|-3600,"Bayswater Road, Hyde Park",51.511933,-0.174411,25,2,true,false,false,27,true,0
+154,1664222967|-3600|-3600,"Waterloo Station 3, Waterloo",51.50379168,-0.11282408,34,1,true,false,false,35,true,0
+155,1664222967|-3600|-3600,"Lexham Gardens, Kensington",51.49586666,-0.191933711,6,13,true,false,false,19,true,0
+156,1664222967|-3600|-3600,"New Kent Road, The Borough",51.49443626,-0.092921165,22,11,true,false,false,33,true,0
+157,1664222967|-3600|-3600,"Wright's Lane, Kensington",51.50039792,-0.193068385,10,27,true,false,false,37,true,0
+158,1664222967|-3600|-3600,"Trebovir Road, Earl's Court",51.49085368,-0.196170309,10,8,true,false,false,18,true,0
+160,1664222967|-3600|-3600,"Waterloo Place, St. James's",51.50663341,-0.131773845,1,19,true,false,false,20,true,0
+161,1664222967|-3600|-3600,"Guildhouse Street, Victoria",51.49234577,-0.141334487,5,11,true,false,false,16,true,0
+162,1664222967|-3600|-3600,"Southampton Place, Holborn",51.51760685,-0.121328408,0,20,true,false,false,20,true,0
+163,1664222967|-3600|-3600,"Sloane Avenue, Knightsbridge",51.4931848,-0.167894973,4,23,true,false,false,27,true,0
+164,1664222967|-3600|-3600,"Cleveland Gardens, Bayswater",51.515607,-0.183118788,5,11,true,false,false,16,true,0
+165,1664222967|-3600|-3600,"Orsett Terrace, Bayswater",51.517932,-0.183716959,2,13,true,false,false,15,true,0
+166,1664222967|-3600|-3600,"Seville Street, Knightsbridge",51.50185512,-0.159237081,8,19,true,false,false,27,true,0
+167,1664222967|-3600|-3600,"Eccleston Place, Victoria",51.49395092,-0.147624377,15,4,true,false,false,19,true,0
+168,1664222967|-3600|-3600,"Argyll Road, Kensington",51.50040123,-0.195455928,19,0,true,false,false,19,true,0
+169,1664222967|-3600|-3600,"Porchester Place, Paddington",51.51474612,-0.165164288,11,7,true,false,false,18,true,0
+170,1664222967|-3600|-3600,"Hardwick Street, Clerkenwell",51.52784273,-0.108068155,10,20,true,false,false,30,true,0
+171,1664222967|-3600|-3600,"Collingham Gardens, Earl's Court",51.4916156,-0.186753859,12,2,true,false,false,14,true,0
+172,1664222967|-3600|-3600,"Sumner Place, South Kensington",51.49121192,-0.173715911,9,10,true,false,false,19,true,0
+173,1664222967|-3600|-3600,"Waterloo Road, South Bank",51.50486,-0.113001,9,6,true,false,false,15,true,0
+174,1664222967|-3600|-3600,"Strand, Strand",51.512582,-0.1150573,2,33,true,false,false,35,true,0
+175,1664222967|-3600|-3600,"Worship Street, Shoreditch",51.521668,-0.079608554,4,47,true,false,false,51,true,0
+176,1664222967|-3600|-3600,"Gloucester Terrace, Bayswater",51.51791921,-0.188098863,13,10,true,false,false,23,true,0
+177,1664222967|-3600|-3600,"Ashley Place, Victoria",51.49616092,-0.140947636,15,10,true,false,false,25,true,0
+178,1664222967|-3600|-3600,"Warwick Square, Pimlico",51.48985626,-0.141923621,12,7,true,false,false,19,true,0
+180,1664222967|-3600|-3600,"North Audley Street, Mayfair",51.5129118,-0.153645496,2,15,true,false,false,17,true,0
+181,1664222967|-3600|-3600,"Belgrave Square, Belgravia",51.49941247,-0.152317537,1,20,true,false,false,21,true,0
+182,1664222967|-3600|-3600,"Bell Street , Marylebone",51.52202903,-0.165842551,4,14,true,false,false,18,true,0
+183,1664222967|-3600|-3600,"Riverlight North, Nine Elms",51.482362,-0.13612398,16,8,true,false,false,24,true,0
+184,1664222967|-3600|-3600,"Portland Place, Marylebone",51.52071513,-0.14521173,3,31,true,false,false,34,true,0
+185,1664222967|-3600|-3600,"Alderney Street, Pimlico",51.48805753,-0.140741432,13,1,true,false,false,14,true,0
+186,1664222967|-3600|-3600,"South Wharf Road, Paddington",51.51733558,-0.175810943,1,15,true,false,false,16,true,0
+187,1664222967|-3600|-3600,"Queen's Gate (South), South Kensington",51.49247977,-0.178433004,13,12,true,false,false,25,true,0
+188,1664222967|-3600|-3600,"Nutford Place, Marylebone",51.5165179,-0.164393768,3,15,true,false,false,18,true,0
+189,1664222967|-3600|-3600,"Claremont Square, Angel",51.53166681,-0.109914711,6,12,true,false,false,18,true,0
+190,1664222967|-3600|-3600,"Rampayne Street, Pimlico",51.48997562,-0.132845681,18,3,true,false,false,21,true,0
+191,1664222967|-3600|-3600,"Hyde Park Corner, Hyde Park",51.50311799,-0.153520935,4,32,true,false,false,36,true,0
+192,1664222967|-3600|-3600,"Wardour Street, Soho",51.51251523,-0.133201961,6,10,true,false,false,16,true,0
+193,1664222967|-3600|-3600,"Bankside Mix, Bankside",51.50581776,-0.100186337,30,30,true,false,false,60,true,0
+194,1664222967|-3600|-3600,"Hop Exchange, The Borough",51.50462759,-0.091773776,7,49,true,false,false,56,true,0
+195,1664222967|-3600|-3600,"Milroy Walk, South Bank",51.50724437,-0.106237501,19,11,true,false,false,30,true,0
+196,1664222967|-3600|-3600,"Union Street, The Borough",51.50368837,-0.098497684,3,14,true,false,false,17,true,0
+197,1664222967|-3600|-3600,"Stamford Street, South Bank",51.50556905,-0.111606696,15,12,true,false,false,27,true,0
+199,1664222967|-3600|-3600,"Great Tower Street, Monument",51.51048489,-0.082989638,2,22,true,false,false,24,true,0
+200,1664222967|-3600|-3600,"LMU Commercial Road, Whitechapel",51.51492456,-0.066078037,10,4,true,false,false,14,true,0
+201,1664222967|-3600|-3600,"Dorset Square, Marylebone",51.5225965,-0.161113413,9,7,true,false,false,16,true,0
+202,1664222967|-3600|-3600,"Leman Street, Aldgate",51.51236389,-0.06954201,36,1,true,false,false,37,true,0
+203,1664222967|-3600|-3600,"West Smithfield Rotunda, Farringdon",51.51821864,-0.100791005,2,13,true,false,false,15,true,0
+204,1664222967|-3600|-3600,"Margery Street, Clerkenwell",51.52659961,-0.112432615,4,15,true,false,false,19,true,0
+206,1664222967|-3600|-3600,"New Road 1 , Whitechapel",51.518154,-0.062697,6,30,true,false,false,36,true,0
+207,1664222967|-3600|-3600,"Grosvenor Crescent, Belgravia",51.50135267,-0.153194766,3,15,true,false,false,18,true,0
+208,1664222967|-3600|-3600,"Mallory Street, Marylebone",51.52505151,-0.166304359,13,7,true,false,false,20,true,0
+209,1664222967|-3600|-3600,"Denyer Street, Knightsbridge",51.49358391,-0.165101392,10,20,true,false,false,30,true,0
+210,1664222967|-3600|-3600,"Hinde Street, Marylebone",51.51681444,-0.151926305,0,21,true,false,false,21,true,0
+211,1664222967|-3600|-3600,"Cadogan Place, Knightsbridge",51.49464523,-0.158105512,5,29,true,false,false,34,true,0
+212,1664222967|-3600|-3600,"Campden Hill Road, Notting Hill",51.50658458,-0.199004026,13,4,true,false,false,17,true,0
+213,1664222967|-3600|-3600,"Wellington Arch, Hyde Park",51.50274025,-0.149569201,3,33,true,false,false,36,true,0
+214,1664222967|-3600|-3600,"Endsleigh Gardens, Euston",51.52683806,-0.130504336,31,1,true,false,false,32,true,0
+215,1664222967|-3600|-3600,"Moorfields, Moorgate",51.51906932,-0.088285377,1,53,true,false,false,54,true,0
+216,1664222967|-3600|-3600,"Old Brompton Road, South Kensington",51.49094565,-0.181190899,30,0,true,false,false,30,true,0
+217,1664222967|-3600|-3600,"Wormwood Street, Liverpool Street",51.51615461,-0.082422399,2,14,true,false,false,16,true,0
+218,1664222967|-3600|-3600,"St. Luke's Church, Chelsea",51.48971651,-0.170194408,9,11,true,false,false,20,true,0
+219,1664222967|-3600|-3600,"Bramham Gardens, Earl's Court",51.49016361,-0.19039362,29,0,true,false,false,29,true,0
+221,1664222967|-3600|-3600,"Horseferry Road, Westminster",51.49481649,-0.13045856,13,3,true,false,false,16,true,0
+222,1664222967|-3600|-3600,"Knightsbridge, Hyde Park",51.50275704,-0.155349725,27,16,true,false,false,43,true,0
+223,1664222967|-3600|-3600,"Rodney Road , Walworth",51.49148474,-0.090220911,7,17,true,false,false,24,true,0
+224,1664222967|-3600|-3600,"Queensway, Kensington Gardens",51.51031,-0.18740235,1,16,true,false,false,17,true,0
+225,1664222967|-3600|-3600,"Notting Hill Gate Station, Notting Hill",51.50935342,-0.196422,13,17,true,false,false,30,true,0
+226,1664222967|-3600|-3600,"Charles II Street, West End",51.50844614,-0.131961389,0,24,true,false,false,24,true,0
+227,1664222967|-3600|-3600,"Great Percy Street, Clerkenwell",51.52891573,-0.115480888,19,4,true,false,false,23,true,0
+228,1664222967|-3600|-3600,"St. James's Square, St. James's",51.50742485,-0.134621209,1,39,true,false,false,40,true,0
+229,1664222967|-3600|-3600,"Whitehall Place, Strand",51.50654321,-0.123179697,16,30,true,false,false,46,true,0
+230,1664222967|-3600|-3600,"Poured Lines, Bankside",51.50669284,-0.103137426,17,14,true,false,false,31,true,0
+231,1664222967|-3600|-3600,"Queen's Gate (Central), South Kensington",51.49396755,-0.17873226,20,11,true,false,false,31,true,0
+232,1664222967|-3600|-3600,"Carey Street, Holborn",51.51501025,-0.112753217,0,16,true,false,false,16,true,0
+233,1664222967|-3600|-3600,"Pall Mall East, West End",51.50777049,-0.130699733,1,21,true,false,false,22,true,0
+234,1664222967|-3600|-3600,"Liverpool Road (N1 Centre), Angel",51.53450449,-0.106992706,6,18,true,false,false,24,true,0
+235,1664222967|-3600|-3600,"Kennington Road  , Vauxhall",51.49571828,-0.110889274,14,22,true,false,false,36,true,0
+236,1664222967|-3600|-3600,"Fashion Street, Whitechapel",51.51838043,-0.073438925,8,22,true,false,false,30,true,0
+237,1664222967|-3600|-3600,"Dock Street, Wapping",51.5097860151,-0.0681619805156,12,18,true,false,false,30,true,0
+238,1664222967|-3600|-3600,"Frampton Street, Paddington",51.5233534,-0.175116099,12,20,true,false,false,32,true,0
+239,1664222967|-3600|-3600,"Warren Street Station, Euston",51.52443845,-0.138019439,3,23,true,false,false,26,true,0
+242,1664222967|-3600|-3600,"Beaumont Street, Marylebone",51.52200801,-0.151359288,0,23,true,false,false,23,true,0
+243,1664222967|-3600|-3600,"Gloucester Street, Pimlico",51.49096258,-0.139625122,20,5,true,false,false,25,true,0
+244,1664222967|-3600|-3600,"Earnshaw Street , Covent Garden",51.51611887,-0.128585022,2,16,true,false,false,18,true,0
+245,1664222967|-3600|-3600,"Grosvenor Road, Pimlico",51.4853572,-0.142207481,3,26,true,false,false,29,true,0
+246,1664222967|-3600|-3600,"Berry Street, Clerkenwell",51.52285301,-0.099994052,19,22,true,false,false,41,true,0
+247,1664222967|-3600|-3600,"St. John's Wood Church, The Regent's Park",51.530529,-0.167515,18,32,true,false,false,50,true,0
+248,1664222967|-3600|-3600,"Triangle Car Park, Hyde Park",51.50645179,-0.170279555,22,5,true,false,false,27,true,0
+249,1664222967|-3600|-3600,"Harper Road, The Borough",51.49859784,-0.096191134,5,37,true,false,false,42,true,0
+250,1664222967|-3600|-3600,"Royal Avenue 1, Chelsea",51.489932,-0.162727,2,8,true,false,false,10,true,0
+251,1664222967|-3600|-3600,"Brushfield Street, Liverpool Street",51.518908,-0.079249,4,30,true,false,false,34,true,0
+252,1664222967|-3600|-3600,"Jubilee Gardens, South Bank",51.5046364,-0.116542278,3,27,true,false,false,30,true,0
+253,1664222967|-3600|-3600,"Shoreditch Park, Hoxton",51.53404294,-0.086379717,20,10,true,false,false,30,true,0
+254,1664222967|-3600|-3600,"Chadwell Street, Angel",51.53051587,-0.106408455,8,10,true,false,false,18,true,0
+255,1664222967|-3600|-3600,"Clifton Road, Maida Vale",51.52557531,-0.179592915,8,14,true,false,false,22,true,0
+256,1664222967|-3600|-3600,"Houghton Street, Strand",51.51362054,-0.116764211,0,15,true,false,false,15,true,0
+257,1664222967|-3600|-3600,"Westminster University, Marylebone",51.52248185,-0.154907218,4,12,true,false,false,16,true,0
+258,1664222967|-3600|-3600,"Kensington Gore, Knightsbridge",51.50143293,-0.178656971,0,23,true,false,false,23,true,0
+259,1664222967|-3600|-3600,"Bourne Street, Belgravia",51.490959,-0.1532331,3,13,true,false,false,16,true,0
+260,1664222967|-3600|-3600,"Broadwick Street, Soho",51.5136846,-0.135580879,1,17,true,false,false,18,true,0
+261,1664222967|-3600|-3600,"Princes Square, Bayswater",51.5134891,-0.191351186,7,9,true,false,false,16,true,0
+262,1664222967|-3600|-3600,"LSBU (Borough Road), Elephant &amp; Castle",51.49874469,-0.103132904,33,2,true,false,false,35,true,0
+263,1664222967|-3600|-3600,"St. Mary Axe, Aldgate",51.51422502,-0.080660083,0,21,true,false,false,21,true,0
+264,1664222967|-3600|-3600,"Tysoe Street, Clerkenwell",51.52644342,-0.109256828,4,16,true,false,false,20,true,0
+265,1664222967|-3600|-3600,"Southwick Street, Paddington",51.51595344,-0.169249375,4,13,true,false,false,17,true,0
+266,1664222967|-3600|-3600,"Queen's Gate (North), Kensington",51.50102668,-0.180246101,10,31,true,false,false,41,true,0
+267,1664222967|-3600|-3600,"Regency Street, Westminster",51.49206037,-0.132224622,14,8,true,false,false,22,true,0
+268,1664222967|-3600|-3600,"Belgrave Road, Victoria",51.49320445,-0.144132875,5,24,true,false,false,29,true,0
+269,1664222967|-3600|-3600,"Empire Square, The Borough",51.50082346,-0.089740764,22,24,true,false,false,46,true,0
+270,1664222967|-3600|-3600,"Kennington Lane Rail Bridge, Vauxhall",51.4863434,-0.122492418,16,15,true,false,false,31,true,0
+271,1664222967|-3600|-3600,"London Zoo,  The Regent's Park",51.53583617,-0.156285395,27,5,true,false,false,32,true,0
+272,1664222967|-3600|-3600,"Baylis Road, Waterloo",51.50144456,-0.110699309,19,3,true,false,false,22,true,0
+273,1664222967|-3600|-3600,"Belvedere Road 1, South Bank",51.50613324,-0.114686385,22,16,true,false,false,38,true,0
+274,1664222967|-3600|-3600,"Warwick Road, Olympia",51.49671237,-0.20528437,23,13,true,false,false,36,true,0
+275,1664222967|-3600|-3600,"Barbican Centre, Barbican",51.52004497,-0.092176447,1,18,true,false,false,19,true,0
+276,1664222967|-3600|-3600,"Lower Thames Street, Monument",51.50930161,-0.084985356,1,23,true,false,false,24,true,0
+277,1664222967|-3600|-3600,"Kensington Church Street, Kensington",51.50315739,-0.191496313,14,3,true,false,false,17,true,0
+278,1664222967|-3600|-3600,"Tooley Street, Bermondsey",51.5034938,-0.07962099,22,5,true,false,false,27,true,0
+279,1664222967|-3600|-3600,"North Wharf Road, Paddington",51.51862243,-0.176645823,4,21,true,false,false,25,true,0
+280,1664222967|-3600|-3600,"Royal Avenue 2, Chelsea",51.490083,-0.162418,0,10,true,false,false,10,true,0
+281,1664222967|-3600|-3600,"Smith Square, Westminster",51.49580589,-0.127575233,10,8,true,false,false,18,true,0
+282,1664222967|-3600|-3600,"Royal London Hospital, Whitechapel",51.518675,-0.06111,12,30,true,false,false,42,true,0
+283,1664222967|-3600|-3600,"Kingsway, Covent Garden",51.51440928,-0.118478757,8,8,true,false,false,16,true,0
+284,1664222967|-3600|-3600,"Lambeth North Station, Waterloo",51.49914063,-0.112031483,19,1,true,false,false,20,true,0
+286,1664222967|-3600|-3600,"St. John's Wood Road, St. John's Wood",51.5272947,-0.174653609,26,9,true,false,false,35,true,0
+287,1664222967|-3600|-3600,"Bedford Way, Bloomsbury",51.52367314,-0.128377673,11,12,true,false,false,23,true,0
+288,1664222967|-3600|-3600,"Elizabeth Bridge, Victoria",51.49236962,-0.147478734,17,17,true,false,false,34,true,0
+289,1664222967|-3600|-3600,"South Audley Street, Mayfair",51.50923022,-0.151296092,0,15,true,false,false,15,true,0
+290,1664222967|-3600|-3600,"St Mary's Hospital, Paddington",51.518268,-0.17110323,1,19,true,false,false,20,true,0
+291,1664222967|-3600|-3600,"Claverton Street, Pimlico",51.48483991,-0.138089062,12,20,true,false,false,32,true,0
+292,1664222967|-3600|-3600,"Montpelier Street, Knightsbridge",51.49888404,-0.165471605,2,14,true,false,false,16,true,0
+293,1664222967|-3600|-3600,"Kensington Olympia Station, Olympia",51.49815779,-0.209494128,22,3,true,false,false,25,true,0
+295,1664222967|-3600|-3600,"Swan Street, The Borough",51.50029631,-0.092762704,4,23,true,false,false,27,true,0
+296,1664222967|-3600|-3600,"Knaresborough Place, Earl's Court",51.49363156,-0.190603326,18,0,true,false,false,18,true,0
+297,1664222967|-3600|-3600,"Geraldine Street, Elephant &amp; Castle",51.49612799,-0.106000855,10,7,true,false,false,17,true,0
+298,1664222967|-3600|-3600,"Curlew Street, Shad Thames",51.50227992,-0.074189225,10,11,true,false,false,21,true,0
+299,1664222967|-3600|-3600,"Vincent Square, Westminster",51.49398524,-0.136928582,7,12,true,false,false,19,true,0
+300,1664222967|-3600|-3600,"Serpentine Car Park, Hyde Park",51.505014,-0.17306032,6,11,true,false,false,17,true,0
+301,1664222967|-3600|-3600,"Marylebone Lane, Marylebone",51.51475963,-0.148105415,0,24,true,false,false,24,true,0
+302,1664222967|-3600|-3600,"Putney Pier, Wandsworth",51.466907,-0.216573,28,0,true,false,false,28,true,0
+303,1664222967|-3600|-3600,"Albert Gate, Hyde Park",51.50295379,-0.158456089,25,9,true,false,false,34,true,0
+306,1664222967|-3600|-3600,"Rathbone Street, Fitzrovia",51.51816295,-0.135025698,0,16,true,false,false,16,true,0
+307,1664222967|-3600|-3600,"Black Lion Gate, Kensington Gardens",51.50990837,-0.187842717,4,20,true,false,false,24,true,0
+308,1664222967|-3600|-3600,"Long Lane , Bermondsey",51.49907558,-0.085666316,9,11,true,false,false,20,true,0
+309,1664222967|-3600|-3600,"Embankment (Savoy), Strand",51.50963123,-0.119047563,30,11,true,false,false,41,true,0
+310,1664222967|-3600|-3600,"Black Prince Road, Vauxhall",51.4908679,-0.116911864,16,3,true,false,false,19,true,0
+311,1664222967|-3600|-3600,"Foley Street, Fitzrovia",51.51918144,-0.140485596,3,21,true,false,false,24,true,0
+312,1664222967|-3600|-3600,"Grove End Road, St. John's Wood",51.53088935,-0.176770502,11,9,true,false,false,20,true,0
+313,1664222967|-3600|-3600,"Wells Street, Fitzrovia",51.51734403,-0.138072691,2,36,true,false,false,38,true,0
+314,1664222967|-3600|-3600,"Tyers Gate, Bermondsey",51.50088934,-0.083159352,14,22,true,false,false,36,true,0
+315,1664222967|-3600|-3600,"The Tennis Courts, The Regent's Park",51.52536703,-0.153463612,0,16,true,false,false,16,true,0
+316,1664222967|-3600|-3600,"Warwick Row, Westminster",51.497998,-0.14296064,3,18,true,false,false,21,true,0
+317,1664222967|-3600|-3600,"Dickens Square, Borough",51.49679128,-0.093913472,14,18,true,false,false,32,true,0
+318,1664222967|-3600|-3600,"Sackville Street, Mayfair",51.51004801,-0.138846453,0,18,true,false,false,18,true,0
+319,1664222967|-3600|-3600,"Baldwin Street, St. Luke's",51.52702563,-0.088542771,1,20,true,false,false,21,true,0
+320,1664222967|-3600|-3600,"Queen Mother Sports Centre, Victoria",51.49357351,-0.139956043,15,11,true,false,false,26,true,0
+321,1664222967|-3600|-3600,"Bermondsey Street, Bermondsey",51.49785559,-0.081608045,21,3,true,false,false,24,true,0
+322,1664222967|-3600|-3600,"Palissy Street, Shoreditch",51.526293,-0.073955,4,22,true,false,false,26,true,0
+323,1664222967|-3600|-3600,"Clifton Street, Shoreditch",51.523196,-0.083067,2,22,true,false,false,24,true,0
+324,1664222967|-3600|-3600,"Ontario Street, Elephant &amp; Castle",51.49652013,-0.101384068,11,4,true,false,false,15,true,0
+325,1664222967|-3600|-3600,"St. Martin's Street, West End",51.50908747,-0.129697889,1,17,true,false,false,18,true,0
+326,1664222967|-3600|-3600,"Graham Street, Angel",51.53266186,-0.099981142,13,13,true,false,false,26,true,0
+327,1664222967|-3600|-3600,"New North Road 1, Hoxton",51.53095,-0.085603,5,17,true,false,false,22,true,0
+328,1664222967|-3600|-3600,"New North Road 2, Hoxton",51.53114,-0.086016,4,18,true,false,false,22,true,0
+329,1664222967|-3600|-3600,"Prince Albert Road, The Regent's Park",51.53589283,-0.160854428,22,2,true,false,false,24,true,0
+330,1664222967|-3600|-3600,"Eastbourne Mews, Paddington",51.51641749,-0.179135079,33,1,true,false,false,34,true,0
+331,1664222967|-3600|-3600,"Bunhill Row, Moorgate",51.52085887,-0.089887855,1,29,true,false,false,30,true,0
+332,1664222967|-3600|-3600,"Nevern Place, Earl's Court",51.49334336,-0.194757949,14,6,true,false,false,20,true,0
+333,1664222967|-3600|-3600,"Palace Gardens Terrace, Notting Hill",51.50860544,-0.193764092,25,12,true,false,false,37,true,0
+334,1664222967|-3600|-3600,"Concert Hall Approach 1, South Bank",51.505044,-0.115851,5,5,true,false,false,10,true,0
+335,1664222967|-3600|-3600,"Tavistock Street, Covent Garden",51.51196803,-0.120718759,5,28,true,false,false,33,true,0
+336,1664222967|-3600|-3600,"Concert Hall Approach 2, South Bank",51.504942,-0.115533,14,4,true,false,false,18,true,0
+337,1664222967|-3600|-3600,"Pembridge Villas, Notting Hill",51.51108452,-0.197524944,15,1,true,false,false,16,true,0
+338,1664222967|-3600|-3600,"Wellington Street , Strand",51.51175646,-0.119643424,1,23,true,false,false,24,true,0
+339,1664222967|-3600|-3600,"Risinghill Street, Angel",51.5333196,-0.1117812,14,11,true,false,false,25,true,0
+340,1664222967|-3600|-3600,"Bank of England Museum, Bank",51.51444134,-0.087587447,0,16,true,false,false,16,true,0
+341,1664222967|-3600|-3600,"Craven Street, Strand",51.50810309,-0.12602103,15,8,true,false,false,23,true,0
+343,1664222967|-3600|-3600,"London Zoo Car Park, The Regent's Park",51.53692216,-0.150181444,13,23,true,false,false,36,true,0
+344,1664222967|-3600|-3600,"Goswell Road (City Uni), Finsbury",51.528246,-0.10102611,2,15,true,false,false,17,true,0
+345,1664222967|-3600|-3600,"Flood Street, Chelsea",51.48802358,-0.166878535,19,14,true,false,false,33,true,0
+347,1664222967|-3600|-3600,"Lower Marsh, Waterloo",51.50013942,-0.113936001,5,12,true,false,false,17,true,0
+348,1664222967|-3600|-3600,"Grosvenor Square, Mayfair",51.51217033,-0.150481272,1,16,true,false,false,17,true,0
+349,1664222967|-3600|-3600,"St. George Street, Mayfair",51.51196,-0.142783033,0,18,true,false,false,18,true,0
+350,1664222967|-3600|-3600,"Queen's Gate, Kensington Gardens",51.5017154373867,-0.1798541843891,20,1,true,false,false,21,true,0
+351,1664222967|-3600|-3600,"Macclesfield Rd, St Lukes",51.529423,-0.097122,11,17,true,false,false,28,true,0
+352,1664222967|-3600|-3600,"Vauxhall Street, Vauxhall",51.486965,-0.116625,19,0,true,false,false,19,true,0
+353,1664222967|-3600|-3600,"Greycoat Street , Westminster",51.49459148,-0.134234258,12,5,true,false,false,17,true,0
+354,1664222967|-3600|-3600,"Northumberland Avenue, Strand",51.506767,-0.123702,7,30,true,false,false,37,true,0
+355,1664222967|-3600|-3600,"Clapham Common Station, Clapham Common",51.461388,-0.13922146,16,5,true,false,false,21,true,0
+356,1664222967|-3600|-3600,"South Kensington Station, South Kensington",51.494412,-0.173881,6,9,true,false,false,15,true,0
+357,1664222967|-3600|-3600,"Howland Street, Fitzrovia",51.520994,-0.139016,7,23,true,false,false,30,true,0
+358,1664222967|-3600|-3600,"High Holborn , Covent Garden",51.516226,-0.124826,1,19,true,false,false,20,true,0
+359,1664222967|-3600|-3600,"Butler Place, Westminster",51.49782999,-0.135440826,3,15,true,false,false,18,true,0
+360,1664222967|-3600|-3600,"Howick Place, Westminster",51.49675303,-0.138733562,1,26,true,false,false,27,true,0
+361,1664222967|-3600|-3600,"Waterloo Station 2, Waterloo",51.50391973,-0.11342629,54,1,true,false,false,55,true,0
+362,1664222967|-3600|-3600,"Royal College Street, Camden Town",51.536264,-0.133952,18,39,true,false,false,57,true,0
+364,1664222967|-3600|-3600,"Store Street, Bloomsbury",51.519572,-0.13214036,5,27,true,false,false,32,true,0
+365,1664222967|-3600|-3600,"City Road, Angel",51.530344,-0.100168,24,23,true,false,false,47,true,0
+366,1664222967|-3600|-3600,"Millennium Hotel, Mayfair",51.5109192966489,-0.1511263847351,0,27,true,false,false,27,true,0
+367,1664222967|-3600|-3600,"Harrowby Street, Marylebone",51.5173721,-0.1642075,4,12,true,false,false,16,true,0
+368,1664222967|-3600|-3600,"Harriet Street, Knightsbridge",51.50024195,-0.15934065,14,11,true,false,false,25,true,0
+370,1664222967|-3600|-3600,"Paddington Green, Paddington",51.520205,-0.174593,2,18,true,false,false,20,true,0
+371,1664222967|-3600|-3600,"King Edward Walk, Waterloo",51.49775,-0.10988,0,22,true,false,false,22,true,0
+372,1664222967|-3600|-3600,"Sardinia Street, Holborn",51.515208,-0.117863,0,24,true,false,false,24,true,0
+373,1664222967|-3600|-3600,"Prince Consort Road, Knightsbridge",51.49980661,-0.176415994,0,18,true,false,false,18,true,0
+374,1664222967|-3600|-3600,"Waterloo Station 1, Waterloo",51.50402794,-0.11386436,25,11,true,false,false,36,true,0
+375,1664222967|-3600|-3600,"Kensington Town Hall, Kensington",51.50194596,-0.194392952,13,5,true,false,false,18,true,0
+376,1664222967|-3600|-3600,"Millbank Tower, Pimlico",51.49188409,-0.125674815,1,23,true,false,false,24,true,0
+377,1664222967|-3600|-3600,"Waterloo Bridge, South Bank",51.50535447,-0.113656543,6,9,true,false,false,15,true,0
+378,1664222967|-3600|-3600,"Natural History Museum, South Kensington",51.49559291,-0.179077626,10,21,true,false,false,31,true,0
+379,1664222967|-3600|-3600,"Turquoise Island, Notting Hill",51.51431171,-0.200838199,4,17,true,false,false,21,true,0
+380,1664222967|-3600|-3600,"Stanhope Gate, Mayfair",51.50686435,-0.150666888,4,17,true,false,false,21,true,0
+381,1664222967|-3600|-3600,"Charlotte Street, Fitzrovia",51.51953043,-0.13577731,4,10,true,false,false,14,true,0
+382,1664222967|-3600|-3600,"Farm Street, Mayfair",51.50935171,-0.14744969,0,15,true,false,false,15,true,0
+383,1664222967|-3600|-3600,"Frith Street, Soho",51.51310333,-0.13121385,3,15,true,false,false,18,true,0
+384,1664222967|-3600|-3600,"Marloes Road, Kensington",51.496481,-0.192404,3,12,true,false,false,15,true,0
+386,1664222967|-3600|-3600,"Moor Street, Soho",51.51352755,-0.130110822,8,8,true,false,false,16,true,0
+387,1664222967|-3600|-3600,"Fire Brigade Pier, Vauxhall",51.49369988,-0.121394101,14,16,true,false,false,30,true,0
+388,1664222967|-3600|-3600,"Southampton Street, Strand",51.51070161,-0.121723604,0,14,true,false,false,14,true,0
+389,1664222967|-3600|-3600,"Upper Grosvenor Street, Mayfair",51.51013066,-0.155757901,0,18,true,false,false,18,true,0
+390,1664222967|-3600|-3600,"Buxton Street 1, Shoreditch",51.521776,-0.068856,22,19,true,false,false,41,true,0
+392,1664222967|-3600|-3600,"Imperial College, Knightsbridge",51.49942855,-0.179702476,2,19,true,false,false,21,true,0
+393,1664222967|-3600|-3600,"Snow Hill, Farringdon",51.51733427,-0.103604248,1,14,true,false,false,15,true,0
+394,1664222967|-3600|-3600,"Aberdeen Place, St. John's Wood",51.524826,-0.176268,8,10,true,false,false,18,true,0
+395,1664222967|-3600|-3600,"Cadogan Gardens, Chelsea",51.492462,-0.159919,9,6,true,false,false,15,true,0
+396,1664222967|-3600|-3600,"Shouldham Street, Marylebone",51.51809,-0.163609,0,16,true,false,false,16,true,0
+397,1664222967|-3600|-3600,"Devonshire Terrace, Bayswater",51.51348,-0.17977,16,0,true,false,false,16,true,0
+398,1664222967|-3600|-3600,"Holland Park, Kensington",51.502319,-0.200742,13,17,true,false,false,30,true,0
+399,1664222967|-3600|-3600,"Brick Lane Market, Shoreditch",51.52261762,-0.071653961,24,0,true,false,false,24,true,0
+400,1664222967|-3600|-3600,"George Street, Marylebone",51.517703,-0.154106,1,26,true,false,false,27,true,0
+401,1664222967|-3600|-3600,"Columbia Road, Shoreditch",51.528187,-0.075375,15,9,true,false,false,24,true,0
+402,1664222967|-3600|-3600,"Penfold Street, Marylebone",51.52289229,-0.171681991,8,7,true,false,false,15,true,0
+403,1664222967|-3600|-3600,"George Place Mews, Marylebone",51.51689296,-0.158249929,0,16,true,false,false,16,true,0
+404,1664222967|-3600|-3600,"Palace Gate, Kensington Gardens",51.50204238,-0.184400221,5,8,true,false,false,13,true,0
+405,1664222967|-3600|-3600,"Gloucester Road Station, South Kensington",51.49418566,-0.18267094,0,15,true,false,false,15,true,0
+408,1664222967|-3600|-3600,"Sun Street, Liverpool Street",51.520009,-0.083935724,0,24,true,false,false,24,true,0
+409,1664222967|-3600|-3600,"Strata, Elephant &amp; Castle",51.493146,-0.099828,28,13,true,false,false,41,true,0
+410,1664222967|-3600|-3600,"Edgware Road Station, Marylebone",51.519968,-0.169774,20,44,true,false,false,64,true,0
+411,1664222967|-3600|-3600,"Rotherhithe Roundabout, Rotherhithe",51.499169,-0.055846029,13,6,true,false,false,19,true,0
+412,1664222967|-3600|-3600,"Cleaver Street, Kennington",51.488105,-0.110121,13,4,true,false,false,17,true,0
+419,1664222967|-3600|-3600,"Chelsea Bridge, Pimlico",51.485821,-0.149004,10,5,true,false,false,15,true,0
+420,1664222967|-3600|-3600,"Southwark Station 1, Southwark",51.504043,-0.105312,29,8,true,false,false,37,true,0
+421,1664222967|-3600|-3600,"Southwark Station 2, Southwark",51.504044,-0.104778,4,41,true,false,false,45,true,0
+423,1664222967|-3600|-3600,"Eaton Square (South), Belgravia",51.49456127,-0.15393398,8,23,true,false,false,31,true,0
+424,1664222967|-3600|-3600,"Ebury Bridge, Pimlico",51.490491,-0.149186,27,2,true,false,false,29,true,0
+426,1664222967|-3600|-3600,"Vincent Street, Pimlico",51.493072,-0.129925,10,7,true,false,false,17,true,0
+427,1664222967|-3600|-3600,"Cheapside, Bank",51.51397065,-0.09294031,2,41,true,false,false,43,true,0
+428,1664222967|-3600|-3600,"Exhibition Road, Knightsbridge",51.499917,-0.174554,0,20,true,false,false,20,true,0
+430,1664222967|-3600|-3600,"South Parade, Chelsea",51.48902,-0.17524,9,9,true,false,false,18,true,0
+431,1664222967|-3600|-3600,"Crinan Street, King's Cross",51.534474,-0.122203,1,19,true,false,false,20,true,0
+432,1664222967|-3600|-3600,"Exhibition Road Museums 1, South Kensington",51.496468,-0.17379696,0,13,true,false,false,13,true,0
+433,1664222967|-3600|-3600,"Wren Street, Holborn",51.524564,-0.116279,3,30,true,false,false,33,true,0
+435,1664222967|-3600|-3600,"Kennington Station, Kennington",51.488852,-0.105593,14,9,true,false,false,23,true,0
+436,1664222967|-3600|-3600,"Red Lion Street, Holborn",51.51824,-0.11655,2,34,true,false,false,36,true,0
+437,1664222967|-3600|-3600,"Vauxhall Walk, Vauxhall",51.488124,-0.120903,22,5,true,false,false,27,true,0
+439,1664222967|-3600|-3600,"Killick Street, King's Cross",51.5338,-0.118677,11,11,true,false,false,22,true,0
+440,1664222967|-3600|-3600,"Kennington Oval, Oval",51.483145,-0.113134,25,8,true,false,false,33,true,0
+441,1664222967|-3600|-3600,"Sail Street, Vauxhall",51.495656,-0.114605,13,11,true,false,false,24,true,0
+442,1664222967|-3600|-3600,"Walmer Road, Avondale",51.510101,-0.211358,7,17,true,false,false,24,true,0
+443,1664222967|-3600|-3600,"Philpot Street, Whitechapel",51.515256,-0.058641,14,16,true,false,false,30,true,0
+444,1664222967|-3600|-3600,"Bethnal Green Garden, Bethnal Green",51.52568,-0.055312,6,18,true,false,false,24,true,0
+445,1664222967|-3600|-3600,"Cheshire Street, Bethnal Green",51.52388,-0.065076,15,13,true,false,false,28,true,0
+446,1664222967|-3600|-3600,"York Hall, Bethnal Green",51.528936,-0.055894,12,15,true,false,false,27,true,0
+447,1664222967|-3600|-3600,"Jubilee Crescent, Cubitt Town",51.493381,-0.007542,8,46,true,false,false,54,true,0
+448,1664222967|-3600|-3600,"Fisherman's Walk West, Canary Wharf",51.50623,-0.02296,2,34,true,false,false,36,true,0
+449,1664222967|-3600|-3600,"Shadwell Station, Shadwell",51.511088,-0.057159,8,27,true,false,false,35,true,0
+450,1664222967|-3600|-3600,"Jubilee Street, Stepney",51.515975,-0.053177,8,20,true,false,false,28,true,0
+451,1664222967|-3600|-3600,"Hermitage Court, Wapping",51.504719,-0.063531,11,5,true,false,false,16,true,0
+452,1664222967|-3600|-3600,"St. Katharine's Way, Tower",51.505697,-0.070542,14,10,true,false,false,24,true,0
+453,1664222967|-3600|-3600,"Garnet Street, Shadwell",51.508447,-0.055167,9,15,true,false,false,24,true,0
+454,1664222967|-3600|-3600,"Napier Avenue, Millwall",51.487679,-0.021582,6,14,true,false,false,20,true,0
+455,1664222967|-3600|-3600,"East Ferry Road, Cubitt Town",51.49447,-0.014409,16,1,true,false,false,17,true,0
+456,1664222967|-3600|-3600,"Parkway, Camden Town",51.538071,-0.144664,29,4,true,false,false,33,true,0
+457,1664222967|-3600|-3600,"Castlehaven Road, Camden Town",51.542138,-0.145393,27,2,true,false,false,29,true,0
+458,1664222967|-3600|-3600,"Wapping Lane, Wapping",51.504749,-0.057544,24,4,true,false,false,28,true,0
+459,1664222967|-3600|-3600,"Gunmakers Lane, Old Ford",51.535179,-0.03338,17,0,true,false,false,17,true,0
+460,1664222967|-3600|-3600,"Burdett Road, Mile End",51.516196,-0.029138,31,2,true,false,false,33,true,0
+461,1664222967|-3600|-3600,"Aston Street, Stepney",51.516,-0.038775,19,7,true,false,true,26,true,0
+462,1664222967|-3600|-3600,"Bonny Street, Camden Town",51.541603,-0.138853,19,26,true,false,false,45,true,0
+463,1664222967|-3600|-3600,"Thurtle Road, Haggerston",51.534776,-0.071881,12,10,true,false,false,22,true,0
+464,1664222967|-3600|-3600,"St. Mary &amp; St. Michael Church, Stepney",51.51417,-0.052099,14,11,true,false,false,25,true,0
+465,1664222967|-3600|-3600,"Pitfield Street North,Hoxton",51.53558,-0.08249,14,14,true,false,false,28,true,0
+466,1664222967|-3600|-3600,"Whiston Road, Haggerston",51.534464,-0.076341,17,4,true,false,false,21,true,0
+467,1664222967|-3600|-3600,"Southern Grove, Bow",51.523538,-0.030556,8,9,true,false,false,17,true,0
+468,1664222967|-3600|-3600,"Cantrell Road, Bow",51.521564,-0.022694,9,15,true,false,false,24,true,0
+469,1664222967|-3600|-3600,"Lindfield Street, Poplar",51.513757,-0.020467,28,16,true,false,false,44,true,0
+470,1664222967|-3600|-3600,"Mostyn Grove, Bow",51.530535,-0.025492,7,39,true,false,false,46,true,0
+471,1664222967|-3600|-3600,"Hewison Street, Old Ford",51.533283,-0.028155,10,9,true,false,false,19,true,0
+472,1664222967|-3600|-3600,"Malmesbury Road, Bow",51.529452,-0.027616,9,12,true,false,false,21,true,0
+473,1664222967|-3600|-3600,"Millharbour, Millwall",51.496137,-0.019355,19,0,true,false,false,19,true,0
+474,1664222967|-3600|-3600,"Gascoyne Road, Victoria Park",51.541515,-0.038557746,14,6,true,false,false,20,true,0
+475,1664222967|-3600|-3600,"Lightermans Road, Millwall",51.499041,-0.020157,30,1,true,false,false,31,true,0
+476,1664222967|-3600|-3600,"Stebondale Street, Cubitt Town",51.489096,-0.009205,17,12,true,false,false,29,true,0
+477,1664222967|-3600|-3600,"Spindrift Avenue, Millwall",51.49109,-0.018716,14,22,true,false,false,36,true,0
+478,1664222967|-3600|-3600,"Stepney Green Station, Stepney",51.521889,-0.04667,9,12,true,false,false,21,true,0
+479,1664222967|-3600|-3600,"Pott Street, Bethnal Green",51.527152,-0.058005,14,6,true,false,false,20,true,0
+480,1664222967|-3600|-3600,"Flamborough Street, Limehouse",51.5128711,-0.0389866,23,2,true,false,false,25,true,0
+481,1664222967|-3600|-3600,"Saunders Ness Road, Cubitt Town",51.487129,-0.0090011,25,10,true,false,false,35,true,0
+482,1664222967|-3600|-3600,"Exhibition Road Museums 2, South Kensington",51.495947,-0.17368958,0,14,true,false,false,14,true,0
+483,1664222967|-3600|-3600,"Albert Gardens, Stepney",51.51328,-0.047784,17,16,true,false,false,33,true,0
+484,1664222967|-3600|-3600,"Bromley High Street, Bow",51.528828,-0.013258,9,15,true,false,false,24,true,0
+485,1664222967|-3600|-3600,"Old Ford Road, Bethnal Green",51.531127,-0.048017,5,19,true,false,false,24,true,0
+486,1664222967|-3600|-3600,"Granby Street, Shoreditch",51.525645,-0.069543,21,16,true,false,false,37,true,0
+487,1664222967|-3600|-3600,"Canton Street, Poplar",51.511811,-0.025626,13,10,true,false,false,23,true,0
+488,1664222967|-3600|-3600,"Reardon Street, Wapping",51.506946,-0.058681,13,9,true,false,false,22,true,0
+490,1664222967|-3600|-3600,"Pennington Street, Wapping",51.508622,-0.065006,11,34,true,false,false,45,true,0
+491,1664222967|-3600|-3600,"Queen Mary's, Mile End",51.522507,-0.041378,16,28,true,false,false,44,true,0
+492,1664222967|-3600|-3600,"Maplin Street, Mile End",51.525501,-0.032267204,1,38,true,false,false,39,true,0
+494,1664222967|-3600|-3600,"South Quay East, Canary Wharf",51.50196,-0.016251,3,33,true,false,false,36,true,0
+495,1664222967|-3600|-3600,"Bow Church Station, Bow",51.528169,-0.018703,9,30,true,false,false,39,true,0
+496,1664222967|-3600|-3600,"Devons Road, Bow",51.52512,-0.015578,9,30,true,false,false,39,true,0
+497,1664222967|-3600|-3600,"Merchant Street, Bow",51.526578,-0.027581,13,14,true,false,false,27,true,0
+498,1664222967|-3600|-3600,"Bow Road Station, Bow",51.527058,-0.025296,11,30,true,false,false,41,true,0
+499,1664222967|-3600|-3600,"Furze Green, Bow",51.519265,-0.021345,10,26,true,false,false,36,true,0
+500,1664222967|-3600|-3600,"Ansell House, Stepney",51.520019,-0.05438,26,15,true,false,false,41,true,0
+501,1664222967|-3600|-3600,"Cephas Street, Bethnal Green",51.522561,-0.054883,17,7,true,false,false,24,true,0
+502,1664222967|-3600|-3600,"Bonner Gate, Victoria Park",51.53341,-0.049591815,5,16,true,false,false,21,true,0
+503,1664222967|-3600|-3600,"Cleveland Way, Stepney",51.520893,-0.051394,19,17,true,false,false,36,true,0
+504,1664222967|-3600|-3600,"St. John's Park, Cubitt Town",51.496454,-0.009506,6,24,true,false,false,30,true,0
+505,1664222967|-3600|-3600,"Ackroyd Drive, Bow",51.520398,-0.026768,18,11,true,false,false,29,true,0
+506,1664222967|-3600|-3600,"Bell Lane, Liverpool Street",51.517475,-0.075855,3,20,true,false,false,23,true,0
+507,1664222967|-3600|-3600,"Clarkson Street, Bethnal Green",51.528692,-0.059091,22,9,true,false,false,31,true,0
+508,1664222967|-3600|-3600,"Fournier Street, Whitechapel",51.519362,-0.074431,15,3,true,false,false,18,true,0
+509,1664222967|-3600|-3600,"Fore Street, Guildhall",51.517842,-0.090075,0,19,true,false,false,19,true,0
+510,1664222967|-3600|-3600,"Westferry DLR, Limehouse",51.509303,-0.025996,13,28,true,false,false,41,true,0
+511,1664222967|-3600|-3600,"Sutton Street, Shadwell",51.511066,-0.053558,8,25,true,false,false,33,true,0
+512,1664222967|-3600|-3600,"Pritchard's Road, Bethnal Green",51.532091,-0.06142,11,19,true,false,false,30,true,0
+513,1664222967|-3600|-3600,"Watney Market, Stepney",51.5142228,-0.055656,10,41,true,false,false,51,true,0
+514,1664222967|-3600|-3600,"Portman Square, Marylebone",51.516204,-0.155525,1,16,true,false,false,17,true,0
+515,1664222967|-3600|-3600,"Russell Gardens, Olympia",51.500088,-0.211316,5,19,true,false,false,24,true,0
+516,1664222967|-3600|-3600,"Chrisp Street Market, Poplar",51.5112,-0.014438,9,9,true,false,false,18,true,0
+517,1664222967|-3600|-3600,"Ford Road, Old Ford",51.532513,-0.033085,17,0,true,false,false,17,true,0
+518,1664222967|-3600|-3600,"Antill Road, Mile End",51.528224,-0.037471,7,23,true,false,false,30,true,0
+519,1664222967|-3600|-3600,"Teviot Street, Poplar",51.518811,-0.011662,3,30,true,false,false,33,true,0
+520,1664222967|-3600|-3600,"Bancroft Road, Bethnal Green",51.526041,-0.047218,17,4,true,false,false,21,true,0
+521,1664222967|-3600|-3600,"Driffield Road, Old Ford",51.534137,-0.037366,19,0,true,false,false,19,true,0
+522,1664222967|-3600|-3600,"Clinton Road, Mile End",51.525941,-0.036017,8,28,true,false,false,36,true,0
+523,1664222967|-3600|-3600,"Langdon Park, Poplar",51.51549,-0.013475,21,3,true,false,false,24,true,0
+524,1664222967|-3600|-3600,"Lancaster Gate , Bayswater",51.511654,-0.179668,23,15,true,false,false,38,true,0
+525,1664222967|-3600|-3600,"Blythe Road, Olympia",51.496927,-0.21350087,8,16,true,false,false,24,true,0
+526,1664222967|-3600|-3600,"Lancaster Drive, Blackwall",51.503143,-0.008428,20,7,true,false,false,27,true,0
+527,1664222967|-3600|-3600,"Hansard Mews, Holland Park",51.503802,-0.215808,16,4,true,false,false,20,true,0
+528,1664222967|-3600|-3600,"Clarges Street, Mayfair",51.507326,-0.145827,0,16,true,false,false,16,true,0
+529,1664222967|-3600|-3600,"Manresa Road, Chelsea",51.486892,-0.170983,17,1,true,false,false,18,true,0
+530,1664222967|-3600|-3600,"Newby Place, Poplar",51.508896,-0.012413,17,1,true,false,false,18,true,0
+531,1664222967|-3600|-3600,"Twig Folly Bridge, Mile End",51.530326,-0.042744,13,8,true,false,false,21,true,0
+532,1664222967|-3600|-3600,"Jubilee Plaza, Canary Wharf",51.50357,-0.020068,7,56,true,false,false,63,true,0
+533,1664222967|-3600|-3600,"Wellington Row, Bethnal Green",51.528222,-0.069743,19,14,true,false,false,33,true,0
+534,1664222967|-3600|-3600,"Goldsmith's Row, Haggerston",51.531864,-0.066035,9,18,true,false,false,27,true,0
+535,1664222967|-3600|-3600,"Gloucester Avenue, Camden Town",51.537349,-0.147154,13,11,true,false,false,24,true,0
+536,1664222967|-3600|-3600,"Queensbridge Road, Haggerston",51.53385,-0.06992,17,18,true,false,false,35,true,0
+537,1664222967|-3600|-3600,"Old Montague Street, Whitechapel",51.51793,-0.067937,8,10,true,false,false,18,true,0
+538,1664222967|-3600|-3600,"Naval Row, Blackwall",51.508981,-0.00699,11,10,true,false,false,21,true,0
+539,1664222967|-3600|-3600,"Hoxton Station, Hoxton",51.531091,-0.075901,7,15,true,false,false,22,true,0
+540,1664222967|-3600|-3600,"Albany Street, The Regent's Park",51.528302,-0.144466,16,11,true,false,false,27,true,0
+541,1664222967|-3600|-3600,"Green Park Station, Mayfair",51.506613,-0.142844,0,28,true,false,false,28,true,0
+542,1664222967|-3600|-3600,"Salmon Lane, Limehouse",51.514115,-0.033828,28,5,true,false,false,33,true,0
+543,1664222967|-3600|-3600,"Lansdowne Walk, Ladbroke Grove",51.509591,-0.204666,13,8,true,false,false,21,true,0
+544,1664222967|-3600|-3600,"Percival Street, Finsbury",51.526153,-0.102208,14,8,true,false,false,22,true,0
+545,1664222967|-3600|-3600,"Arlington Road, Camden Town",51.539957,-0.145246,17,7,true,false,false,24,true,0
+546,1664222967|-3600|-3600,"New Fetter Lane, Holborn",51.517428,-0.107987,0,21,true,false,false,21,true,0
+547,1664222967|-3600|-3600,"East India DLR, Blackwall",51.509474,-0.002275,10,41,true,false,false,51,true,0
+548,1664222967|-3600|-3600,"Westminster Bridge Road, Elephant &amp; Castle",51.498386,-0.107913,13,13,true,false,false,26,true,0
+549,1664222967|-3600|-3600,"Gaywood  Street, Elephant &amp; Castle",51.49605,-0.104193,9,36,true,false,false,45,true,0
+550,1664222967|-3600|-3600,"Harford Street, Mile End",51.521564,-0.039264,4,19,true,false,false,23,true,0
+551,1664222967|-3600|-3600,"Import Dock, Canary Wharf",51.505772,-0.016460175,2,37,true,false,false,39,true,0
+552,1664222967|-3600|-3600,"Watney Street, Shadwell",51.511542,-0.056667,7,20,true,false,false,27,true,0
+553,1664222967|-3600|-3600,"Regent's Row , Haggerston",51.535678,-0.062546,21,3,true,false,false,24,true,0
+554,1664222967|-3600|-3600,"Aberfeldy Street, Poplar",51.513548,-0.005659,3,13,true,false,false,16,true,0
+556,1664222967|-3600|-3600,"Heron Quays DLR, Canary Wharf",51.502661,-0.021596,0,27,true,false,false,27,true,0
+557,1664222967|-3600|-3600,"King Edward Street, St Pauls",51.51601,-0.0985,0,20,true,false,false,20,true,0
+558,1664222967|-3600|-3600,"Page Street, Westminster",51.493978,-0.127554,15,9,true,false,false,24,true,0
+559,1664222967|-3600|-3600,"Abbotsbury Road, Holland Park",51.501391,-0.205991,21,3,true,false,false,24,true,0
+560,1664222967|-3600|-3600,"Ladbroke Grove Central, Ladbroke Grove",51.511624,-0.205921,3,18,true,false,false,21,true,0
+561,1664222967|-3600|-3600,"Rectory Square, Stepney",51.518369,-0.043371,7,15,true,false,false,22,true,0
+562,1664222967|-3600|-3600,"Bury Place, Holborn",51.51746,-0.12335,3,18,true,false,false,21,true,0
+563,1664222967|-3600|-3600,"Preston's Road, Cubitt Town",51.499286,-0.009152,6,20,true,false,false,26,true,0
+564,1664222967|-3600|-3600,"Somerset House, Strand",51.509943,-0.117619,7,34,true,false,false,41,true,0
+565,1664222967|-3600|-3600,"Selby Street, Whitechapel",51.521905,-0.063386,6,11,true,false,false,17,true,0
+566,1664222967|-3600|-3600,"Westfield Ariel Way, White City",51.509158,-0.224103,21,21,true,false,false,42,true,0
+568,1664222967|-3600|-3600,"Bishop's Bridge Road West, Bayswater",51.51616,-0.18697,10,8,true,false,false,18,true,0
+569,1664222967|-3600|-3600,"Pitfield Street Central, Hoxton",51.53213,-0.08299,18,12,true,false,false,30,true,0
+570,1664222967|-3600|-3600,"Upper Bank Street, Canary Wharf",51.503083,-0.017676,5,31,true,false,false,36,true,0
+571,1664222967|-3600|-3600,"Westfield Southern Terrace ,Shepherd's Bush",51.506256,-0.218337,15,14,true,false,false,29,true,0
+572,1664222967|-3600|-3600,"Greenland Road, Camden Town",51.539099,-0.141728,34,2,true,false,false,36,true,0
+573,1664222967|-3600|-3600,"Limerston Street, West Chelsea",51.485587,-0.18119,12,6,true,false,false,18,true,0
+574,1664222967|-3600|-3600,"Eagle Wharf Road, Hoxton",51.53356,-0.09315,25,20,true,false,false,45,true,0
+576,1664222967|-3600|-3600,"Alpha Grove, Millwall",51.497304,-0.022793,17,5,true,false,false,22,true,0
+577,1664222967|-3600|-3600,"Globe Town Market, Bethnal Green",51.528869,-0.047548,12,8,true,false,false,20,true,0
+578,1664222967|-3600|-3600,"Hollybush Gardens, Bethnal Green",51.527607,-0.057133,18,14,true,false,false,32,true,0
+579,1664222967|-3600|-3600,"Queen Street 2, Bank",51.511246,-0.093051,1,35,true,false,false,36,true,0
+580,1664222967|-3600|-3600,"Doddington Grove, Kennington",51.48692917,-0.102996299,17,19,true,false,false,36,true,0
+581,1664222967|-3600|-3600,"New Cavendish Street, Marylebone",51.519167,-0.147983,2,16,true,false,false,18,true,0
+583,1664222967|-3600|-3600,"Abingdon Green, Westminster",51.49764,-0.12597218,2,18,true,false,false,20,true,0
+584,1664222967|-3600|-3600,"Ilchester Gardens, Bayswater",51.51244,-0.19096,16,5,true,false,false,21,true,0
+586,1664222967|-3600|-3600,"Mudchute DLR, Cubitt Town",51.490645,-0.014582,18,13,true,false,false,31,true,0
+587,1664222967|-3600|-3600,"Monument Street, Monument",51.50964,-0.08497,0,22,true,false,false,22,true,0
+588,1664222967|-3600|-3600,"Hoxton Street, Hoxton",51.52959,-0.0801,4,23,true,false,false,27,true,0
+589,1664222967|-3600|-3600,"Drayton Gardens, West Chelsea",51.487196,-0.179369,17,1,true,false,false,18,true,0
+590,1664222967|-3600|-3600,"Greenberry Street, St.John's Wood",51.53256,-0.16862,4,22,true,false,false,26,true,0
+592,1664222967|-3600|-3600,"Bishop's Bridge Road East, Bayswater",51.5171,-0.18377,6,14,true,false,false,20,true,0
+593,1664222967|-3600|-3600,"Northdown Street, King's Cross",51.531066,-0.11934,9,12,true,false,false,21,true,0
+594,1664222967|-3600|-3600,"Kingsway Southbound, Strand",51.513875,-0.117774,15,18,true,false,false,33,true,0
+595,1664222967|-3600|-3600,"Hammersmith Road, Hammersmith",51.493267,-0.21985,5,17,true,false,false,22,true,0
+596,1664222967|-3600|-3600,"Parson's Green , Parson's Green",51.472817,-0.199783,1,20,true,false,false,21,true,0
+597,1664222967|-3600|-3600,"Fulham Park Road, Fulham",51.473471,-0.20782,9,18,true,false,false,27,true,0
+598,1664222967|-3600|-3600,"Southerton Road, Hammersmith",51.494499,-0.228188,18,20,true,false,false,38,true,0
+599,1664222967|-3600|-3600,"Manbre Road, Hammersmith",51.485743,-0.223616,4,24,true,false,false,28,true,0
+600,1664222967|-3600|-3600,"South Lambeth Road, Vauxhall",51.481747,-0.124642,11,10,true,false,false,21,true,0
+601,1664222967|-3600|-3600,"BBC White City, White City",51.514767,-0.225787,3,33,true,false,false,36,true,0
+602,1664222967|-3600|-3600,"Union Grove, Wandsworth Road",51.472993,-0.133972,45,0,true,false,false,45,true,0
+603,1664222967|-3600|-3600,"Caldwell Street, Stockwell",51.477839,-0.116493,29,15,true,false,false,44,true,0
+604,1664222967|-3600|-3600,"St Martins Close, Camden Town",51.538792,-0.138535,15,3,true,false,false,18,true,0
+605,1664222967|-3600|-3600,"Seymour Place, Marylebone",51.520331,-0.163667,10,19,true,false,false,29,true,0
+606,1664222967|-3600|-3600,"Addison Road, Holland Park",51.504199,-0.210941,5,21,true,false,false,26,true,0
+607,1664222967|-3600|-3600,"Putney Bridge Station, Fulham",51.468814,-0.210279,17,4,true,false,false,21,true,0
+608,1664222967|-3600|-3600,"Colet Gardens, Hammersmith",51.491093,-0.216493,5,25,true,false,false,30,true,0
+609,1664222967|-3600|-3600,"Sugden Road, Clapham",51.46512358,-0.157788279,9,10,true,false,false,19,true,0
+610,1664222967|-3600|-3600,"Danvers Street, West Chelsea",51.48256792,-0.172078187,19,2,true,false,false,21,true,0
+611,1664222967|-3600|-3600,"Princedale Road , Holland Park",51.50646524,-0.208486599,10,10,true,false,false,20,true,0
+612,1664222967|-3600|-3600,"Wandsworth Rd, Isley Court, Wandsworth Road",51.46925984,-0.141812513,20,10,true,false,false,30,true,0
+613,1664222967|-3600|-3600,"Woodstock Grove, Shepherd's Bush",51.50403821,-0.217400093,8,16,true,false,false,24,true,0
+614,1664222967|-3600|-3600,"London Fields, Hackney Central",51.54119,-0.058826101,21,0,true,false,false,21,true,0
+615,1664222967|-3600|-3600,"Finlay Street, Fulham",51.4768851,-0.215895601,19,5,true,false,false,24,true,0
+616,1664222967|-3600|-3600,"Aintree Street, Fulham",51.48102131,-0.209973497,14,10,true,false,false,24,true,0
+617,1664222967|-3600|-3600,"Elysium Place, Fulham",51.47107905,-0.207842908,6,15,true,false,false,21,true,0
+618,1664222967|-3600|-3600,"Eel Brook Common, Walham Green",51.47625965,-0.193254007,20,4,true,false,false,24,true,0
+619,1664222967|-3600|-3600,"Irene Road, Parsons Green",51.4737636,-0.197010096,36,7,true,false,false,43,true,0
+620,1664222967|-3600|-3600,"Surrey Lane, Battersea",51.47518024,-0.167160736,20,8,true,false,false,28,true,0
+621,1664222967|-3600|-3600,"Wandsworth Town Station, Wandsworth",51.46086446,-0.187427294,27,6,true,false,false,33,true,0
+622,1664222967|-3600|-3600,"Lansdowne Road, Ladbroke Grove",51.50748124,-0.205535908,6,23,true,false,false,29,true,0
+623,1664222967|-3600|-3600,"Nantes Close, Wandsworth",51.46193072,-0.180791784,5,17,true,false,false,22,true,0
+624,1664222967|-3600|-3600,"Courland Grove, Wandsworth Road",51.4729184,-0.132102704,26,14,true,false,false,40,true,0
+625,1664222967|-3600|-3600,"Queen's Circus, Battersea Park",51.47761941,-0.149551631,26,2,true,false,false,28,true,0
+626,1664222967|-3600|-3600,"Normand Park, West Kensington",51.48438657,-0.20481514,15,9,true,false,false,24,true,0
+627,1664222967|-3600|-3600,"Holden Street, Battersea",51.4687905,-0.158230901,14,6,true,false,false,20,true,0
+628,1664222967|-3600|-3600,"William Morris Way, Sands End",51.46881971,-0.184318843,10,16,true,false,false,26,true,0
+629,1664222967|-3600|-3600,"Morie Street, Wandsworth",51.45995384,-0.190184054,16,12,true,false,false,28,true,0
+630,1664222967|-3600|-3600,"Clarence Walk, Stockwell",51.47073264,-0.126994068,15,13,true,false,false,28,true,0
+631,1664222967|-3600|-3600,"Battersea Park Road, Nine Elms",51.4795017,-0.141770709,3,24,true,false,false,27,true,0
+632,1664222967|-3600|-3600,"Sheepcote Lane, Battersea",51.47053858,-0.163041605,27,1,true,false,false,28,true,0
+633,1664222967|-3600|-3600,"Vereker Road, West Kensington",51.48959104,-0.209378594,20,12,true,false,false,32,true,0
+634,1664222967|-3600|-3600,"Brook Green South, Brook Green",51.49434708,-0.215804559,4,29,true,false,false,33,true,0
+635,1664222967|-3600|-3600,"Greyhound Road, Hammersmith",51.48606206,-0.214428378,15,22,true,false,false,37,true,0
+636,1664222967|-3600|-3600,"South Park, Sands End",51.46706414,-0.193502076,6,22,true,false,false,28,true,0
+637,1664222967|-3600|-3600,"Spencer Park, Wandsworth Common",51.45787019,-0.174691623,11,14,true,false,false,25,true,0
+638,1664222967|-3600|-3600,"Falcon Road, Clapham Junction",51.46663393,-0.169821175,27,1,true,false,false,28,true,0
+639,1664222967|-3600|-3600,"Coomer Place, West Kensington",51.48357068,-0.202038682,15,12,true,false,false,27,true,0
+640,1664222967|-3600|-3600,"Silverthorne Road, Battersea",51.47286577,-0.148059277,17,11,true,false,false,28,true,0
+641,1664222967|-3600|-3600,"Archbishop's Park, Waterloo",51.49824168,-0.117495865,17,6,true,false,false,23,true,0
+642,1664222967|-3600|-3600,"Fawcett Close, Battersea",51.46916161,-0.174485792,24,12,true,false,false,36,true,0
+643,1664222967|-3600|-3600,"All Saints' Road, Portobello",51.5190427,-0.204764421,12,10,true,false,false,22,true,0
+644,1664222967|-3600|-3600,"Rainville Road, Hammersmith",51.48373225,-0.223852256,32,4,true,false,false,36,true,0
+645,1664222967|-3600|-3600,"Great Suffolk Street, The Borough",51.50173215,-0.100292412,12,9,true,false,false,21,true,0
+646,1664222967|-3600|-3600,"Buckingham Gate, Westminster",51.49886563,-0.137424571,7,9,true,false,false,16,true,0
+647,1664222967|-3600|-3600,"Richmond Way, Shepherd's Bush",51.50035306,-0.217515071,17,10,true,false,false,27,true,0
+648,1664222967|-3600|-3600,"Peterborough Road, Sands End",51.46904022,-0.19627483,28,2,true,false,false,30,true,0
+649,1664222967|-3600|-3600,"World's End Place, West Chelsea",51.48180515,-0.18027465,11,11,true,false,false,22,true,0
+650,1664222967|-3600|-3600,"St. Mark's Road, North Kensington",51.51687069,-0.213872396,21,0,true,false,false,21,true,0
+651,1664222967|-3600|-3600,"Thorndike Close, West Chelsea",51.48089844,-0.183853573,11,14,true,false,false,25,true,0
+652,1664222967|-3600|-3600,"Evesham Street, Avondale",51.51148696,-0.218190203,7,22,true,false,false,29,true,0
+653,1664222967|-3600|-3600,"Simpson Street, Clapham Junction",51.47084722,-0.17070367,22,3,true,false,false,25,true,0
+654,1664222967|-3600|-3600,"Ashmole Estate, Oval",51.48267821,-0.117661574,22,12,true,false,false,34,true,0
+655,1664222967|-3600|-3600,"Crabtree Lane, Fulham",51.48294452,-0.219346128,24,3,true,false,false,27,true,0
+656,1664222967|-3600|-3600,"Broomhouse Lane, Parsons Green",51.46841875,-0.199135704,25,4,true,false,false,29,true,0
+657,1664222967|-3600|-3600,"Blythe Road West, Shepherd's Bush",51.49968,-0.221791551,11,10,true,false,false,21,true,0
+658,1664222967|-3600|-3600,"Ethelburga Estate, Battersea Park",51.47729232,-0.16478637,16,14,true,false,false,30,true,0
+659,1664222967|-3600|-3600,"Blackfriars Station, St. Paul's",51.511934,-0.10307894,1,34,true,false,false,35,true,0
+660,1664222967|-3600|-3600,"West Kensington Station, West Kensington",51.49087074,-0.206029743,16,3,true,false,false,19,true,0
+661,1664222967|-3600|-3600,"All Saints Church, Portobello",51.51632095,-0.202608612,11,26,true,false,false,37,true,0
+662,1664222967|-3600|-3600,"Phene Street, Chelsea",51.48498496,-0.167919869,8,16,true,false,false,24,true,0
+663,1664222967|-3600|-3600,"Clarendon Road, Avondale",51.51323001,-0.211593602,17,7,true,false,false,24,true,0
+664,1664222967|-3600|-3600,"Austin Road, Battersea Park",51.474376,-0.155442787,21,3,true,false,false,24,true,0
+665,1664222967|-3600|-3600,"Smugglers Way, Wandsworth",51.46108367,-0.191722864,15,7,true,false,false,22,true,0
+667,1664222967|-3600|-3600,"Shepherd's Bush Road North, Shepherd's Bush",51.5015946,-0.222293381,6,28,true,false,false,34,true,0
+668,1664222967|-3600|-3600,"Ravenscourt Park Station, Hammersmith",51.49422354,-0.236769936,18,8,true,false,false,26,true,0
+669,1664222967|-3600|-3600,"Teversham Lane, Stockwell",51.47614939,-0.1232585,37,2,true,false,false,39,true,0
+670,1664222967|-3600|-3600,"Ashley Crescent, Battersea",51.46718562,-0.152248582,28,0,true,false,false,28,true,0
+671,1664222967|-3600|-3600,"Parsons Green Station, Parsons Green",51.475089,-0.201968,16,40,true,false,false,56,true,0
+673,1664222967|-3600|-3600,"Hibbert Street, Battersea",51.46517078,-0.18038939,35,1,true,false,false,36,true,0
+674,1664222967|-3600|-3600,"Carnegie Street, King's Cross",51.53546778,-0.11619105,6,34,true,false,false,40,true,0
+675,1664222967|-3600|-3600,"Usk Road, Clapham Junction",51.46348914,-0.182126248,29,1,true,false,false,30,true,0
+676,1664222967|-3600|-3600,"Hartington Road, Stockwell",51.47787084,-0.126874471,7,28,true,false,false,35,true,0
+677,1664222967|-3600|-3600,"Heath Road, Battersea",51.46866929,-0.146544642,9,18,true,false,false,27,true,0
+678,1664222967|-3600|-3600,"Esmond Street, Putney",51.46231278,-0.211468596,9,21,true,false,false,30,true,0
+679,1664222967|-3600|-3600,"Orbel Street, Battersea",51.47453545,-0.170210533,17,9,true,false,false,26,true,0
+680,1664222967|-3600|-3600,"Westbridge Road, Battersea",51.47768469,-0.170329317,21,7,true,false,false,28,true,0
+681,1664222967|-3600|-3600,"Bishop's Avenue, Fulham",51.47303687,-0.214749808,30,16,true,false,false,46,true,0
+682,1664222967|-3600|-3600,"Crisp Road, Hammersmith",51.48810829,-0.22660621,18,28,true,false,false,46,true,0
+683,1664222967|-3600|-3600,"Dorothy Road, Clapham Junction",51.46506424,-0.163750945,10,18,true,false,false,28,true,0
+684,1664222967|-3600|-3600,"Neville Gill Close, Wandsworth",51.45475251,-0.195197203,32,0,true,false,false,32,true,0
+685,1664222967|-3600|-3600,"Osiers Road, Wandsworth",51.46067005,-0.198735357,23,7,true,false,false,30,true,0
+686,1664222967|-3600|-3600,"Beryl Road, Hammersmith",51.48814438,-0.222456468,5,21,true,false,false,26,true,0
+688,1664222967|-3600|-3600,"Northfields, Wandsworth",51.46095151,-0.20066766,11,17,true,false,false,28,true,0
+689,1664222967|-3600|-3600,"Spanish Road, Clapham Junction",51.45922541,-0.180884959,4,26,true,false,false,30,true,0
+690,1664222967|-3600|-3600,"Stanley Grove, Battersea",51.47047503,-0.152130083,18,6,true,false,false,24,true,0
+691,1664222967|-3600|-3600,"Erin Close, Walham Green",51.47946386,-0.195777222,20,4,true,false,false,24,true,0
+692,1664222967|-3600|-3600,"Cadogan Close, Victoria Park",51.54211855,-0.028941601,17,5,true,false,false,22,true,0
+693,1664222967|-3600|-3600,"Felsham Road, Putney",51.464786,-0.215618902,17,1,true,false,false,18,true,0
+694,1664222967|-3600|-3600,"Putney Rail Station, Putney",51.46071722,-0.216526155,8,12,true,false,false,20,true,0
+695,1664222967|-3600|-3600,"Islington Green, Angel",51.53638435,-0.102757578,19,2,true,false,false,21,true,0
+696,1664222967|-3600|-3600,"Charing Cross Hospital, Hammersmith",51.48728535,-0.217995921,15,6,true,false,false,21,true,0
+697,1664222967|-3600|-3600,"Charlotte Terrace, Angel",51.53639219,-0.112721065,10,15,true,false,false,25,true,0
+698,1664222967|-3600|-3600,"Shoreditch Court, Haggerston",51.53908372,-0.070329419,10,25,true,false,false,35,true,0
+699,1664222967|-3600|-3600,"Belford House, Haggerston",51.5366541,-0.07023031,1,38,true,false,false,39,true,0
+700,1664222967|-3600|-3600,"Battersea Church Road, Battersea",51.47696496,-0.174347066,4,21,true,false,false,25,true,0
+701,1664222967|-3600|-3600,"Vicarage Crescent, Battersea",51.47287627,-0.176267008,22,8,true,false,false,30,true,0
+702,1664222967|-3600|-3600,"Durant Street, Bethnal Green",51.52868155,-0.065550321,13,11,true,false,false,24,true,0
+703,1664222967|-3600|-3600,"St. Bride Street, Holborn",51.51505991,-0.10534448,0,25,true,false,false,25,true,0
+704,1664222967|-3600|-3600,"Mexfield Road, East Putney",51.45682071,-0.202802098,1,17,true,false,false,18,true,0
+705,1664222967|-3600|-3600,"Upper Richmond Road, Putney",51.45971528,-0.212145939,22,3,true,false,true,25,true,0
+706,1664222967|-3600|-3600,"Snowsfields, London Bridge",51.50215353,-0.083632928,10,21,true,false,false,31,true,0
+707,1664222967|-3600|-3600,"Barons Court Station, West Kensington",51.49021762,-0.215087092,0,32,true,false,false,32,true,0
+708,1664222967|-3600|-3600,"Disraeli Road, Putney",51.46161068,-0.21614583,16,17,true,false,false,33,true,0
+709,1664222967|-3600|-3600,"Montserrat Road , Putney",51.46321128,-0.215550761,21,2,true,false,false,23,true,0
+710,1664222967|-3600|-3600,"Albert Bridge Road, Battersea Park",51.47439218,-0.163347594,14,6,true,false,false,20,true,0
+711,1664222967|-3600|-3600,"Everington Street, Fulham",51.48335692,-0.216305546,28,3,true,false,false,31,true,0
+712,1664222967|-3600|-3600,"Mile End Stadium, Mile End",51.51854104,-0.034903714,11,11,true,false,false,22,true,0
+713,1664222967|-3600|-3600,"Hawley Crescent, Camden Town",51.54100708,-0.14326094,11,11,true,false,false,22,true,0
+714,1664222967|-3600|-3600,"Stewart's Road, Wandsworth Road",51.47311696,-0.137235175,8,20,true,false,false,28,true,0
+715,1664222967|-3600|-3600,"Aylward Street, Stepney",51.51563007,-0.049067243,22,0,true,false,false,22,true,0
+716,1664222967|-3600|-3600,"Stainsby Road , Poplar",51.51542791,-0.02356501,13,11,true,false,false,24,true,0
+717,1664222967|-3600|-3600,"Dunston Road , Haggerston",51.53658514,-0.075885686,31,12,true,false,false,43,true,0
+718,1664222967|-3600|-3600,"Ada Street, Hackney Central",51.53571683,-0.060291813,15,30,true,false,false,45,true,0
+719,1664222967|-3600|-3600,"Victoria Park Road, Hackney Central",51.53642464,-0.054162264,8,26,true,false,false,34,true,0
+720,1664222967|-3600|-3600,"Star Road, West Kensington",51.48724429,-0.205279052,7,16,true,false,false,23,true,0
+721,1664222967|-3600|-3600,"Wendon Street, Old Ford",51.53603947,-0.026262677,4,14,true,false,false,18,true,0
+722,1664222967|-3600|-3600,"Finnis Street, Bethnal Green",51.52458353,-0.058631453,7,12,true,false,false,19,true,0
+723,1664222967|-3600|-3600,"Stephendale Road, Sands End",51.46822047,-0.190346493,18,30,true,false,false,48,true,0
+724,1664222967|-3600|-3600,"Alma Road, Wandsworth",51.45799126,-0.184806157,6,22,true,false,false,28,true,0
+725,1664222967|-3600|-3600,"Walworth Square, Walworth",51.491327,-0.096518684,12,12,true,false,false,24,true,0
+726,1664222967|-3600|-3600,"Alfreda Street, Battersea Park",51.47505096,-0.150908371,11,11,true,false,false,22,true,0
+727,1664222967|-3600|-3600,"Chesilton Road, Fulham",51.47569809,-0.20587627,8,15,true,false,false,23,true,0
+728,1664222967|-3600|-3600,"Putney Bridge Road, East Putney",51.46199911,-0.206240805,4,25,true,false,false,29,true,0
+729,1664222967|-3600|-3600,"St. Peter's Terrace, Fulham",51.47893931,-0.208485293,22,2,true,false,false,24,true,0
+730,1664222967|-3600|-3600,"Bridge Avenue, Hammersmith",51.49208492,-0.229116862,15,3,true,false,false,18,true,0
+732,1664222967|-3600|-3600,"Duke Street Hill, London Bridge",51.50630441,-0.087262995,12,9,true,false,false,21,true,0
+733,1664222967|-3600|-3600,"Park Lane, Mayfair",51.50542628,-0.150817316,0,18,true,false,false,18,true,0
+734,1664222967|-3600|-3600,"Plough Terrace, Clapham Junction",51.46230566,-0.175407201,6,25,true,false,false,31,true,0
+735,1664222967|-3600|-3600,"Grant Road East, Clapham Junction",51.46489445,-0.17302926,21,7,true,false,false,28,true,0
+736,1664222967|-3600|-3600,"Queensdale Road, Shepherd's Bush",51.50659035,-0.216104479,19,9,true,false,false,28,true,0
+737,1664222967|-3600|-3600,"Fulham Broadway, Walham Green",51.47993289,-0.19411695,6,20,true,false,false,26,true,0
+738,1664222967|-3600|-3600,"Imperial Road, Sands End",51.47514228,-0.187278987,19,18,true,false,false,37,true,0
+739,1664222967|-3600|-3600,"Hortensia Road, West Brompton",51.48176572,-0.185273723,10,18,true,false,false,28,true,0
+740,1664222967|-3600|-3600,"Sirdar Road, Avondale",51.51092871,-0.214594781,1,25,true,false,false,26,true,0
+741,1664222967|-3600|-3600,"Freston Road, Avondale",51.5129814,-0.219486603,23,0,true,false,false,23,true,0
+742,1664222967|-3600|-3600,"Blenheim Crescent, Ladbroke Grove",51.51510818,-0.208565479,19,3,true,false,false,22,true,0
+743,1664222967|-3600|-3600,"Oxford Road, Putney",51.46079243,-0.212607684,7,22,true,false,false,29,true,0
+744,1664222967|-3600|-3600,"Ingrave Street, Clapham Junction",51.46745485,-0.172293499,12,18,true,false,false,30,true,0
+745,1664222967|-3600|-3600,"Upcerne Road, West Chelsea",51.47816972,-0.18243547,3,26,true,false,false,29,true,0
+746,1664222967|-3600|-3600,"Lots Road, West Chelsea",51.4795738,-0.17903854,7,17,true,false,false,24,true,0
+747,1664222967|-3600|-3600,"Ormonde Gate, Chelsea",51.48796408,-0.161765173,15,9,true,false,false,24,true,0
+748,1664222967|-3600|-3600,"Hertford Road, De Beauvoir Town",51.53727795,-0.079201849,12,13,true,false,false,25,true,0
+749,1664222967|-3600|-3600,"Haggerston Road, Haggerston",51.53932857,-0.074284675,12,25,true,false,false,37,true,0
+750,1664222967|-3600|-3600,"Culvert Road, Battersea",51.4710956,-0.157850096,20,7,true,false,false,27,true,0
+751,1664222967|-3600|-3600,"Newton Street, Covent Garden",51.51612862,-0.120909408,6,18,true,false,false,24,true,0
+752,1664222967|-3600|-3600,"London Street, Paddington",51.515117,-0.17371276,16,3,true,false,false,19,true,0
+754,1664222967|-3600|-3600,"Grenfell Road, Avondale",51.5129006,-0.214762686,2,22,true,false,false,24,true,0
+755,1664222967|-3600|-3600,"The Vale, Chelsea",51.48512191,-0.174971902,21,3,true,false,false,24,true,0
+756,1664222967|-3600|-3600,"Prince of Wales Drive, Battersea Park",51.47515398,-0.159169801,14,7,true,false,false,21,true,0
+757,1664222967|-3600|-3600,"Harcourt Terrace, West Brompton",51.48795853,-0.187404506,15,9,true,false,false,24,true,0
+758,1664222967|-3600|-3600,"Westbourne Park Road, Portobello",51.51787005,-0.201005397,4,19,true,false,false,23,true,0
+759,1664222967|-3600|-3600,"Broadley Terrace, Marylebone",51.52456169,-0.165668686,2,16,true,false,false,18,true,0
+761,1664222967|-3600|-3600,"Humbolt Road, Fulham",51.48321729,-0.211860644,12,14,true,false,false,26,true,0
+762,1664222967|-3600|-3600,"Storey's Gate, Westminster",51.50070305,-0.129698963,0,0,true,false,false,0,true,0
+763,1664222967|-3600|-3600,"Mile End Park Leisure Centre, Mile End",51.52059714,-0.032566533,24,23,true,false,false,47,true,0
+764,1664222967|-3600|-3600,"St. John's Road, Clapham Junction",51.46239255,-0.16829214,30,3,true,false,false,33,true,0
+765,1664222967|-3600|-3600,"Ranelagh Gardens, Fulham",51.46760141,-0.20682737,15,24,true,false,false,39,true,0
+766,1664222967|-3600|-3600,"Ram Street, Wandsworth",51.45752945,-0.192165613,23,2,true,false,false,25,true,0
+767,1664222967|-3600|-3600,"Santos Road, Wandsworth",51.45705988,-0.200806304,12,18,true,false,false,30,true,0
+768,1664222967|-3600|-3600,"Clapham Common North Side, Clapham Common",51.46134382,-0.159322467,18,19,true,false,false,37,true,0
+769,1664222967|-3600|-3600,"Sandilands Road, Walham Green",51.473611,-0.191803,14,7,true,false,false,21,true,0
+770,1664222967|-3600|-3600,"Gwendwr Road, West Kensington",51.491026,-0.209121,17,13,true,false,false,30,true,0
+771,1664222967|-3600|-3600,"Rifle Place, Avondale",51.509224,-0.216016,5,16,true,false,false,21,true,0
+772,1664222967|-3600|-3600,"Binfield Road, Stockwell",51.47250956,-0.122831913,17,18,true,false,false,35,true,0
+773,1664222967|-3600|-3600,"Tallis Street, Temple",51.511891,-0.107349,1,23,true,false,false,24,true,0
+774,1664222967|-3600|-3600,"Hurlingham Park, Parsons Green",51.470131,-0.20464,5,15,true,false,false,20,true,0
+775,1664222967|-3600|-3600,"Little Brook Green, Brook Green",51.496664,-0.223868,16,17,true,false,false,33,true,0
+776,1664222967|-3600|-3600,"Abyssinia Close, Clapham Junction",51.460333,-0.167029,14,6,true,false,false,20,true,0
+777,1664222967|-3600|-3600,"Limburg Road, Clapham Junction",51.4619230679,-0.165297856693,2,19,true,false,false,21,true,0
+779,1664222967|-3600|-3600,"Houndsditch, Aldgate",51.514449,-0.077178979,1,27,true,false,false,28,true,0
+780,1664222967|-3600|-3600,"Imperial Wharf Station, Sands End",51.474665,-0.18316517,7,18,true,false,false,25,true,0
+781,1664222967|-3600|-3600,"Victoria &amp; Albert Museum, South Kensington",51.495898,-0.173009,13,17,true,false,false,30,true,0
+782,1664222967|-3600|-3600,"Halford Road, West Kensington",51.483911,-0.19760944,23,1,true,false,false,24,true,0
+783,1664222967|-3600|-3600,"Monier Road, Hackney Wick",51.5403115,-0.021630359,7,20,true,false,false,27,true,0
+784,1664222967|-3600|-3600,"East Village, Queen Elizabeth Olympic Park",51.546326,-0.00993526,13,21,true,false,false,34,true,0
+785,1664222967|-3600|-3600,"Aquatic Centre, Queen Elizabeth Olympic Park",51.54094,-0.010510565,61,3,true,false,false,64,true,0
+786,1664222967|-3600|-3600,"Lee Valley VeloPark, Queen Elizabeth Olympic Park",51.549369,-0.015717614,13,31,true,false,false,44,true,0
+787,1664222967|-3600|-3600,"Timber Lodge, Queen Elizabeth Olympic Park",51.546805,-0.01469126,7,28,true,false,false,35,true,0
+788,1664222967|-3600|-3600,"Copper Box Arena, Queen Elizabeth Olympic Park",51.544909,-0.0205426,9,22,true,false,false,31,true,0
+789,1664222967|-3600|-3600,"Podium, Queen Elizabeth Olympic Park",51.538718,-0.011889482,12,12,true,false,false,24,true,0
+790,1664222967|-3600|-3600,"Stratford Station, Stratford",51.541793,-0.00481,19,9,true,false,false,28,true,0
+792,1664222967|-3600|-3600,"Blackfriars Road, Southwark",51.505461,-0.10454093,14,28,true,false,false,42,true,0
+793,1664222967|-3600|-3600,"Cromer Street, Bloomsbury",51.528279,-0.11955857,20,8,true,false,false,28,true,0
+794,1664222967|-3600|-3600,"Victoria Rise, Clapham Common",51.461376,-0.14780467,7,16,true,false,false,23,true,0
+795,1664222967|-3600|-3600,"Euston Square Gardens, Euston",51.527068,-0.13186102,12,18,true,false,false,30,true,0
+796,1664222967|-3600|-3600,"Coram Street, Bloomsbury",51.524,-0.12640984,3,26,true,false,false,29,true,0
+797,1664222967|-3600|-3600,"Ossulston Street, Somers Town",51.5293,-0.12827903,25,5,true,false,false,30,true,0
+798,1664222967|-3600|-3600,"Birkenhead Street, King's Cross",51.5301998755,-0.122299440803,9,18,true,false,false,27,true,0
+799,1664222967|-3600|-3600,"Kings Gate House, Westminster",51.4976984561,-0.137598896295,9,15,true,false,false,24,true,0
+800,1664222967|-3600|-3600,"Sopwith Way, Battersea Park",51.4811219398,-0.149035374873,30,0,true,false,false,30,true,0
+801,1664222967|-3600|-3600,"Lavington Street, Bankside",51.5052241745,-0.0980318118664,8,21,true,false,false,29,true,0
+802,1664222967|-3600|-3600,"Albert Square, Stockwell",51.4765900593,-0.118256789081,14,18,true,false,false,32,true,0
+803,1664222967|-3600|-3600,"Southwark Street, Bankside",51.5054099403,-0.0983410884509,10,13,true,false,false,23,true,0
+804,1664222967|-3600|-3600,"Good's Way, King's Cross",51.5346677396,-0.125078652873,16,11,true,false,false,27,true,0
+805,1664222967|-3600|-3600,"The Metropolitan, Portobello",51.520509,-0.20080483,6,12,true,false,false,18,true,0
+806,1664222967|-3600|-3600,"Handyside Street, King's Cross",51.5372405623,-0.124807385707,3,24,true,false,false,27,true,0
+807,1664222967|-3600|-3600,"Bevington Road West, North Kensington",51.5212,-0.208888173,9,15,true,false,false,24,true,0
+808,1664222967|-3600|-3600,"Gauden Road, Clapham",51.464995,-0.13090885,20,8,true,false,false,28,true,0
+809,1664222967|-3600|-3600,"Lincoln's Inn Fields, Holborn",51.5162778834,-0.118272991635,10,18,true,false,false,28,true,0
+810,1664222967|-3600|-3600,"Tate Modern, Bankside",51.5067252868,-0.0988072461627,9,21,true,false,false,30,true,0
+811,1664222967|-3600|-3600,"Westferry Circus, Canary Wharf",51.5057030357,-0.0277727426235,20,16,true,false,false,36,true,0
+812,1664222967|-3600|-3600,"Here East North, Queen Elizabeth Olympic Park",51.5487311915,-0.0226065549321,8,20,true,false,false,28,true,0
+813,1664222967|-3600|-3600,"New Spring Gardens Walk, Vauxhall",51.4878074485,-0.122759625866,17,20,true,false,false,37,true,0
+814,1664222967|-3600|-3600,"Clapham Road, Lingham Street, Stockwell",51.4714330677,-0.123670735702,9,21,true,false,false,30,true,0
+815,1664222967|-3600|-3600,"Lambeth Palace Road, Waterloo",51.5000891978,-0.116628700672,11,24,true,false,false,35,true,0
+816,1664222967|-3600|-3600,"Here East South, Queen Elizabeth Olympic Park",51.5465327935,-0.0205975904647,11,17,true,false,false,28,true,0
+817,1664222967|-3600|-3600,"Riverlight South, Nine Elms",51.4813354746,-0.138212295869,8,18,true,false,false,26,true,0
+818,1664222967|-3600|-3600,"Westminster Pier, Westminster",51.501513,-0.12382322,2,25,true,false,false,27,true,0
+819,1664222967|-3600|-3600,"Belvedere Road 2, South Bank",51.50621,-0.114842,14,24,true,false,false,38,true,0
+820,1664222967|-3600|-3600,"Victory Place, Walworth",51.492807,-0.091938,4,20,true,false,false,24,true,0
+821,1664222967|-3600|-3600,"Battersea Power Station, Battersea Park",51.4835074867,-0.147714557371,23,4,true,false,false,27,true,0
+826,1664222967|-3600|-3600,"Allington Street, Victoria",51.496863,-0.1429434,12,16,true,false,false,28,true,0
+827,1664222967|-3600|-3600,"Cranmer Road, Stockwell",51.479601,-0.11147178,22,2,true,false,false,24,true,0
+828,1664222967|-3600|-3600,"Normandy Road, Stockwell",51.473874,-0.11258096,24,8,true,false,false,32,true,0
+829,1664222967|-3600|-3600,"Wynne Road, Stockwell",51.469217,-0.11268674,8,17,true,false,false,25,true,0
+830,1664222967|-3600|-3600,"Sidney Road, Stockwell",51.469202,-0.11902256,24,3,true,false,false,27,true,0
+831,1664222967|-3600|-3600,"St John's Crescent, Brixton",51.466232,-0.11317995,17,8,true,false,false,25,true,0
+832,1664222967|-3600|-3600,"Ferndale Road, Brixton",51.464019,-0.11578197,28,2,true,false,false,30,true,0
+833,1664222967|-3600|-3600,"Saltoun Road, Brixton",51.460232,-0.11537509,17,25,true,false,false,42,true,0
+834,1664222967|-3600|-3600,"Gas Holders, Battersea Park",51.477966,-0.14785703,22,4,true,false,false,26,true,0
+835,1664222967|-3600|-3600,"Farringdon Street, Holborn",51.516785,-0.10494775,3,22,true,false,false,25,true,0
+836,1664222967|-3600|-3600,"York Way, Kings Cross",51.541596,-0.12544145,6,18,true,false,false,24,true,0
+838,1664222967|-3600|-3600,"Fore Street Avenue, Guildhall",51.518093,-0.0914017,0,25,true,false,false,25,true,0
+839,1664222967|-3600|-3600,"Sea Containers, South Bank",51.508033,-0.10682363,6,24,true,false,false,30,true,0
+840,1664222967|-3600|-3600,"George Row, Bermondsey",51.498585,-0.068981764,13,9,true,false,false,22,true,0
+841,1664222967|-3600|-3600,"Tower Wharf, Bermondsey",51.500845,-0.074704305,10,10,true,false,false,20,true,0
+844,1664222967|-3600|-3600,"Canada Water Station, Rotherhithe",51.498439,-0.049150215,29,6,true,false,false,35,true,0
+845,1664222967|-3600|-3600,"Bermondsey Station, Bermondsey",51.497995,-0.063471392,8,22,true,false,false,30,true,0
+846,1664222967|-3600|-3600,"Burgess Park Albany Road, Walworth",51.48224,-0.0942844,27,3,true,false,false,30,true,0
+850,1664222967|-3600|-3600,"Brandon Street, Walworth",51.489102,-0.0915489,16,6,true,false,false,22,true,0
