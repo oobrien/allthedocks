@@ -2,7 +2,7 @@
 <gpx version="1.1" creator="GDAL 3.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <metadata><bounds minlat="51.476271528285082" minlon="-0.236753104399615" maxlat="51.542973795627958" maxlon="-0.116734510242206"/></metadata>                  
 <rte>
-  <name>01 Hammersmith</name>
+  <name>W01 Hammersmith</name>
   <cmt></cmt>
   <desc>10431.58368043346</desc>
   <src>20</src>
@@ -249,7 +249,7 @@
   </rtept>
 </rte>
 <rte>
-  <name>02 Shepherd's Bush</name>
+  <name>W02 Shepherd's Bush</name>
   <cmt>Walk down/up the Richmond Way link. Use lift up on second visit to Westfield.</cmt>
   <desc>9598.579453782695</desc>
   <src>16</src>
@@ -556,7 +556,7 @@
   </rtept>
 </rte>
 <rte>
-  <name>03 Notting Hill</name>
+  <name>W03 Notting Hill</name>
   <cmt></cmt>
   <desc>10045.63781946499</desc>
   <src>22</src>
@@ -819,7 +819,7 @@
   </rtept>
 </rte>
 <rte>
-  <name>04 Kensington</name>
+  <name>W04 Kensington</name>
   <cmt>Walk bike through Holland Park</cmt>
   <desc>10467.77738441322</desc>
   <src>25</src>
@@ -1078,7 +1078,7 @@
   </rtept>
 </rte>
 <rte>
-  <name>05 South Kensington</name>
+  <name>W05 South Kensington</name>
   <cmt></cmt>
   <desc>9551.657362848617</desc>
   <src>22</src>
@@ -1305,7 +1305,7 @@
   </rtept>
 </rte>
 <rte>
-  <name>06 St Johns Wood</name>
+  <name>W06 St Johns Wood</name>
   <cmt></cmt>
   <desc>8539.387820057418</desc>
   <src>18</src>
@@ -1518,7 +1518,7 @@
   </rtept>
 </rte>
 <rte>
-  <name>07 Edgware Road</name>
+  <name>W07 Edgware Road</name>
   <cmt></cmt>
   <desc>10161.22188436839</desc>
   <src>22</src>
@@ -1769,7 +1769,7 @@
   </rtept>
 </rte>
 <rte>
-  <name>08 Knightsbridge</name>
+  <name>W08 Knightsbridge</name>
   <cmt>Walk bikes on path from Knightsbridge up to South Carriage Drive (80m).</cmt>
   <desc>10038.47486379678</desc>
   <src>27</src>
@@ -2118,7 +2118,7 @@
   </rtept>
 </rte>
 <rte>
-  <name>09 Mayfair</name>
+  <name>W09 Mayfair</name>
   <cmt>Walk along Curzon Street (W to E).</cmt>
   <desc>9563.417046335462</desc>
   <src>22</src>
@@ -2403,7 +2403,7 @@
   </rtept>
 </rte>
 <rte>
-  <name>10 Camden</name>
+  <name>W10 Camden</name>
   <cmt>Walk outside Morning Crescent (80m)</cmt>
   <desc>10131.28228217969</desc>
   <src>20</src>
@@ -2636,7 +2636,7 @@
   </rtept>
 </rte>
 <rte>
-  <name>11 Fitzrovia</name>
+  <name>W11 Fitzrovia</name>
   <cmt></cmt>
   <desc>9935.615313572098</desc>
   <src>24</src>
@@ -2915,7 +2915,7 @@
   </rtept>
 </rte>
 <rte>
-  <name>12 Soho</name>
+  <name>W12 Soho</name>
   <cmt></cmt>
   <desc>7510.261806996284</desc>
   <src>26</src>
