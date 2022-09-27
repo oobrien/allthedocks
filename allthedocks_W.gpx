@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <gpx version="1.1" creator="GDAL 3.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
-<metadata><bounds minlat="51.476271528285082" minlon="-0.236753104399615" maxlat="51.542973795627958" maxlon="-0.117558489058296"/></metadata>                  
+<metadata><bounds minlat="51.476271528285082" minlon="-0.236753104399615" maxlat="51.542973795627958" maxlon="-0.116734510242206"/></metadata>                  
 <rte>
   <name>01 Hammersmith</name>
   <cmt></cmt>
@@ -1771,7 +1771,7 @@
 <rte>
   <name>08 Knightsbridge</name>
   <cmt>Walk bikes on path from Knightsbridge up to South Carriage Drive (80m).</cmt>
-  <desc>10047.34663897936</desc>
+  <desc>10038.47486379678</desc>
   <src>27</src>
   <number>8</number>
   <rtept lat="51.510112211361111" lon="-0.155755229430069">
@@ -2114,9 +2114,7 @@
   </rtept>
   <rtept lat="51.502736195722136" lon="-0.14956178522688">
   </rtept>
-  <rtept lat="51.502743669282481" lon="-0.149473383211689">
-  </rtept>
-  <rtept lat="51.502744736055561" lon="-0.149360465702669">
+  <rtept lat="51.502755648972169" lon="-0.149505210900831">
   </rtept>
 </rte>
 <rte>
@@ -2919,8 +2917,8 @@
 <rte>
   <name>12 Soho</name>
   <cmt></cmt>
-  <desc>7488.67148607518</desc>
-  <src>25</src>
+  <desc>7510.261806996284</desc>
+  <src>26</src>
   <number>12</number>
   <rtept lat="51.517756528961179" lon="-0.12779614142928">
   </rtept>
@@ -3106,59 +3104,37 @@
   </rtept>
   <rtept lat="51.509470331974335" lon="-0.127377783530119">
   </rtept>
-  <rtept lat="51.50856814504435" lon="-0.127131407424313">
-  </rtept>
-  <rtept lat="51.508674409155063" lon="-0.125426562411963">
-  </rtept>
-  <rtept lat="51.508653306493656" lon="-0.125279638550608">
-  </rtept>
-  <rtept lat="51.508432900334824" lon="-0.12559985722279">
-  </rtept>
-  <rtept lat="51.50823346897274" lon="-0.12603266509845">
-  </rtept>
-  <rtept lat="51.50809826077311" lon="-0.126065250460262">
-  </rtept>
-  <rtept lat="51.507859589965896" lon="-0.126760083628722">
-  </rtept>
-  <rtept lat="51.507895796667668" lon="-0.126834120801637">
-  </rtept>
-  <rtept lat="51.508602644467921" lon="-0.125499688899338">
-  </rtept>
-  <rtept lat="51.508606278690955" lon="-0.125494667037765">
-  </rtept>
-  <rtept lat="51.509350898254176" lon="-0.124100033773283">
-  </rtept>
-  <rtept lat="51.509480360272214" lon="-0.124234005800462">
-  </rtept>
   <rtept lat="51.509454029044115" lon="-0.12471701021424">
   </rtept>
-  <rtept lat="51.50957471371462" lon="-0.124167019786872">
+  <rtept lat="51.509500030994658" lon="-0.124207131612843">
   </rtept>
-  <rtept lat="51.510101410045806" lon="-0.124744244107757">
+  <rtept lat="51.509369120177084" lon="-0.124088066244488">
   </rtept>
-  <rtept lat="51.510347636592293" lon="-0.124151154678389">
+  <rtept lat="51.509615343476149" lon="-0.123494982955281">
   </rtept>
-  <rtept lat="51.510343248138874" lon="-0.124045387288511">
-  </rtept>
-  <rtept lat="51.511080508807048" lon="-0.122173507869039">
+  <rtept lat="51.510504107763886" lon="-0.121533775113073">
   </rtept>
   <rtept lat="51.510648881550978" lon="-0.121655315898486">
   </rtept>
-  <rtept lat="51.511195946817772" lon="-0.122248058983664">
+  <rtept lat="51.5105209071424" lon="-0.121481808431671">
   </rtept>
-  <rtept lat="51.511683284537234" lon="-0.121186696035669">
+  <rtept lat="51.511020581284839" lon="-0.120118371174759">
   </rtept>
-  <rtept lat="51.511946740774022" lon="-0.120718684648115">
-  </rtept>
-  <rtept lat="51.512066604791521" lon="-0.120444128833204">
+  <rtept lat="51.511532076357696" lon="-0.120631441640775">
   </rtept>
   <rtept lat="51.511817188749724" lon="-0.119837919120086">
   </rtept>
   <rtept lat="51.51175434408087" lon="-0.119606709928776">
   </rtept>
-  <rtept lat="51.511336551680124" lon="-0.119190465314153">
+  <rtept lat="51.512067218234534" lon="-0.120436664889788">
   </rtept>
-  <rtept lat="51.511613145292145" lon="-0.119057713929945">
+  <rtept lat="51.51194304222652" lon="-0.120716953385111">
+  </rtept>
+  <rtept lat="51.512119736784989" lon="-0.120452404278629">
+  </rtept>
+  <rtept lat="51.512406077323682" lon="-0.11989371409895">
+  </rtept>
+  <rtept lat="51.51209928382049" lon="-0.119044724120024">
   </rtept>
   <rtept lat="51.512281273583106" lon="-0.118924962545739">
   </rtept>
@@ -3171,6 +3147,18 @@
   <rtept lat="51.514405928261112" lon="-0.118441574353241">
   </rtept>
   <rtept lat="51.514405928261112" lon="-0.118441574353241">
+  </rtept>
+  <rtept lat="51.515678120013654" lon="-0.119227802964376">
+  </rtept>
+  <rtept lat="51.515713645231152" lon="-0.119076522564585">
+  </rtept>
+  <rtept lat="51.513851496029503" lon="-0.117742343413723">
+  </rtept>
+  <rtept lat="51.513260132001108" lon="-0.117329611733959">
+  </rtept>
+  <rtept lat="51.513325839494499" lon="-0.116734510242206">
+  </rtept>
+  <rtept lat="51.51361629463743" lon="-0.116757075893819">
   </rtept>
 </rte>
 <wpt lat="51.49422354" lon="-0.236769936">
@@ -4715,23 +4703,23 @@
   <desc>St. Martin's Street, West End</desc>
   <src>325</src>
 </wpt>
-<wpt lat="51.50810309" lon="-0.12602103">
-  <name>258.CS</name>
-  <cmt>W12.20</cmt>
-  <desc>Craven Street, Strand</desc>
-  <src>341</src>
-</wpt>
 <wpt lat="51.50946212" lon="-0.124749274">
-  <name>259.WIS</name>
-  <cmt>W12.21</cmt>
+  <name>258.WIS</name>
+  <cmt>W12.20</cmt>
   <desc>William IV Street, Strand</desc>
   <src>64</src>
 </wpt>
 <wpt lat="51.51070161" lon="-0.121723604">
-  <name>260.SS</name>
-  <cmt>W12.22</cmt>
+  <name>259.SS</name>
+  <cmt>W12.21</cmt>
   <desc>Southampton Street, Strand</desc>
   <src>388</src>
+</wpt>
+<wpt lat="51.51175646" lon="-0.119643424">
+  <name>260.WS</name>
+  <cmt>W12.22</cmt>
+  <desc>Wellington Street , Strand</desc>
+  <src>338</src>
 </wpt>
 <wpt lat="51.51196803" lon="-0.120718759">
   <name>261.TS</name>
@@ -4739,16 +4727,22 @@
   <desc>Tavistock Street, Covent Garden</desc>
   <src>335</src>
 </wpt>
-<wpt lat="51.51175646" lon="-0.119643424">
-  <name>262.WS</name>
-  <cmt>W12.24</cmt>
-  <desc>Wellington Street , Strand</desc>
-  <src>338</src>
-</wpt>
 <wpt lat="51.51440928" lon="-0.118478757">
-  <name>263.K</name>
-  <cmt>W12.25</cmt>
+  <name>262.K</name>
+  <cmt>W12.24</cmt>
   <desc>Kingsway, Covent Garden</desc>
   <src>283</src>
+</wpt>
+<wpt lat="51.513875" lon="-0.117774">
+  <name>263.KS</name>
+  <cmt>W12.25</cmt>
+  <desc>Kingsway Southbound, Strand</desc>
+  <src>594</src>
+</wpt>
+<wpt lat="51.5136205" lon="-0.1167642">
+  <name>FIN.HS</name>
+  <cmt>W12.26</cmt>
+  <desc>Houghton Street, Strand</desc>
+  <src>256</src>
 </wpt>
 </gpx>

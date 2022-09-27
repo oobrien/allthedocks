@@ -30,3 +30,5 @@ Opened:
 * 452	St. Katharine's Way, Tower EAST
 * 490	Pennington Street, Wapping EAST
 * 716	Stainsby Road , Poplar EAST
+
+V3 published late 27 September 2022, tweaks near the end of the routes so they all finish at the same station and at the same predicted take.

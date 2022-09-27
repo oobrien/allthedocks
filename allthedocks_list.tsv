@@ -147,124 +147,125 @@ src	desc	lat	lon	name	cmt
 773	Tallis Street, Temple	51.511891	-0.107349	146.TS	E08.07
 27	Bouverie Street, Temple	51.51382102	-0.107927706	147.BS	E08.08
 82	Chancery Lane, Holborn	51.514274	-0.111257	148.CL	E08.09
-84	Breams Buildings, Holborn	51.51593725	-0.111778348	149.BB	E08.10
-66	Holborn Circus, Holborn	51.51795029	-0.108657431	150.HC	E08.11
-67	Hatton Garden, Holborn	51.51882555	-0.108028472	151.HG	E08.12
-546	New Fetter Lane, Holborn	51.517428	-0.107987	152.NFL	E08.13
-703	St. Bride Street, Holborn	51.51505991	-0.10534448	153.SBS	E08.14
-112	Stonecutter Street, Holborn	51.51580998	-0.105270275	154.SS	E08.15
-835	Farringdon Street, Holborn	51.516785	-0.10494775	155.FS	E08.16
-393	Snow Hill, Farringdon	51.51733427	-0.103604248	156.SH	E08.17
-203	West Smithfield Rotunda, Farringdon	51.51821864	-0.100791005	157.WSR	E08.18
-126	Museum of London, Barbican	51.51782144	-0.096496865	158.MoL	E08.19
-71	Newgate Street , St. Paul's	51.5154186	-0.098850915	159.NS	E08.20
-557	King Edward Street, St Pauls	51.51601	-0.0985	160.KES	E08.21
-427	Cheapside, Bank	51.51397065	-0.09294031	161.C	E08.22
-340	Bank of England Museum, Bank	51.51444134	-0.087587447	162.BoEM	E08.23
-120	The Guildhall, Guildhall	51.51573534	-0.093080779	163.TG	E08.24
-127	Wood Street, Guildhall	51.51700801	-0.09388536	164.WS	E08.25
-838	Fore Street Avenue, Guildhall	51.518093	-0.0914017	165.FSA	E08.26
-509	Fore Street, Guildhall	51.517842	-0.090075	166.FS	E08.27
-55	Finsbury Circus, Liverpool Street	51.51707521	-0.086685542	167.FC	E08.28
-217	Wormwood Street, Liverpool Street	51.51615461	-0.082422399	168.WS	E08.29
-87	Devonshire Square, Liverpool Street	51.51646835	-0.079684557	169.DS	E08.30
-506	Bell Lane, Liverpool Street	51.517475	-0.075855	170.BL	E08.31
-251	Brushfield Street, Liverpool Street	51.518908	-0.079249	171.BS	E08.32
-122	Norton Folgate, Liverpool Street	51.52111369	-0.078869751	172.NF	E08.33
-175	Worship Street, Shoreditch	51.521668	-0.079608554	173.WS	E08.34
-408	Sun Street, Liverpool Street	51.520009	-0.083935724	174.SS	E08.35
-140	Finsbury Square , Moorgate	51.52096262	-0.085634242	175.FS	E09.01
-3	Christopher Street, Liverpool Street	51.52128377	-0.084605692	176.CS	E09.02
-41	Pindar Street, Liverpool Street	51.520955	-0.083493552	177.PS	E09.03
-323	Clifton Street, Shoreditch	51.523196	-0.083067	178.CS	E09.04
-32	Leonard Circus , Shoreditch	51.52469624	-0.084439283	179.LC	E09.05
-58	New Inn Yard, Shoreditch	51.52452699	-0.079248081	180.NIY	E09.06
-39	Shoreditch High Street, Shoreditch	51.5263778	-0.078130921	181.SHS	E09.07
-322	Palissy Street, Shoreditch	51.526293	-0.073955	182.PS	E09.08
-401	Columbia Road, Shoreditch	51.528187	-0.075375	183.CR	E09.09
-539	Hoxton Station, Hoxton	51.531091	-0.075901	184.HS	E09.10
-96	Falkirk Street, Hoxton	51.53095071	-0.078505384	185.FS	E09.11
-588	Hoxton Street, Hoxton	51.52959	-0.0801	186.HS	E09.12
-31	Fanshaw Street, Hoxton	51.52953709	-0.083353323	187.FS	E09.13
-569	Pitfield Street Central, Hoxton	51.53213	-0.08299	188.PSC	E09.14
-466	Whiston Road, Haggerston	51.534464	-0.076341	189.WR	E09.15
-463	Thurtle Road, Haggerston	51.534776	-0.071881	190.TR	E09.16
-717	Dunston Road , Haggerston	51.53658514	-0.075885686	191.DR	E09.17
-748	Hertford Road, De Beauvoir Town	51.53727795	-0.079201849	192.HR	E09.18
-465	Pitfield Street North,Hoxton	51.53558	-0.08249	193.PSN	E09.19
-253	Shoreditch Park, Hoxton	51.53404294	-0.086379717	194.SP	E09.20
-574	Eagle Wharf Road, Hoxton	51.53356	-0.09315	195.EWR	E09.21
-42	Wenlock Road , Hoxton	51.53099181	-0.093903825	196.WR	E09.22
-30	Windsor Terrace, Hoxton	51.52915444	-0.093421615	197.WT	E09.23
-63	Murray Grove , Hoxton	51.53089041	-0.089782579	198.MG	E09.24
-327	New North Road 1, Hoxton	51.53095	-0.085603	199.NNR1	E09.25
-328	New North Road 2, Hoxton	51.53114	-0.086016	200.NNR2	E09.26
-50	East Road, Hoxton	51.52867339	-0.087459376	201.ER	E09.27
-319	Baldwin Street, St. Luke's	51.52702563	-0.088542771	202.BS	E09.28
-119	Bath Street, St. Luke's	51.52589324	-0.090847761	203.BS	E10.01
-73	Old Street Station, St. Luke's	51.52548	-0.089659871	204.OSS	E10.02
-331	Bunhill Row, Moorgate	51.52085887	-0.089887855	205.BR	E10.03
-215	Moorfields, Moorgate	51.51906932	-0.088285377	206.M	E10.04
-275	Barbican Centre, Barbican	51.52004497	-0.092176447	207.BC	E10.05
-54	Golden Lane, Barbican	51.52174785	-0.094475072	208.GL	E10.06
-52	Roscoe Street, St. Luke's	51.52295439	-0.094934859	209.RS	E10.07
-95	Aldersgate Street, Barbican	51.5208417	-0.097340162	210.AS	E10.08
-246	Berry Street, Clerkenwell	51.52285301	-0.099994052	211.BS	E10.09
-78	Sadlers Sports Centre, Finsbury	51.52486887	-0.099489485	212.SSC	E10.10
-107	Finsbury Leisure Centre, St. Luke's	51.52600832	-0.096317627	213.FLC	E10.11
-351	Macclesfield Rd, St Lukes	51.529423	-0.097122	214.MR	E10.12
-365	City Road, Angel	51.530344	-0.100168	215.CR	E10.13
-344	Goswell Road (City Uni), Finsbury	51.528246	-0.10102611	216.GRCU	E10.14
-123	St. John Street, Finsbury	51.52836014	-0.104724625	217.SJS	E10.15
-51	Finsbury Library , Finsbury	51.52671796	-0.104298194	218.FL	E10.16
-544	Percival Street, Finsbury	51.526153	-0.102208	219.PS	E10.17
-135	Clerkenwell Green, Clerkenwell	51.52326004	-0.104708922	220.CG	E10.18
-72	Farringdon Lane, Clerkenwell	51.52352001	-0.108340165	221.FL	E10.19
-17	Hatton Wall, Holborn	51.5216612	-0.109006325	222.HW	E10.20
-22	Northington Street , Holborn	51.5222641	-0.114079481	223.NS	E10.21
-433	Wren Street, Holborn	51.524564	-0.116279	224.WS	E10.22
-204	Margery Street, Clerkenwell	51.52659961	-0.112432615	225.MS	E10.23
-264	Tysoe Street, Clerkenwell	51.52644342	-0.109256828	226.TS	E10.24
-170	Hardwick Street, Clerkenwell	51.52784273	-0.108068155	227.HS	E10.25
-1	River Street , Clerkenwell	51.52916347	-0.109970527	228.RS	E10.26
-254	Chadwell Street, Angel	51.53051587	-0.106408455	229.CS	E10.27
-189	Claremont Square, Angel	51.53166681	-0.109914711	230.CS	E11.01
-339	Risinghill Street, Angel	51.5333196	-0.1117812	231.RS	E11.02
-93	Cloudesley Road, Angel	51.53440868	-0.109025404	232.CR	E11.03
-234	Liverpool Road (N1 Centre), Angel	51.53450449	-0.106992706	233.LRNC	E11.04
-75	Torrens Street, Angel	51.53219984	-0.105480698	234.TS	E11.05
-326	Graham Street, Angel	51.53266186	-0.099981142	235.GS	E11.06
-695	Islington Green, Angel	51.53638435	-0.102757578	236.IG	E11.07
-697	Charlotte Terrace, Angel	51.53639219	-0.112721065	237.CT	E11.08
-674	Carnegie Street, King's Cross	51.53546778	-0.11619105	238.CS	E11.09
-836	York Way, Kings Cross	51.541596	-0.12544145	239.YW	E11.10
-806	Handyside Street, King's Cross	51.53724056	-0.124807386	240.HS	E11.11
-34	Pancras Road, King's Cross	51.5341235	-0.129386874	241.PR	E11.12
-804	Good's Way, King's Cross	51.53466774	-0.125078653	242.GW	E11.13
-431	Crinan Street, King's Cross	51.534474	-0.122203	243.CS	E11.14
-439	Killick Street, King's Cross	51.5338	-0.118677	244.KS	E11.15
-593	Northdown Street, King's Cross	51.531066	-0.11934	245.NS	E11.16
-70	Calshot Street , King's Cross	51.53136059	-0.117069978	246.CS	E11.17
-227	Great Percy Street, Clerkenwell	51.52891573	-0.115480888	247.GPS	E11.18
-26	Ampton Street , Clerkenwell	51.52728093	-0.11829517	248.AS	E11.19
-793	Cromer Street, Bloomsbury	51.528279	-0.11955857	249.CS	E11.20
-4	St. Chad's Street, King's Cross	51.53005939	-0.120973687	250.SCS	E11.21
-798	Birkenhead Street, King's Cross	51.53019988	-0.122299441	251.BS	E11.22
-14	Belgrove Street , King's Cross	51.52994371	-0.123616824	252.BS	E11.23
-797	Ossulston Street, Somers Town	51.5293	-0.12827903	253.OS	E12.01
-16	Cartwright Gardens , Bloomsbury	51.52635795	-0.125979294	254.CG	E12.02
-89	Tavistock Place, Bloomsbury	51.5262503	-0.123509611	255.TP	E12.03
-796	Coram Street, Bloomsbury	51.524	-0.12640984	256.CS	E12.04
-77	Russell Square Station, Bloomsbury	51.52341837	-0.124121774	257.RSS	E12.05
-11	Brunswick Square, Bloomsbury	51.52395143	-0.122502346	258.BS	E12.06
-57	Guilford Street , Bloomsbury	51.52334672	-0.120202614	259.GS	E12.07
-68	Theobald's Road , Holborn	51.52059681	-0.116688468	260.TR	E12.08
-23	Red Lion Square, Holborn	51.51943538	-0.119123345	261.RLS	E12.09
-436	Red Lion Street, Holborn	51.51824	-0.11655	262.RLS	E12.10
-809	Lincoln's Inn Fields, Holborn	51.51627788	-0.118272992	263.LIF	E12.11
-372	Sardinia Street, Holborn	51.515208	-0.117863	264.SS	E12.12
-594	Kingsway Southbound, Strand	51.513875	-0.117774	265.KS	E12.13
-256	Houghton Street, Strand	51.51362054	-0.116764211	266.HS	E12.14
+232	Carey Street, Holborn	51.51501025	-0.112753217	149.CS	E08.10
+84	Breams Buildings, Holborn	51.51593725	-0.111778348	150.BB	E08.11
+66	Holborn Circus, Holborn	51.51795029	-0.108657431	151.HC	E08.12
+67	Hatton Garden, Holborn	51.51882555	-0.108028472	152.HG	E08.13
+546	New Fetter Lane, Holborn	51.517428	-0.107987	153.NFL	E08.14
+703	St. Bride Street, Holborn	51.51505991	-0.10534448	154.SBS	E08.15
+112	Stonecutter Street, Holborn	51.51580998	-0.105270275	155.SS	E08.16
+835	Farringdon Street, Holborn	51.516785	-0.10494775	156.FS	E08.17
+393	Snow Hill, Farringdon	51.51733427	-0.103604248	157.SH	E08.18
+203	West Smithfield Rotunda, Farringdon	51.51821864	-0.100791005	158.WSR	E08.19
+126	Museum of London, Barbican	51.51782144	-0.096496865	159.MoL	E08.20
+71	Newgate Street , St. Paul's	51.5154186	-0.098850915	160.NS	E08.21
+557	King Edward Street, St Pauls	51.51601	-0.0985	161.KES	E08.22
+427	Cheapside, Bank	51.51397065	-0.09294031	162.C	E08.23
+340	Bank of England Museum, Bank	51.51444134	-0.087587447	163.BoEM	E08.24
+120	The Guildhall, Guildhall	51.51573534	-0.093080779	164.TG	E08.25
+127	Wood Street, Guildhall	51.51700801	-0.09388536	165.WS	E08.26
+838	Fore Street Avenue, Guildhall	51.518093	-0.0914017	166.FSA	E08.27
+509	Fore Street, Guildhall	51.517842	-0.090075	167.FS	E08.28
+55	Finsbury Circus, Liverpool Street	51.51707521	-0.086685542	168.FC	E08.29
+217	Wormwood Street, Liverpool Street	51.51615461	-0.082422399	169.WS	E08.30
+87	Devonshire Square, Liverpool Street	51.51646835	-0.079684557	170.DS	E08.31
+506	Bell Lane, Liverpool Street	51.517475	-0.075855	171.BL	E08.32
+251	Brushfield Street, Liverpool Street	51.518908	-0.079249	172.BS	E08.33
+122	Norton Folgate, Liverpool Street	51.52111369	-0.078869751	173.NF	E08.34
+175	Worship Street, Shoreditch	51.521668	-0.079608554	174.WS	E08.35
+408	Sun Street, Liverpool Street	51.520009	-0.083935724	175.SS	E08.36
+140	Finsbury Square , Moorgate	51.52096262	-0.085634242	176.FS	E09.01
+3	Christopher Street, Liverpool Street	51.52128377	-0.084605692	177.CS	E09.02
+41	Pindar Street, Liverpool Street	51.520955	-0.083493552	178.PS	E09.03
+323	Clifton Street, Shoreditch	51.523196	-0.083067	179.CS	E09.04
+32	Leonard Circus , Shoreditch	51.52469624	-0.084439283	180.LC	E09.05
+58	New Inn Yard, Shoreditch	51.52452699	-0.079248081	181.NIY	E09.06
+39	Shoreditch High Street, Shoreditch	51.5263778	-0.078130921	182.SHS	E09.07
+322	Palissy Street, Shoreditch	51.526293	-0.073955	183.PS	E09.08
+401	Columbia Road, Shoreditch	51.528187	-0.075375	184.CR	E09.09
+539	Hoxton Station, Hoxton	51.531091	-0.075901	185.HS	E09.10
+96	Falkirk Street, Hoxton	51.53095071	-0.078505384	186.FS	E09.11
+588	Hoxton Street, Hoxton	51.52959	-0.0801	187.HS	E09.12
+31	Fanshaw Street, Hoxton	51.52953709	-0.083353323	188.FS	E09.13
+569	Pitfield Street Central, Hoxton	51.53213	-0.08299	189.PSC	E09.14
+466	Whiston Road, Haggerston	51.534464	-0.076341	190.WR	E09.15
+463	Thurtle Road, Haggerston	51.534776	-0.071881	191.TR	E09.16
+717	Dunston Road , Haggerston	51.53658514	-0.075885686	192.DR	E09.17
+748	Hertford Road, De Beauvoir Town	51.53727795	-0.079201849	193.HR	E09.18
+465	Pitfield Street North,Hoxton	51.53558	-0.08249	194.PSN	E09.19
+253	Shoreditch Park, Hoxton	51.53404294	-0.086379717	195.SP	E09.20
+574	Eagle Wharf Road, Hoxton	51.53356	-0.09315	196.EWR	E09.21
+42	Wenlock Road , Hoxton	51.53099181	-0.093903825	197.WR	E09.22
+30	Windsor Terrace, Hoxton	51.52915444	-0.093421615	198.WT	E09.23
+63	Murray Grove , Hoxton	51.53089041	-0.089782579	199.MG	E09.24
+327	New North Road 1, Hoxton	51.53095	-0.085603	200.NNR1	E09.25
+328	New North Road 2, Hoxton	51.53114	-0.086016	201.NNR2	E09.26
+50	East Road, Hoxton	51.52867339	-0.087459376	202.ER	E09.27
+319	Baldwin Street, St. Luke's	51.52702563	-0.088542771	203.BS	E09.28
+119	Bath Street, St. Luke's	51.52589324	-0.090847761	204.BS	E10.01
+73	Old Street Station, St. Luke's	51.52548	-0.089659871	205.OSS	E10.02
+331	Bunhill Row, Moorgate	51.52085887	-0.089887855	206.BR	E10.03
+215	Moorfields, Moorgate	51.51906932	-0.088285377	207.M	E10.04
+275	Barbican Centre, Barbican	51.52004497	-0.092176447	208.BC	E10.05
+54	Golden Lane, Barbican	51.52174785	-0.094475072	209.GL	E10.06
+52	Roscoe Street, St. Luke's	51.52295439	-0.094934859	210.RS	E10.07
+95	Aldersgate Street, Barbican	51.5208417	-0.097340162	211.AS	E10.08
+246	Berry Street, Clerkenwell	51.52285301	-0.099994052	212.BS	E10.09
+78	Sadlers Sports Centre, Finsbury	51.52486887	-0.099489485	213.SSC	E10.10
+107	Finsbury Leisure Centre, St. Luke's	51.52600832	-0.096317627	214.FLC	E10.11
+351	Macclesfield Rd, St Lukes	51.529423	-0.097122	215.MR	E10.12
+365	City Road, Angel	51.530344	-0.100168	216.CR	E10.13
+344	Goswell Road (City Uni), Finsbury	51.528246	-0.10102611	217.GRCU	E10.14
+123	St. John Street, Finsbury	51.52836014	-0.104724625	218.SJS	E10.15
+51	Finsbury Library , Finsbury	51.52671796	-0.104298194	219.FL	E10.16
+544	Percival Street, Finsbury	51.526153	-0.102208	220.PS	E10.17
+135	Clerkenwell Green, Clerkenwell	51.52326004	-0.104708922	221.CG	E10.18
+72	Farringdon Lane, Clerkenwell	51.52352001	-0.108340165	222.FL	E10.19
+17	Hatton Wall, Holborn	51.5216612	-0.109006325	223.HW	E10.20
+22	Northington Street , Holborn	51.5222641	-0.114079481	224.NS	E10.21
+433	Wren Street, Holborn	51.524564	-0.116279	225.WS	E10.22
+204	Margery Street, Clerkenwell	51.52659961	-0.112432615	226.MS	E10.23
+264	Tysoe Street, Clerkenwell	51.52644342	-0.109256828	227.TS	E10.24
+170	Hardwick Street, Clerkenwell	51.52784273	-0.108068155	228.HS	E10.25
+1	River Street , Clerkenwell	51.52916347	-0.109970527	229.RS	E10.26
+254	Chadwell Street, Angel	51.53051587	-0.106408455	230.CS	E10.27
+189	Claremont Square, Angel	51.53166681	-0.109914711	231.CS	E11.01
+339	Risinghill Street, Angel	51.5333196	-0.1117812	232.RS	E11.02
+93	Cloudesley Road, Angel	51.53440868	-0.109025404	233.CR	E11.03
+234	Liverpool Road (N1 Centre), Angel	51.53450449	-0.106992706	234.LRNC	E11.04
+75	Torrens Street, Angel	51.53219984	-0.105480698	235.TS	E11.05
+326	Graham Street, Angel	51.53266186	-0.099981142	236.GS	E11.06
+695	Islington Green, Angel	51.53638435	-0.102757578	237.IG	E11.07
+697	Charlotte Terrace, Angel	51.53639219	-0.112721065	238.CT	E11.08
+674	Carnegie Street, King's Cross	51.53546778	-0.11619105	239.CS	E11.09
+836	York Way, Kings Cross	51.541596	-0.12544145	240.YW	E11.10
+806	Handyside Street, King's Cross	51.53724056	-0.124807386	241.HS	E11.11
+34	Pancras Road, King's Cross	51.5341235	-0.129386874	242.PR	E11.12
+804	Good's Way, King's Cross	51.53466774	-0.125078653	243.GW	E11.13
+431	Crinan Street, King's Cross	51.534474	-0.122203	244.CS	E11.14
+439	Killick Street, King's Cross	51.5338	-0.118677	245.KS	E11.15
+593	Northdown Street, King's Cross	51.531066	-0.11934	246.NS	E11.16
+70	Calshot Street , King's Cross	51.53136059	-0.117069978	247.CS	E11.17
+227	Great Percy Street, Clerkenwell	51.52891573	-0.115480888	248.GPS	E11.18
+26	Ampton Street , Clerkenwell	51.52728093	-0.11829517	249.AS	E11.19
+793	Cromer Street, Bloomsbury	51.528279	-0.11955857	250.CS	E11.20
+4	St. Chad's Street, King's Cross	51.53005939	-0.120973687	251.SCS	E11.21
+798	Birkenhead Street, King's Cross	51.53019988	-0.122299441	252.BS	E11.22
+14	Belgrove Street , King's Cross	51.52994371	-0.123616824	253.BS	E11.23
+797	Ossulston Street, Somers Town	51.5293	-0.12827903	254.OS	E12.01
+16	Cartwright Gardens , Bloomsbury	51.52635795	-0.125979294	255.CG	E12.02
+89	Tavistock Place, Bloomsbury	51.5262503	-0.123509611	256.TP	E12.03
+796	Coram Street, Bloomsbury	51.524	-0.12640984	257.CS	E12.04
+77	Russell Square Station, Bloomsbury	51.52341837	-0.124121774	258.RSS	E12.05
+11	Brunswick Square, Bloomsbury	51.52395143	-0.122502346	259.BS	E12.06
+57	Guilford Street , Bloomsbury	51.52334672	-0.120202614	260.GS	E12.07
+68	Theobald's Road , Holborn	51.52059681	-0.116688468	261.TR	E12.08
+23	Red Lion Square, Holborn	51.51943538	-0.119123345	262.RLS	E12.09
+436	Red Lion Street, Holborn	51.51824	-0.11655	263.RLS	E12.10
+809	Lincoln's Inn Fields, Holborn	51.51627788	-0.118272992	264.LIF	E12.11
+372	Sardinia Street, Holborn	51.515208	-0.117863	265.SS	E12.12
+147	Portugal Street, Holborn	51.51494305	-0.11614642	266.PS	E12.13
+256	Houghton Street, Strand	51.5136205	-0.1167642	FIN.HS	E12.14
 844	Canada Water Station, Rotherhithe	51.498439	-0.049150215	1.CWS	S01.01
 411	Rotherhithe Roundabout, Rotherhithe	51.499169	-0.055846029	2.RR	S01.02
 845	Bermondsey Station, Bermondsey	51.497995	-0.063471392	3.BS	S01.03
@@ -503,28 +504,28 @@ src	desc	lat	lon	name	cmt
 267	Regency Street, Westminster	51.49206037	-0.132224622	236.RS	S11.18
 426	Vincent Street, Pimlico	51.493072	-0.129925	237.VS	S11.19
 376	Millbank Tower, Pimlico	51.49188409	-0.125674815	238.MT	S11.20
-558	Page Street, Westminster	51.493978	-0.127554	239.PS	S11.21
-221	Horseferry Road, Westminster	51.49481649	-0.13045856	240.HR	S11.22
-118	Rochester Row, Westminster	51.49582705	-0.13547809	241.RR	S11.23
-799	Kings Gate House, Westminster	51.49769846	-0.137598896	242.KGH	S11.24
-360	Howick Place, Westminster	51.49675303	-0.138733562	243.HP	S11.25
-177	Ashley Place, Victoria	51.49616092	-0.140947636	244.AP	S11.26
-826	Allington Street, Victoria	51.496863	-0.1429434	245.AS	S11.27
-316	Warwick Row, Westminster	51.497998	-0.14296064	246.WR	S11.28
-646	Buckingham Gate, Westminster	51.49886563	-0.137424571	247.BG	S12.01
-359	Butler Place, Westminster	51.49782999	-0.135440826	248.BP	S12.02
-108	Abbey Orchard Street, Westminster	51.49812559	-0.132102166	249.AOS	S12.03
-281	Smith Square, Westminster	51.49580589	-0.127575233	250.SS	S12.04
-583	Abingdon Green, Westminster	51.49764	-0.12597218	251.AG	S12.05
-762	Storey's Gate, Westminster	51.50070305	-0.129698963	252.SG	S12.06
-818	Westminster Pier, Westminster	51.501513	-0.12382322	253.WP	S12.07
-229	Whitehall Place, Strand	51.50654321	-0.123179697	254.WP	S12.08
-354	Northumberland Avenue, Strand	51.506767	-0.123702	255.NA	S12.09
-309	Embankment (Savoy), Strand	51.50963123	-0.119047563	256.ES	S12.10
-564	Somerset House, Strand	51.509943	-0.117619	257.SH	S12.11
-174	Strand, Strand	51.512582	-0.1150573	258.S	S12.12
-232	Carey Street, Holborn	51.51501025	-0.112753217	259.CS	S12.13
-147	Portugal Street, Holborn	51.51494305	-0.11614642	260.PS	S12.14
+583	Abingdon Green, Westminster	51.49764	-0.12597218	239.AG	S11.21
+281	Smith Square, Westminster	51.49580589	-0.127575233	240.SS	S11.22
+558	Page Street, Westminster	51.493978	-0.127554	241.PS	S11.23
+221	Horseferry Road, Westminster	51.49481649	-0.13045856	242.HR	S11.24
+118	Rochester Row, Westminster	51.49582705	-0.13547809	243.RR	S11.25
+799	Kings Gate House, Westminster	51.49769846	-0.137598896	244.KGH	S11.26
+360	Howick Place, Westminster	51.49675303	-0.138733562	245.HP	S11.27
+177	Ashley Place, Victoria	51.49616092	-0.140947636	246.AP	S11.28
+826	Allington Street, Victoria	51.496863	-0.1429434	247.AS	S11.29
+316	Warwick Row, Westminster	51.497998	-0.14296064	248.WR	S11.30
+646	Buckingham Gate, Westminster	51.49886563	-0.137424571	249.BG	S12.01
+359	Butler Place, Westminster	51.49782999	-0.135440826	250.BP	S12.02
+108	Abbey Orchard Street, Westminster	51.49812559	-0.132102166	251.AOS	S12.03
+762	Storey's Gate, Westminster	51.50070305	-0.129698963	252.SG	S12.04
+818	Westminster Pier, Westminster	51.501513	-0.12382322	253.WP	S12.05
+229	Whitehall Place, Strand	51.50654321	-0.123179697	254.WP	S12.06
+341	Craven Street, Strand	51.50810309	-0.12602103	255.CS	S12.07
+354	Northumberland Avenue, Strand	51.506767	-0.123702	256.NA	S12.08
+309	Embankment (Savoy), Strand	51.50963123	-0.119047563	257.ES	S12.09
+564	Somerset House, Strand	51.509943	-0.117619	258.SH	S12.10
+174	Strand, Strand	51.512582	-0.1150573	259.S	S12.11
+256	Houghton Street, Strand	51.51362054	-0.116764211	FIN.HS	S12.12
 668	Ravenscourt Park Station, Hammersmith	51.49422354	-0.236769936	1.RPS	W01.01
 598	Southerton Road, Hammersmith	51.494499	-0.228188	2.SR	W01.02
 730	Bridge Avenue, Hammersmith	51.49208492	-0.229116862	3.BA	W01.03
@@ -782,9 +783,10 @@ src	desc	lat	lon	name	cmt
 160	Waterloo Place, St. James's	51.50663341	-0.131773845	255.WP	W12.17
 233	Pall Mall East, West End	51.50777049	-0.130699733	256.PME	W12.18
 325	St. Martin's Street, West End	51.50908747	-0.129697889	257.SMS	W12.19
-341	Craven Street, Strand	51.50810309	-0.12602103	258.CS	W12.20
-64	William IV Street, Strand	51.50946212	-0.124749274	259.WIS	W12.21
-388	Southampton Street, Strand	51.51070161	-0.121723604	260.SS	W12.22
+64	William IV Street, Strand	51.50946212	-0.124749274	258.WIS	W12.20
+388	Southampton Street, Strand	51.51070161	-0.121723604	259.SS	W12.21
+338	Wellington Street , Strand	51.51175646	-0.119643424	260.WS	W12.22
 335	Tavistock Street, Covent Garden	51.51196803	-0.120718759	261.TS	W12.23
-338	Wellington Street , Strand	51.51175646	-0.119643424	262.WS	W12.24
-283	Kingsway, Covent Garden	51.51440928	-0.118478757	263.K	W12.25
+283	Kingsway, Covent Garden	51.51440928	-0.118478757	262.K	W12.24
+594	Kingsway Southbound, Strand	51.513875	-0.117774	263.KS	W12.25
+256	Houghton Street, Strand	51.5136205	-0.1167642	FIN.HS	W12.26

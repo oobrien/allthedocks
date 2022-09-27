@@ -23,6 +23,13 @@ const pointColours =
 	'S': 'rgba(0,0,255,0.6)',
 }
 
+const labelColours = 
+{
+	'E': 'rgba(128,0,0,1)',
+	'W': 'rgba(0,64,0,1)',
+	'S': 'rgba(0,0,128,1)',
+}
+
 function gpxStyle(feature, resolution)
 {
 	var scale = 1;
@@ -56,7 +63,7 @@ function gpxStyle(feature, resolution)
 				text: (resolution > 10 ? null : feature.get('name')),
 				font: '' + 5*scale + 'px Verdana, Arial, sans-serif',
 				fill: new ol.style.Fill({ color: 'rgba(255,255,255,1)' }),
-				stroke: new ol.style.Stroke({ color: 'rgba(0,0,0,1', width: 2*scale })
+				stroke: new ol.style.Stroke({ color: labelColours["" + feature.get('cmt')[0]], width: 2*scale })
 			})
 		})
 	}

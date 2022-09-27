@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <gpx version="1.1" creator="GDAL 3.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
-<metadata><bounds minlat="51.454747344329348" minlon="-0.217723384484122" maxlat="51.515147007234191" maxlon="-0.049108564525637"/></metadata>                  
+<metadata><bounds minlat="51.454747344329348" minlon="-0.217723384484122" maxlat="51.513607161443645" maxlon="-0.049108564525637"/></metadata>                  
 <rte>
   <name>S01 Bermondsey</name>
   <desc>10745.27261748312</desc>
@@ -2659,8 +2659,8 @@
 <rte>
   <name>S11 Westminster</name>
   <cmt>Walk through Tachbrook Street Market and from Howick Place to Ashley Place.</cmt>
-  <desc>10650.07089376607</desc>
-  <src>28</src>
+  <desc>11539.13427814722</desc>
+  <src>30</src>
   <number>11</number>
   <rtept lat="51.485935222679878" lon="-0.124526074632366">
   </rtept>
@@ -2828,11 +2828,35 @@
   </rtept>
   <rtept lat="51.493095271642034" lon="-0.125237810138169">
   </rtept>
-  <rtept lat="51.493093570398152" lon="-0.126043949588029">
+  <rtept lat="51.494765904816923" lon="-0.125346019197619">
   </rtept>
-  <rtept lat="51.493990046468454" lon="-0.126088946199491">
+  <rtept lat="51.495310624716659" lon="-0.125271556540349">
   </rtept>
-  <rtept lat="51.494796359078094" lon="-0.126196056249184">
+  <rtept lat="51.497616919824111" lon="-0.125736948148298">
+  </rtept>
+  <rtept lat="51.497605587512901" lon="-0.126014307667695">
+  </rtept>
+  <rtept lat="51.497672265546214" lon="-0.125650149853552">
+  </rtept>
+  <rtept lat="51.49607196582425" lon="-0.12538238675492">
+  </rtept>
+  <rtept lat="51.496018621532542" lon="-0.126528412817073">
+  </rtept>
+  <rtept lat="51.495731894895009" lon="-0.126624807532582">
+  </rtept>
+  <rtept lat="51.495678550205305" lon="-0.12695683377489">
+  </rtept>
+  <rtept lat="51.495679265576335" lon="-0.127364408212029">
+  </rtept>
+  <rtept lat="51.495791764274934" lon="-0.127530711505743">
+  </rtept>
+  <rtept lat="51.495910657822904" lon="-0.127549074176577">
+  </rtept>
+  <rtept lat="51.495871788812487" lon="-0.128298271146653">
+  </rtept>
+  <rtept lat="51.49530214413403" lon="-0.128121889124033">
+  </rtept>
+  <rtept lat="51.495260964724736" lon="-0.126887214965656">
   </rtept>
   <rtept lat="51.494796837501596" lon="-0.126834685478634">
   </rtept>
@@ -2937,8 +2961,8 @@
 </rte>
 <rte>
   <name>S12 Embankment</name>
-  <desc>5231.85903409469</desc>
-  <src>14</src>
+  <desc>4065.977149930835</desc>
+  <src>12</src>
   <number>12</number>
   <rtept lat="51.498862963784703" lon="-0.13740329135838">
   </rtept>
@@ -2956,53 +2980,13 @@
   </rtept>
   <rtept lat="51.498406911978975" lon="-0.132464967047384">
   </rtept>
-  <rtept lat="51.498118190770832" lon="-0.132224710849581">
+  <rtept lat="51.498126959272824" lon="-0.132298444360265">
   </rtept>
   <rtept lat="51.498058373896122" lon="-0.132206719772004">
   </rtept>
-  <rtept lat="51.498081268041282" lon="-0.132042283143121">
+  <rtept lat="51.498415269830787" lon="-0.132410842929809">
   </rtept>
-  <rtept lat="51.498314669029874" lon="-0.131476777469708">
-  </rtept>
-  <rtept lat="51.498397796481306" lon="-0.129949035815859">
-  </rtept>
-  <rtept lat="51.497923553819724" lon="-0.129696422285338">
-  </rtept>
-  <rtept lat="51.497533001546806" lon="-0.129427749444189">
-  </rtept>
-  <rtept lat="51.496907624085068" lon="-0.12933522610982">
-  </rtept>
-  <rtept lat="51.496934510308094" lon="-0.128498482117521">
-  </rtept>
-  <rtept lat="51.495882834713555" lon="-0.128243180968393">
-  </rtept>
-  <rtept lat="51.495908237816408" lon="-0.127818839553788">
-  </rtept>
-  <rtept lat="51.495910829357577" lon="-0.127592708183758">
-  </rtept>
-  <rtept lat="51.495826397257296" lon="-0.127548149715658">
-  </rtept>
-  <rtept lat="51.496160094175771" lon="-0.127538608474447">
-  </rtept>
-  <rtept lat="51.496216899431495" lon="-0.126953412265577">
-  </rtept>
-  <rtept lat="51.496963556226973" lon="-0.127108251120828">
-  </rtept>
-  <rtept lat="51.496964546961458" lon="-0.126424009228354">
-  </rtept>
-  <rtept lat="51.496978322771838" lon="-0.125623750181006">
-  </rtept>
-  <rtept lat="51.497603017470816" lon="-0.125930287419374">
-  </rtept>
-  <rtept lat="51.498605235018722" lon="-0.125851330989407">
-  </rtept>
-  <rtept lat="51.500157102457202" lon="-0.126184856205796">
-  </rtept>
-  <rtept lat="51.500174613559544" lon="-0.127281207303408">
-  </rtept>
-  <rtept lat="51.499532600989255" lon="-0.129217922920666">
-  </rtept>
-  <rtept lat="51.499666900503371" lon="-0.129496142767272">
+  <rtept lat="51.499562627168906" lon="-0.12945722147176">
   </rtept>
   <rtept lat="51.500684536510825" lon="-0.12964360971424">
   </rtept>
@@ -3026,7 +3010,21 @@
   </rtept>
   <rtept lat="51.506654872054938" lon="-0.12362747910393">
   </rtept>
-  <rtept lat="51.506751303951781" lon="-0.123738474086759">
+  <rtept lat="51.507016076175283" lon="-0.125432338332305">
+  </rtept>
+  <rtept lat="51.507267860509273" lon="-0.125366739406149">
+  </rtept>
+  <rtept lat="51.507594497571993" lon="-0.125902463969741">
+  </rtept>
+  <rtept lat="51.507805449430499" lon="-0.125541669875892">
+  </rtept>
+  <rtept lat="51.508077643933746" lon="-0.125935263432817">
+  </rtept>
+  <rtept lat="51.50785988846124" lon="-0.125519803567176">
+  </rtept>
+  <rtept lat="51.507002466171635" lon="-0.123978228802554">
+  </rtept>
+  <rtept lat="51.506893585996181" lon="-0.123978228802554">
   </rtept>
   <rtept lat="51.506768862898802" lon="-0.123563808256174">
   </rtept>
@@ -3070,25 +3068,15 @@
   </rtept>
   <rtept lat="51.51258165660672" lon="-0.115062129834246">
   </rtept>
-  <rtept lat="51.51280085399106" lon="-0.114507125762685">
+  <rtept lat="51.512449156817326" lon="-0.115876441855646">
   </rtept>
-  <rtept lat="51.51290845487447" lon="-0.113732118001607">
+  <rtept lat="51.512680760097574" lon="-0.116078021655922">
   </rtept>
-  <rtept lat="51.513242574151235" lon="-0.1132811394577">
+  <rtept lat="51.513327313022984" lon="-0.116000490963507">
   </rtept>
-  <rtept lat="51.513483138513074" lon="-0.112905324004441">
+  <rtept lat="51.513317663046784" lon="-0.116636242641303">
   </rtept>
-  <rtept lat="51.513763795329567" lon="-0.111595338710231">
-  </rtept>
-  <rtept lat="51.515147007234191" lon="-0.112293281694852">
-  </rtept>
-  <rtept lat="51.514979954886385" lon="-0.112787210576276">
-  </rtept>
-  <rtept lat="51.514632484040533" lon="-0.114612599920668">
-  </rtept>
-  <rtept lat="51.515060140089787" lon="-0.115525294592866">
-  </rtept>
-  <rtept lat="51.5149264980057" lon="-0.116115861733697">
+  <rtept lat="51.513607161443645" lon="-0.116651748779786">
   </rtept>
 </rte>
 <wpt lat="51.498439" lon="-0.049150215">
@@ -4519,136 +4507,136 @@
   <desc>Millbank Tower, Pimlico</desc>
   <src>376</src>
 </wpt>
-<wpt lat="51.493978" lon="-0.127554">
-  <name>239.PS</name>
+<wpt lat="51.49764" lon="-0.12597218">
+  <name>239.AG</name>
   <cmt>S11.21</cmt>
+  <desc>Abingdon Green, Westminster</desc>
+  <src>583</src>
+</wpt>
+<wpt lat="51.49580589" lon="-0.127575233">
+  <name>240.SS</name>
+  <cmt>S11.22</cmt>
+  <desc>Smith Square, Westminster</desc>
+  <src>281</src>
+</wpt>
+<wpt lat="51.493978" lon="-0.127554">
+  <name>241.PS</name>
+  <cmt>S11.23</cmt>
   <desc>Page Street, Westminster</desc>
   <src>558</src>
 </wpt>
 <wpt lat="51.49481649" lon="-0.13045856">
-  <name>240.HR</name>
-  <cmt>S11.22</cmt>
+  <name>242.HR</name>
+  <cmt>S11.24</cmt>
   <desc>Horseferry Road, Westminster</desc>
   <src>221</src>
 </wpt>
 <wpt lat="51.49582705" lon="-0.13547809">
-  <name>241.RR</name>
-  <cmt>S11.23</cmt>
+  <name>243.RR</name>
+  <cmt>S11.25</cmt>
   <desc>Rochester Row, Westminster</desc>
   <src>118</src>
 </wpt>
 <wpt lat="51.49769846" lon="-0.137598896">
-  <name>242.KGH</name>
-  <cmt>S11.24</cmt>
+  <name>244.KGH</name>
+  <cmt>S11.26</cmt>
   <desc>Kings Gate House, Westminster</desc>
   <src>799</src>
 </wpt>
 <wpt lat="51.49675303" lon="-0.138733562">
-  <name>243.HP</name>
-  <cmt>S11.25</cmt>
+  <name>245.HP</name>
+  <cmt>S11.27</cmt>
   <desc>Howick Place, Westminster</desc>
   <src>360</src>
 </wpt>
 <wpt lat="51.49616092" lon="-0.140947636">
-  <name>244.AP</name>
-  <cmt>S11.26</cmt>
+  <name>246.AP</name>
+  <cmt>S11.28</cmt>
   <desc>Ashley Place, Victoria</desc>
   <src>177</src>
 </wpt>
 <wpt lat="51.496863" lon="-0.1429434">
-  <name>245.AS</name>
-  <cmt>S11.27</cmt>
+  <name>247.AS</name>
+  <cmt>S11.29</cmt>
   <desc>Allington Street, Victoria</desc>
   <src>826</src>
 </wpt>
 <wpt lat="51.497998" lon="-0.14296064">
-  <name>246.WR</name>
-  <cmt>S11.28</cmt>
+  <name>248.WR</name>
+  <cmt>S11.30</cmt>
   <desc>Warwick Row, Westminster</desc>
   <src>316</src>
 </wpt>
 <wpt lat="51.49886563" lon="-0.137424571">
-  <name>247.BG</name>
+  <name>249.BG</name>
   <cmt>S12.01</cmt>
   <desc>Buckingham Gate, Westminster</desc>
   <src>646</src>
 </wpt>
 <wpt lat="51.49782999" lon="-0.135440826">
-  <name>248.BP</name>
+  <name>250.BP</name>
   <cmt>S12.02</cmt>
   <desc>Butler Place, Westminster</desc>
   <src>359</src>
 </wpt>
 <wpt lat="51.49812559" lon="-0.132102166">
-  <name>249.AOS</name>
+  <name>251.AOS</name>
   <cmt>S12.03</cmt>
   <desc>Abbey Orchard Street, Westminster</desc>
   <src>108</src>
 </wpt>
-<wpt lat="51.49580589" lon="-0.127575233">
-  <name>250.SS</name>
-  <cmt>S12.04</cmt>
-  <desc>Smith Square, Westminster</desc>
-  <src>281</src>
-</wpt>
-<wpt lat="51.49764" lon="-0.12597218">
-  <name>251.AG</name>
-  <cmt>S12.05</cmt>
-  <desc>Abingdon Green, Westminster</desc>
-  <src>583</src>
-</wpt>
 <wpt lat="51.50070305" lon="-0.129698963">
   <name>252.SG</name>
-  <cmt>S12.06</cmt>
+  <cmt>S12.04</cmt>
   <desc>Storey's Gate, Westminster</desc>
   <src>762</src>
 </wpt>
 <wpt lat="51.501513" lon="-0.12382322">
   <name>253.WP</name>
-  <cmt>S12.07</cmt>
+  <cmt>S12.05</cmt>
   <desc>Westminster Pier, Westminster</desc>
   <src>818</src>
 </wpt>
 <wpt lat="51.50654321" lon="-0.123179697">
   <name>254.WP</name>
-  <cmt>S12.08</cmt>
+  <cmt>S12.06</cmt>
   <desc>Whitehall Place, Strand</desc>
   <src>229</src>
 </wpt>
+<wpt lat="51.50810309" lon="-0.12602103">
+  <name>255.CS</name>
+  <cmt>S12.07</cmt>
+  <desc>Craven Street, Strand</desc>
+  <src>341</src>
+</wpt>
 <wpt lat="51.506767" lon="-0.123702">
-  <name>255.NA</name>
-  <cmt>S12.09</cmt>
+  <name>256.NA</name>
+  <cmt>S12.08</cmt>
   <desc>Northumberland Avenue, Strand</desc>
   <src>354</src>
 </wpt>
 <wpt lat="51.50963123" lon="-0.119047563">
-  <name>256.ES</name>
-  <cmt>S12.10</cmt>
+  <name>257.ES</name>
+  <cmt>S12.09</cmt>
   <desc>Embankment (Savoy), Strand</desc>
   <src>309</src>
 </wpt>
 <wpt lat="51.509943" lon="-0.117619">
-  <name>257.SH</name>
-  <cmt>S12.11</cmt>
+  <name>258.SH</name>
+  <cmt>S12.10</cmt>
   <desc>Somerset House, Strand</desc>
   <src>564</src>
 </wpt>
 <wpt lat="51.512582" lon="-0.1150573">
-  <name>258.S</name>
-  <cmt>S12.12</cmt>
+  <name>259.S</name>
+  <cmt>S12.11</cmt>
   <desc>Strand, Strand</desc>
   <src>174</src>
 </wpt>
-<wpt lat="51.51501025" lon="-0.112753217">
-  <name>259.CS</name>
-  <cmt>S12.13</cmt>
-  <desc>Carey Street, Holborn</desc>
-  <src>232</src>
-</wpt>
-<wpt lat="51.51494305" lon="-0.11614642">
-  <name>260.PS</name>
-  <cmt>S12.14</cmt>
-  <desc>Portugal Street, Holborn</desc>
-  <src>147</src>
+<wpt lat="51.51362054" lon="-0.116764211">
+  <name>FIN.HS</name>
+  <cmt>S12.12</cmt>
+  <desc>Houghton Street, Strand</desc>
+  <src>256</src>
 </wpt>
 </gpx>
