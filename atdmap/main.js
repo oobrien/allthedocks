@@ -25,7 +25,8 @@ const pointColours =
 
 function gpxStyle(feature, resolution)
 {
-	var scale = 2;
+	var scale = 1;
+	if (resolution < 12) { scale = 2; }
 	if (resolution < 6) { scale = 3; }
 	if (resolution < 3) { scale = 4; }
 	//Route lines are LineStrings, track lines are MultiLineStrings
@@ -34,7 +35,7 @@ function gpxStyle(feature, resolution)
 		return new ol.style.Style({
        		stroke: new ol.style.Stroke({
       			color: lineColours["" + feature.get('number')],
-      			width: 3*scale,
+      			width: 4*scale,
     		})
 		});
 	}
@@ -52,7 +53,7 @@ function gpxStyle(feature, resolution)
 			  }),*/
 			}),
 			text: new ol.style.Text({
-				text: feature.get('name'),
+				text: (resolution > 10 ? null : feature.get('name')),
 				font: '' + 5*scale + 'px Verdana, Arial, sans-serif',
 				fill: new ol.style.Fill({ color: 'rgba(255,255,255,1)' }),
 				stroke: new ol.style.Stroke({ color: 'rgba(0,0,0,1', width: 2*scale })
