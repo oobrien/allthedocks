@@ -58,6 +58,7 @@ const labelColours =
 
 function gpxStyle(feature, resolution)
 {
+    console.log(resolution);
 	var scale = 1;
 	if (resolution < 12) { scale = 2; }
 	if (resolution < 6) { scale = 3; }
@@ -67,8 +68,8 @@ function gpxStyle(feature, resolution)
 	{
 		return new ol.style.Style({
        		stroke: new ol.style.Stroke({
-      			color: lineColours["" + feature.get('cmt')[0] + feature.get('number')],
-      			width: 4*scale,
+      			color: lineColours["" + feature.get('name')[0] + feature.get('number')],
+      			width: 3*scale,
     		})
 		});
 	}
