@@ -251,7 +251,7 @@
 <rte>
   <name>W02 Shepherd's Bush</name>
   <cmt>Walk down/up the Richmond Way link. Use lift up on second visit to Westfield.</cmt>
-  <desc>9598.579453782695</desc>
+  <desc>9622.426754025832</desc>
   <src>16</src>
   <number>2</number>
   <rtept lat="51.490208459676325" lon="-0.215041108582848">
@@ -558,7 +558,7 @@
 <rte>
   <name>W03 Notting Hill</name>
   <cmt></cmt>
-  <desc>10045.63781946499</desc>
+  <desc>10047.18858022535</desc>
   <src>22</src>
   <number>3</number>
   <rtept lat="51.509265210066978" lon="-0.215843221435313">
@@ -821,7 +821,7 @@
 <rte>
   <name>W04 Kensington</name>
   <cmt>Walk bike through Holland Park</cmt>
-  <desc>10467.77738441322</desc>
+  <desc>10468.80265246812</desc>
   <src>25</src>
   <number>4</number>
   <rtept lat="51.517900197466325" lon="-0.188072036057946">
@@ -1080,7 +1080,7 @@
 <rte>
   <name>W05 South Kensington</name>
   <cmt></cmt>
-  <desc>9551.657362848617</desc>
+  <desc>9538.468450024664</desc>
   <src>22</src>
   <number>5</number>
   <rtept lat="51.500092456466987" lon="-0.211335437584079">
@@ -1307,7 +1307,7 @@
 <rte>
   <name>W06 St Johns Wood</name>
   <cmt></cmt>
-  <desc>8539.387820057418</desc>
+  <desc>8539.004814111977</desc>
   <src>18</src>
   <number>6</number>
   <rtept lat="51.510307335851529" lon="-0.187407800868493">
@@ -2405,7 +2405,7 @@
 <rte>
   <name>W10 Camden</name>
   <cmt>Walk outside Morning Crescent (80m)</cmt>
-  <desc>10131.28228217969</desc>
+  <desc>10123.53511233928</desc>
   <src>20</src>
   <number>10</number>
   <rtept lat="51.522001662266298" lon="-0.15142056418488">
@@ -2638,7 +2638,7 @@
 <rte>
   <name>W11 Fitzrovia</name>
   <cmt></cmt>
-  <desc>9935.615313572098</desc>
+  <desc>9858.868540338606</desc>
   <src>24</src>
   <number>11</number>
   <rtept lat="51.528766101745205" lon="-0.132286095329762">
@@ -2839,27 +2839,23 @@
   </rtept>
   <rtept lat="51.520078087989283" lon="-0.128763255060949">
   </rtept>
-  <rtept lat="51.519568268517382" lon="-0.129739042723584">
+  <rtept lat="51.519679807570178" lon="-0.129604161416048">
   </rtept>
-  <rtept lat="51.518586932387208" lon="-0.132078708073451">
-  </rtept>
-  <rtept lat="51.518596467203338" lon="-0.132263317633996">
-  </rtept>
-  <rtept lat="51.519267097329411" lon="-0.132956138204269">
-  </rtept>
-  <rtept lat="51.519579373904747" lon="-0.132181001650531">
-  </rtept>
-  <rtept lat="51.519545363688557" lon="-0.132121375761781">
+  <rtept lat="51.520318768117598" lon="-0.130348180407257">
   </rtept>
   <rtept lat="51.519273281044747" lon="-0.132821979954583">
   </rtept>
   <rtept lat="51.519181209325062" lon="-0.13281271878286">
   </rtept>
-  <rtept lat="51.518883705338517" lon="-0.133671648869257">
+  <rtept lat="51.518646738619978" lon="-0.132235898013054">
   </rtept>
-  <rtept lat="51.518475574834014" lon="-0.134725039570489">
+  <rtept lat="51.518574040292819" lon="-0.132045281577288">
   </rtept>
-  <rtept lat="51.518039613209794" lon="-0.134332502469559">
+  <rtept lat="51.518596997671821" lon="-0.132266642599466">
+  </rtept>
+  <rtept lat="51.518753872785354" lon="-0.132463407952514">
+  </rtept>
+  <rtept lat="51.518027842571136" lon="-0.134294248073444">
   </rtept>
   <rtept lat="51.517924576017677" lon="-0.13440213981821">
   </rtept>
@@ -4547,17 +4543,17 @@
   <desc>Malet Street, Bloomsbury</desc>
   <src>12</src>
 </wpt>
-<wpt lat="51.51858757" lon="-0.132053392">
-  <name>232.BS</name>
-  <cmt>W11.18</cmt>
-  <desc>Bayley Street , Bloomsbury</desc>
-  <src>88</src>
-</wpt>
 <wpt lat="51.519572" lon="-0.13214036">
-  <name>233.SS</name>
-  <cmt>W11.19</cmt>
+  <name>232.SS</name>
+  <cmt>W11.18</cmt>
   <desc>Store Street, Bloomsbury</desc>
   <src>364</src>
+</wpt>
+<wpt lat="51.51858757" lon="-0.132053392">
+  <name>233.BS</name>
+  <cmt>W11.19</cmt>
+  <desc>Bayley Street , Bloomsbury</desc>
+  <src>88</src>
 </wpt>
 <wpt lat="51.51816295" lon="-0.135025698">
   <name>234.RS</name>

@@ -58,7 +58,6 @@ const labelColours =
 
 function gpxStyle(feature, resolution)
 {
-    console.log(resolution);
 	var scale = 1;
 	if (resolution < 12) { scale = 2; }
 	if (resolution < 6) { scale = 3; }

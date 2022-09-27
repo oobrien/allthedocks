@@ -757,8 +757,8 @@ src	desc	lat	lon	name	cmt
 19	Taviton Street, Bloomsbury	51.52505093	-0.131161087	229.TS	W11.15
 287	Bedford Way, Bloomsbury	51.52367314	-0.128377673	230.BW	W11.16
 12	Malet Street, Bloomsbury	51.52168078	-0.130431727	231.MS	W11.17
-88	Bayley Street , Bloomsbury	51.51858757	-0.132053392	232.BS	W11.18
-364	Store Street, Bloomsbury	51.519572	-0.13214036	233.SS	W11.19
+364	Store Street, Bloomsbury	51.519572	-0.13214036	232.SS	W11.18
+88	Bayley Street , Bloomsbury	51.51858757	-0.132053392	233.BS	W11.19
 306	Rathbone Street, Fitzrovia	51.51816295	-0.135025698	234.RS	W11.20
 381	Charlotte Street, Fitzrovia	51.51953043	-0.13577731	235.CS	W11.21
 13	Scala Street, Fitzrovia	51.51991453	-0.136039674	236.SS	W11.22
@@ -790,3 +790,4 @@ src	desc	lat	lon	name	cmt
 283	Kingsway, Covent Garden	51.51440928	-0.118478757	262.K	W12.24
 594	Kingsway Southbound, Strand	51.513875	-0.117774	263.KS	W12.25
 256	Houghton Street, Strand	51.5136205	-0.1167642	FIN.HS	W12.26
+					
