@@ -95,33 +95,116 @@ function gpxStyle(feature, resolution)
 	}
 }
 
+function filter()
+{
+	var name = document.getElementById('segmentchooser').value; 
+	var id = name.substring(0, 3);
+
+	var features = [];
+	var features2 = features.concat(layerDocksE.getSource().getFeatures());
+	var features3 = features2.concat(layerDocksS.getSource().getFeatures());
+	var features = features3.concat(layerDocksW.getSource().getFeatures());
+
+	for (var i in features)
+	{
+		var feature = features[i];
+		 if (id == 'All' || feature.get('name') == name || (feature.get('cmt') != null && feature.get('cmt').substring(0, 3) == id))
+		 {
+			feature.setStyle(null);
+			if (feature.get('name') == name)
+			{
+				olMap.getView().fit(feature.getGeometry());
+			}
+		 } 
+		 else
+		 {
+			feature.setStyle(new ol.style.Style({})); 
+		 }
+	}
+}
+
+var selectitems = [];
+
+function populateSelect(source)
+{
+	var features = source.getFeatures()
+	for (var i in features)
+	{
+		var feature = features[i];
+		if (feature.getGeometry().getType() == 'MultiLineString' || feature.getGeometry().getType() == 'LineString')
+		{
+			selectitems.push(feature.get('name'));
+		}
+	}
+	
+	if (selectitems.length > 30)
+	{
+		selectitems.sort();
+		for (var i in selectitems)
+		{
+			var select = document.getElementById('segmentchooser');
+			var opt = document.createElement('option');
+			opt.value = selectitems[i];
+			opt.innerHTML =  selectitems[i];
+			select.appendChild(opt);			
+		}
+
+	}	
+}
+
+var layerDocksE;
+var layerDocksS;
+var layerDocksW;
+
+
 function init()
 {
 	var initialZoom = 14;
 	var initialLat = 51.514;
 	var initialLon = -0.122;
 
-	var layerDocksE = new ol.layer.VectorImage({
-		source: new ol.source.Vector({
+	var sourceDocksE = new ol.source.Vector({
 			url: 'https://raw.githubusercontent.com/oobrien/allthedocks/main/allthedocks_E.gpx',
 			format: new ol.format.GPX()
-		}),
-	  	style: gpxStyle
+	});
+	
+	sourceDocksE.on('featuresloadend', function()
+	{
+		populateSelect(sourceDocksE);
 	});
 
-	var layerDocksS = new ol.layer.VectorImage({
-		source: new ol.source.Vector({
+	layerDocksE = new ol.layer.VectorImage({
+		source: sourceDocksE,
+	  	style: gpxStyle
+	});
+	
+	var sourceDocksS = new ol.source.Vector({
 			url: 'https://raw.githubusercontent.com/oobrien/allthedocks/main/allthedocks_S.gpx',
 			format: new ol.format.GPX()
-		}),
+	});
+	
+	sourceDocksS.on('featuresloadend', function()
+	{
+		populateSelect(sourceDocksS);
+	});
+
+    layerDocksS = new ol.layer.VectorImage({
+		source: sourceDocksS,
 	  	style: gpxStyle
 	});
 
-	var layerDocksW = new ol.layer.VectorImage({
-		source: new ol.source.Vector({
+	var sourceDocksW = new ol.source.Vector({
 			url: 'https://raw.githubusercontent.com/oobrien/allthedocks/main/allthedocks_W.gpx',
 			format: new ol.format.GPX()
-		}),
+	});
+	
+	sourceDocksW.on('featuresloadend', function()
+	{
+		populateSelect(sourceDocksW);
+	});
+
+	layerDocksW = new ol.layer.VectorImage({
+		source: sourceDocksW,
 	  	style: gpxStyle
 	});
 

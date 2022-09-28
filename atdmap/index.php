@@ -12,6 +12,7 @@
 </head>
 <body onload="init()">
     <div id="mapcontainer"></div>
+    <select id="segmentchooser" onchange="filter()"><option id="all">All</option></select>
 </body>
 </html>
 
