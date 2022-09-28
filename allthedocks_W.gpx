@@ -252,7 +252,7 @@
   <name>W02 Shepherd's Bush</name>
   <cmt>Walk down/up the Richmond Way link. Use lift up on second visit to Westfield.</cmt>
   <desc>9622.426754025832</desc>
-  <src>16</src>
+  <src>17</src>
   <number>2</number>
   <rtept lat="51.490208459676325" lon="-0.215041108582848">
   </rtept>
@@ -559,7 +559,7 @@
   <name>W03 Notting Hill</name>
   <cmt></cmt>
   <desc>10047.18858022535</desc>
-  <src>22</src>
+  <src>21</src>
   <number>3</number>
   <rtept lat="51.509265210066978" lon="-0.215843221435313">
   </rtept>
@@ -822,7 +822,7 @@
   <name>W04 Kensington</name>
   <cmt>Walk bike through Holland Park</cmt>
   <desc>10468.80265246812</desc>
-  <src>25</src>
+  <src>26</src>
   <number>4</number>
   <rtept lat="51.517900197466325" lon="-0.188072036057946">
   </rtept>
@@ -1308,7 +1308,7 @@
   <name>W06 St Johns Wood</name>
   <cmt></cmt>
   <desc>8539.004814111977</desc>
-  <src>18</src>
+  <src>17</src>
   <number>6</number>
   <rtept lat="51.510307335851529" lon="-0.187407800868493">
   </rtept>
