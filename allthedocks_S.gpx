@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <gpx version="1.1" creator="GDAL 3.3.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
-<metadata><bounds minlat="51.454747344329348" minlon="-0.217723384484122" maxlat="51.513607161443645" maxlon="-0.049108564525637"/></metadata>                  
+<metadata><bounds minlat="51.454747344329348" minlon="-0.217723384484122" maxlat="51.513622181038585" maxlon="-0.049108564525637"/></metadata>                  
 <rte>
   <name>S01 Bermondsey</name>
   <desc>10745.27261748312</desc>
@@ -1060,7 +1060,7 @@
 </rte>
 <rte>
   <name>S04 Brixton</name>
-  <desc>10067.98230207718</desc>
+  <desc>10052.52253440934</desc>
   <src>18</src>
   <number>4</number>
   <rtept lat="51.479609021735811" lon="-0.111514702318062">
@@ -1123,9 +1123,11 @@
   </rtept>
   <rtept lat="51.464007521922639" lon="-0.115781765490001">
   </rtept>
-  <rtept lat="51.464090244708636" lon="-0.117388418641439">
+  <rtept lat="51.464024856180373" lon="-0.116140114519101">
   </rtept>
-  <rtept lat="51.464205703303229" lon="-0.117354109265768">
+  <rtept lat="51.463998910637962" lon="-0.11658307363851">
+  </rtept>
+  <rtept lat="51.464101513378658" lon="-0.117375288986685">
   </rtept>
   <rtept lat="51.46426897494753" lon="-0.118474071684899">
   </rtept>
@@ -1155,15 +1157,15 @@
   </rtept>
   <rtept lat="51.470683448585945" lon="-0.124105732116784">
   </rtept>
-  <rtept lat="51.470741342262372" lon="-0.124219006227442">
+  <rtept lat="51.470733884025492" lon="-0.124170219308353">
   </rtept>
   <rtept lat="51.470223368425891" lon="-0.124787535365123">
   </rtept>
-  <rtept lat="51.469793723994371" lon="-0.125358388438785">
+  <rtept lat="51.469785334435215" lon="-0.125387542788173">
   </rtept>
   <rtept lat="51.470643653272631" lon="-0.127062390362218">
   </rtept>
-  <rtept lat="51.469875378759433" lon="-0.125319916840379">
+  <rtept lat="51.469875026214901" lon="-0.125400632287953">
   </rtept>
   <rtept lat="51.471418016936241" lon="-0.123654329080221">
   </rtept>
@@ -2659,8 +2661,8 @@
 <rte>
   <name>S11 Westminster</name>
   <cmt>Walk through Tachbrook Street Market and from Howick Place to Ashley Place.</cmt>
-  <desc>11539.13427814722</desc>
-  <src>30</src>
+  <desc>11623.91153904622</desc>
+  <src>31</src>
   <number>11</number>
   <rtept lat="51.485935222679878" lon="-0.124526074632366">
   </rtept>
@@ -2737,6 +2739,14 @@
   <rtept lat="51.489123348694129" lon="-0.133881211892271">
   </rtept>
   <rtept lat="51.488959314624672" lon="-0.133887909268366">
+  </rtept>
+  <rtept lat="51.488615721951703" lon="-0.135683732949384">
+  </rtept>
+  <rtept lat="51.488232455004514" lon="-0.135515864111608">
+  </rtept>
+  <rtept lat="51.488215033703085" lon="-0.135613787600311">
+  </rtept>
+  <rtept lat="51.488572169051778" lon="-0.135781656438084">
   </rtept>
   <rtept lat="51.488129416319424" lon="-0.138248510815295">
   </rtept>
@@ -2961,7 +2971,7 @@
 </rte>
 <rte>
   <name>S12 Embankment</name>
-  <desc>4065.977149930835</desc>
+  <desc>4061.894526674173</desc>
   <src>11</src>
   <number>12</number>
   <rtept lat="51.498862963784703" lon="-0.13740329135838">
@@ -3070,13 +3080,13 @@
   </rtept>
   <rtept lat="51.512449156817326" lon="-0.115876441855646">
   </rtept>
-  <rtept lat="51.512680760097574" lon="-0.116078021655922">
+  <rtept lat="51.512665136437185" lon="-0.116072842694151">
   </rtept>
-  <rtept lat="51.513327313022984" lon="-0.116000490963507">
+  <rtept lat="51.513282180653981" lon="-0.116012138939874">
   </rtept>
-  <rtept lat="51.513317663046784" lon="-0.116636242641303">
+  <rtept lat="51.513313662277668" lon="-0.116629293775014">
   </rtept>
-  <rtept lat="51.513607161443645" lon="-0.116651748779786">
+  <rtept lat="51.513622181038585" lon="-0.116649528359774">
   </rtept>
 </rte>
 <wpt lat="51.498439" lon="-0.049150215">
@@ -4440,7 +4450,7 @@
   <cmt>S11.07A</cmt>
   <desc>St. George's Square, Pimlico</desc>
   <src>294</src>
-</wpt>  
+</wpt>
 <wpt lat="51.48805753" lon="-0.140741432">
   <name>227.AS</name>
   <cmt>S11.08</cmt>
