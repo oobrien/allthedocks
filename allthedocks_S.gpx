@@ -4435,6 +4435,12 @@
   <desc>Rampayne Street, Pimlico</desc>
   <src>190</src>
 </wpt>
+<wpt lat="51.488226" lon="-0.135635511">
+  <name>226A.SGS</name>
+  <cmt>S11.07A</cmt>
+  <desc>St. George's Square, Pimlico</desc>
+  <src>294</src>
+</wpt>  
 <wpt lat="51.48805753" lon="-0.140741432">
   <name>227.AS</name>
   <cmt>S11.08</cmt>
