@@ -77,7 +77,7 @@ function gpxStyle(feature, resolution)
 		return new ol.style.Style({
 			image: new ol.style.Circle({
 			  fill: new ol.style.Fill({
-				color: pointColours["" + feature.get('cmt')[0]],
+				color: (feature.get('visited') == null ? pointColours["" + feature.get('cmt')[0]] : 'rgba(0,0,0,1)'),
 			  }),
 			  radius: 4*scale,
 			  /* stroke: new ol.style.Stroke({
@@ -86,19 +86,56 @@ function gpxStyle(feature, resolution)
 			  }),*/
 			}),
 			text: new ol.style.Text({
-				text: (resolution > 10 ? null : feature.get('name')),
+				text: (resolution > 10 ? null : (feature.get('visited') == null ? feature.get('name'): feature.get('name') + "\n" + feature.get('visited'))),
 				font: '' + 5*scale + 'px Verdana, Arial, sans-serif',
-				fill: new ol.style.Fill({ color: 'rgba(255,255,255,1)' }),
+				fill: new ol.style.Fill({ color: (feature.get('visited') == null ? 'rgba(255,255,255,1)' : 'rgba(0,255,0,1)') }),
 				stroke: new ol.style.Stroke({ color: labelColours["" + feature.get('cmt')[0]], width: 2*scale })
 			})
 		})
 	}
 }
 
+function getVisited()
+{
+	$.ajax({url: 'getvisited.php', method: 'GET', dataType:'json', async: true, success: function(data) 
+	{ 
+		var docks = data['result'];
+
+		var w = layerDocksW.getSource().getFeatures();
+		var s = layerDocksS.getSource().getFeatures();
+		var e = layerDocksE.getSource().getFeatures();
+
+		for (var i in w) { w[i].set('visited', null)}
+		for (var i in s) { s[i].set('visited', null)}
+		for (var i in e) { e[i].set('visited', null)}
+
+		for (var i in docks)
+		{
+			$('#cb' + docks[i][0]).prop('checked', true);
+			$('#vt' + docks[i][0]).html(docks[i][1]);
+
+			var team = docks[i][2];
+			if (team == "E")
+			{
+				layerDocksE.getSource().getFeatureById(docks[i][0]).set('visited', docks[i][1]);
+			}
+			else if (team == "W")
+			{
+				layerDocksW.getSource().getFeatureById(docks[i][0]).set('visited', docks[i][1]);
+			}
+			else if (team == "S")
+			{
+				layerDocksS.getSource().getFeatureById(docks[i][0]).set('visited', docks[i][1]);
+			}
+		}		
+	}});
+}
+
+
 function filter()
 {
-	var name = document.getElementById('segmentchooser').value; 
-	var id = name.substring(0, 3);
+	var id = document.getElementById('segmentchooser').value; 
+	//var id = name.substring(0, 3);
 
 	var features = [];
 	var features2 = features.concat(layerDocksE.getSource().getFeatures());
@@ -107,13 +144,14 @@ function filter()
 
 	for (var i in features)
 	{
-		var feature = features[i];
-		 if (id == 'All' || feature.get('name') == name || (feature.get('cmt') != null && feature.get('cmt').substring(0, 3) == id))
+		 var feature = features[i];
+		 var fid = feature.get('name').substring(0, 3);
+		 if (id == 'All' || fid == id || (feature.get('cmt') != null && feature.get('cmt').substring(0, 3) == id))
 		 {
 			feature.setStyle(null);
-			if (feature.get('name') == name)
+			if (fid == id)
 			{
-				olMap.getView().fit(feature.getGeometry());
+				olMap.getView().fit(feature.getGeometry(), { 'padding': [20, 20, 20, 20]});
 			}
 		 } 
 		 else
@@ -133,7 +171,11 @@ function populateSelect(source)
 		var feature = features[i];
 		if (feature.getGeometry().getType() == 'MultiLineString' || feature.getGeometry().getType() == 'LineString')
 		{
-			selectitems.push(feature.get('name'));
+			selectitems.push(feature.get('name') + " (" + (0.1*Math.round(0.01*feature.get('desc'))).toFixed(1) + "km, " + feature.get('src') + " wpts)");
+		}
+		else
+		{
+			feature.setId(feature.get('src'));
 		}
 	}
 	
@@ -144,18 +186,23 @@ function populateSelect(source)
 		{
 			var select = document.getElementById('segmentchooser');
 			var opt = document.createElement('option');
-			opt.value = selectitems[i];
+			opt.value = selectitems[i].substring(0, 3);
 			opt.innerHTML =  selectitems[i];
 			select.appendChild(opt);			
 		}
-
+		initComplete();
 	}	
+}
+
+function initComplete()
+{
+		getVisited();
+		setInterval(getVisited, 1000*60*10);
 }
 
 var layerDocksE;
 var layerDocksS;
 var layerDocksW;
-
 
 function init()
 {
@@ -238,7 +285,7 @@ function init()
 			minZoom: 12, 
 			zoom: initialZoom,
 			center: ol.proj.transform([initialLon, initialLat], "EPSG:4326", "EPSG:3857"),
-			enableRotation: false
+			//enableRotation: false
 		})
 	});
 	

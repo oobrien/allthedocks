@@ -1,3 +1,8 @@
+body
+{
+	font-family: sans-serif;
+}
+
 #mapcontainer
 {
 	position: absolute; 
@@ -22,3 +27,36 @@
 	top: 10px;
 
 }
+table
+{
+	width: 100%;
+}
+
+td
+{
+	vertical-align: top;
+}
+
+#list
+{
+	position: absolute; 
+	height: 200px;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background-color: white;
+	overflow: scroll;
+	font-size: 12px;
+}
+
+#link
+{
+	position: absolute; 
+	bottom: 220px;
+	right: 0;
+	padding: 2px;
+	background-color: white;
+	font-size: 12px;
+
+}
+
