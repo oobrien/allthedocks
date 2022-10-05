@@ -10,8 +10,8 @@ tfl_id,tfl_name,lat,lon,shortcode,seqcode,actual_seq,visited,interval_s
 789,Podium| Queen Elizabeth Olympic Park,51.538718,-0.011889482,9.P,E01.09,E009,09:29:25,119
 783,Monier Road| Hackney Wick,51.5403115,-0.021630359,10.MR,E01.10,E010,09:34:43,318
 692,Cadogan Close| Victoria Park,51.54211855,-0.028941601,11.CC,E01.11,E011,09:40:25,342
-474,Gascoyne Road| Victoria Park,51.541515,-0.038557746,12.GR,E01.12,E012,09:48:45,500
-719,Victoria Park Road| Hackney Central,51.53642464,-0.054162264,13.VPR,E01.13,E013,09:48:51,6
+474,Gascoyne Road| Victoria Park,51.541515,-0.038557746,12.GR,E01.12,E012,09:43:45,200
+719,Victoria Park Road| Hackney Central,51.53642464,-0.054162264,13.VPR,E01.13,E013,09:48:51,306
 502,Bonner Gate| Victoria Park,51.53341,-0.049591815,14.BG,E01.14,E014,09:55:55,424
 485,Old Ford Road| Bethnal Green,51.531127,-0.048017,15.OFR,E01.15,E015,09:58:52,177
 577,Globe Town Market| Bethnal Green,51.528869,-0.047548,16.GTM,E02.01,E016,10:02:28,216
