@@ -3,9 +3,8 @@
 <metadata><bounds minlat="51.488991680083259" minlon="-0.236850291209094" maxlat="51.524302314343984" maxlon="-0.119618561165471"/></metadata>                  
 <rte>
   <name>W1 Mayfair</name>
-  <cmt></cmt>
   <desc>10275.76034190729</desc>
-  <src>-1</src>
+  <src>29</src>
   <number>1</number>
   <rtept lat="51.511707242179291" lon="-0.119688904847661">
   </rtept>
@@ -316,9 +315,8 @@
 </rte>
 <rte>
   <name>W2 South Kensington</name>
-  <cmt></cmt>
   <desc>10176.93203042954</desc>
-  <src>-1</src>
+  <src>24</src>
   <number>2</number>
   <rtept lat="51.510112211361111" lon="-0.155755229430069">
   </rtept>
@@ -581,9 +579,8 @@
 </rte>
 <rte>
   <name>W3 Kensington</name>
-  <cmt></cmt>
   <desc>10601.06655206763</desc>
-  <src>-1</src>
+  <src>23</src>
   <number>3</number>
   <rtept lat="51.501942238751667" lon="-0.19440718145798">
   </rtept>
@@ -806,9 +803,8 @@
 </rte>
 <rte>
   <name>W4 Shepherds Bush</name>
-  <cmt></cmt>
   <desc>11162.54393342587</desc>
-  <src>-1</src>
+  <src>17</src>
   <number>4</number>
   <rtept lat="51.491093" lon="-0.216493">
   </rtept>
@@ -1117,9 +1113,8 @@
 </rte>
 <rte>
   <name>W5 Notting Hill</name>
-  <cmt></cmt>
   <desc>10261.91357942307</desc>
-  <src>-1</src>
+  <src>20</src>
   <number>5</number>
   <rtept lat="51.509265210066978" lon="-0.215843221435313">
   </rtept>
@@ -1354,9 +1349,8 @@
 </rte>
 <rte>
   <name>W6 Paddington</name>
-  <cmt></cmt>
   <desc>10185.29408325337</desc>
-  <src>-1</src>
+  <src>24</src>
   <number>6</number>
   <rtept lat="51.51791921" lon="-0.188098863">
   </rtept>
@@ -1609,9 +1603,8 @@
 </rte>
 <rte>
   <name>W7 Marylebone</name>
-  <cmt></cmt>
   <desc>9096.550771918295</desc>
-  <src>-1</src>
+  <src>25</src>
   <number>7</number>
   <rtept lat="51.516204" lon="-0.155525">
   </rtept>

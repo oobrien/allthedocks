@@ -4,6 +4,7 @@
 <rte>
   <name>N1 Euston</name>
   <desc>10396.40561819005</desc>
+  <src>24</src>
   <number>1</number>
   <rtept lat="51.51181587254726" lon="-0.119650915359773">
   </rtept>
@@ -208,6 +209,7 @@
   <name>N2 St Johns Wood</name>
   <cmt></cmt>
   <desc>10050.35861209129</desc>
+  <src>22</src>
   <number>2</number>
   <rtept lat="51.52202903" lon="-0.165842551">
   </rtept>
@@ -416,6 +418,7 @@
   <name>N3 Camden</name>
   <cmt></cmt>
   <desc>10040.03070211545</desc>
+  <src>22</src>
   <number>3</number>
   <rtept lat="51.539099" lon="-0.141728">
   </rtept>
@@ -638,6 +641,7 @@
   <name>N4 Hackney</name>
   <cmt></cmt>
   <desc>10328.55373277658</desc>
+  <src>19</src>
   <number>4</number>
   <rtept lat="51.53356" lon="-0.09315">
   </rtept>
@@ -854,6 +858,7 @@
   <name>N5 Victoria Park</name>
   <cmt></cmt>
   <desc>10468.14163951721</desc>
+  <src>16</src>
   <number>5</number>
   <rtept lat="51.548731191499996" lon="-0.0226065549321">
   </rtept>
@@ -1084,6 +1089,7 @@
   <name>N6 Shoreditch</name>
   <cmt></cmt>
   <desc>10473.76464781503</desc>
+  <src>30</src>
   <number>6</number>
   <rtept lat="51.53213" lon="-0.08299">
   </rtept>
@@ -1391,6 +1397,7 @@
 <rte>
   <name>N7 Kings Cross</name>
   <desc>8970.401207940988</desc>
+  <src>29</src>
   <number>7</number>
   <rtept lat="51.52450027041025" lon="-0.116182254144755">
   </rtept>
