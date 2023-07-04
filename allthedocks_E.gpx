@@ -4,6 +4,7 @@
 <rte>
   <name>E1 City of London</name>
   <desc>10387.63338379309</desc>
+  <src>-1</src>
   <number>1</number>
   <rtept lat="51.511728693175172" lon="-0.119649051211803">
   </rtept>
@@ -302,6 +303,7 @@
   <name>E2 Bethnal Green</name>
   <cmt></cmt>
   <desc>10135.87448442892</desc>
+  <src>-1</src>
   <number>2</number>
   <rtept lat="51.51793" lon="-0.067937">
   </rtept>
@@ -522,6 +524,7 @@
   <name>E3 Bow</name>
   <cmt></cmt>
   <desc>10889.6786160785</desc>
+  <src>-1</src>
   <number>3</number>
   <rtept lat="51.531127" lon="-0.048017">
   </rtept>
@@ -774,6 +777,7 @@
   <name>E4 Isle of Dogs</name>
   <cmt></cmt>
   <desc>10373.49290943467</desc>
+  <src>-1</src>
   <number>4</number>
   <rtept lat="51.518818683191874" lon="-0.011584078310712">
   </rtept>
@@ -1160,6 +1164,7 @@
   <name>E5 Limehouse</name>
   <cmt></cmt>
   <desc>10047.75961035007</desc>
+  <src>-1</src>
   <number>5</number>
   <rtept lat="51.502661" lon="-0.021596">
   </rtept>
@@ -1471,6 +1476,7 @@
 <rte>
   <name>E6 Stepney</name>
   <desc>10347.23325124552</desc>
+  <src>-1</src>
   <number>6</number>
   <rtept lat="51.528224" lon="-0.037471">
   </rtept>
@@ -1687,6 +1693,7 @@
   <name>E7 Aldgate</name>
   <cmt></cmt>
   <desc>10260.48407013905</desc>
+  <src>-1</src>
   <number>7</number>
   <rtept lat="51.504719" lon="-0.063531">
   </rtept>

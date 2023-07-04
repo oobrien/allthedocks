@@ -5,6 +5,7 @@
   <name>S1 Lambeth</name>
   <cmt></cmt>
   <desc>10029.89547459432</desc>
+  <src>-1</src>
   <number>1</number>
   <rtept lat="51.511656406938918" lon="-0.119628894305802">
   </rtept>
@@ -280,6 +281,7 @@
 <rte>
   <name>S2 Bankside</name>
   <desc>10369.64171089371</desc>
+  <src>-1</src>
   <number>2</number>
   <rtept lat="51.4907579" lon="-0.106323685">
   </rtept>
@@ -612,6 +614,7 @@
   <name>S3 Bermondsey</name>
   <cmt></cmt>
   <desc>10147.99347405174</desc>
+  <src>-1</src>
   <number>3</number>
   <rtept lat="51.498585" lon="-0.068981764">
   </rtept>
@@ -879,6 +882,7 @@
 <rte>
   <name>S4 Brixton</name>
   <desc>10428.34634459866</desc>
+  <src>-1</src>
   <number>4</number>
   <rtept lat="51.49148474" lon="-0.090220911">
   </rtept>
@@ -1094,6 +1098,7 @@
 <rte>
   <name>S5 Clapham</name>
   <desc>10263.7252035504</desc>
+  <src>-1</src>
   <number>5</number>
   <rtept lat="51.464019" lon="-0.11578197">
   </rtept>
@@ -1275,6 +1280,7 @@
 <rte>
   <name>S6 Battersea Power Station</name>
   <desc>10123.71664572285</desc>
+  <src>-1</src>
   <number>6</number>
   <rtept lat="51.481747" lon="-0.124642">
   </rtept>
@@ -1487,6 +1493,7 @@
   <name>S7 Westminster</name>
   <cmt></cmt>
   <desc>10830.29866153849</desc>
+  <src>-1</src>
   <number>7</number>
   <rtept lat="51.48836528" lon="-0.129361842">
   </rtept>
