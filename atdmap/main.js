@@ -3,57 +3,62 @@ var olMap;
 const lineColours = 
 {
 	'E1': 'rgba(255,0,0,0.65)',
-	'E2':  'rgba(255,96,0,0.65)',
-	'E3':  'rgba(192,192,0,0.65)',
-	'E4':  'rgba(0,255,0,0.65)',
-	'E5':  'rgba(0,255,255,0.65)',
-	'E6':  'rgba(0,129,255,0.65)',
-	'E7':  'rgba(0,0,255,0.65)',
-	'E8':  'rgba(128,0,255,0.65)',
-	'E9':  'rgba(255,0,255,0.65)',
-	'E10':  'rgba(255,0,0,0.65)',
-	'E11':  'rgba(255,96,0,0.65)',
-	'E12':  'rgba(192,192,0,0.65)',
+	'E2': 'rgba(192,0,0,0.65)',
+	'E3': 'rgba(128,0,0,0.65)',
+	'E4': 'rgba(192,0,0,0.65)',
+	'E5': 'rgba(255,0,0,0.65)',
+	'E6': 'rgba(192,0,0,0.65)',
+	'E7': 'rgba(128,0,0,0.65)',
 
-	'S1':  'rgba(255,96,0,0.65)',
-	'S2':  'rgba(192,192,0,0.65)',
-	'S3':  'rgba(0,255,0,0.65)',
-	'S4':  'rgba(0,255,255,0.65)',
-	'S5':  'rgba(0,129,255,0.65)',
-	'S6':  'rgba(0,0,255,0.65)',
-	'S7':  'rgba(128,0,255,0.65)',
-	'S8':  'rgba(255,0,255,0.65)',
-	'S9':  'rgba(255,0,0,0.65)',
-	'S10':  'rgba(255,96,0,0.65)',
-	'S11':  'rgba(192,192,0,0.65)',
-	'S12': 'rgba(255,0,0,0.65)',
+	'N1': 'rgba(255,0,255,0.65)',
+	'N2': 'rgba(192,0,192,0.65)',
+	'N3': 'rgba(128,0,128,0.65)',
+	'N4': 'rgba(192,0,192,0.65)',
+	'N5': 'rgba(255,0,255,0.65)',
+	'N6': 'rgba(192,0,192,0.65)',
+	'N7': 'rgba(128,0,128,0.65)',
 
-	'W1':  'rgba(192,192,0,0.65)',
-	'W2':  'rgba(0,255,0,0.65)',
-	'W3':  'rgba(0,255,255,0.65)',
-	'W4':  'rgba(0,129,255,0.65)',
-	'W5':  'rgba(0,0,255,0.65)',
-	'W6':  'rgba(128,0,255,0.65)',
-	'W7':  'rgba(255,0,255,0.65)',
-	'W8':  'rgba(255,0,0,0.65)',
-	'W9':  'rgba(255,96,0,0.65)',
-	'W10':  'rgba(192,192,0,0.65)',
-	'W11': 'rgba(255,0,0,0.65)',
-	'W12':  'rgba(255,96,0,0.65)',
+	'P1': 'rgba(128,128,255,0.65)',
+	'P2':  'rgba(64,64,255,0.65)',
+	'P3':  'rgba(0,0,255,0.65)',
+	'P4':  'rgba(64,64,255,0.65)',
+	'P5':  'rgba(128,128,255,0.65)',
+	'P6':  'rgba(64,64,255,0.65)',
+	'P7':  'rgba(0,0,255,0.65)',
+
+	'S1':  'rgba(128,0,255,0.65)',
+	'S2':  'rgba(96,0,192,0.65)',
+	'S3':  'rgba(64,0,128,0.65)',
+	'S4':  'rgba(96,0,192,0.65)',
+	'S5':  'rgba(128,0,255,0.65)',
+	'S6':  'rgba(96,0,192,0.65)',
+	'S7':  'rgba(64,0,128,0.65)',
+
+	'W1':  'rgba(0,192,0,0.65)',
+	'W2':  'rgba(0,128,0,0.65)',
+	'W3':  'rgba(0,64,0,0.65)',
+	'W4':  'rgba(0,128,0,0.65)',
+	'W5':  'rgba(0,192,0,0.65)',
+	'W6':  'rgba(0,128,0,0.65)',
+	'W7':  'rgba(0,64,0,0.65)',
 }
 
 const pointColours = 
 {
 	'E': 'rgba(255,0,0,0.6)',
-	'W': 'rgba(0,128,0,0.6)',
-	'S': 'rgba(0,0,255,0.6)',
+	'N': 'rgba(255,0,255,0.6)',
+	'P': 'rgba(128,128,255,0.6)',
+	'S': 'rgba(128,0,255,0.6)',
+	'W': 'rgba(0,192,0,0.6)',
 }
 
 const labelColours = 
 {
 	'E': 'rgba(128,0,0,1)',
+	'N': 'rgba(128,0,128,1)',
+	'P': 'rgba(0,0,128,1)',
+	'S': 'rgba(64,0,128,1)',
 	'W': 'rgba(0,64,0,1)',
-	'S': 'rgba(0,0,128,1)',
 }
 
 function gpxStyle(feature, resolution)
@@ -103,11 +108,15 @@ function getVisited()
 
 		var w = layerDocksW.getSource().getFeatures();
 		var s = layerDocksS.getSource().getFeatures();
+		var n = layerDocksN.getSource().getFeatures();
+		var p = layerDocksP.getSource().getFeatures();
 		var e = layerDocksE.getSource().getFeatures();
 
 		for (var i in w) { w[i].set('visited', null)}
 		for (var i in s) { s[i].set('visited', null)}
 		for (var i in e) { e[i].set('visited', null)}
+		for (var i in n) { n[i].set('visited', null)}
+		for (var i in p) { p[i].set('visited', null)}
 
 		for (var i in docks)
 		{
@@ -127,6 +136,14 @@ function getVisited()
 			{
 				layerDocksS.getSource().getFeatureById(docks[i][0]).set('visited', docks[i][1]);
 			}
+			else if (team == "N")
+			{
+				layerDocksN.getSource().getFeatureById(docks[i][0]).set('visited', docks[i][1]);
+			}
+			else if (team == "P")
+			{
+				layerDocksP.getSource().getFeatureById(docks[i][0]).set('visited', docks[i][1]);
+			}
 		}		
 	}});
 }
@@ -140,13 +157,15 @@ function filter()
 	var features = [];
 	var features2 = features.concat(layerDocksE.getSource().getFeatures());
 	var features3 = features2.concat(layerDocksS.getSource().getFeatures());
-	var features = features3.concat(layerDocksW.getSource().getFeatures());
+	var features4 = features3.concat(layerDocksP.getSource().getFeatures());
+	var features5 = features4.concat(layerDocksN.getSource().getFeatures());
+	var features = features5.concat(layerDocksW.getSource().getFeatures());
 
 	for (var i in features)
 	{
 		 var feature = features[i];
-		 var fid = feature.get('name').substring(0, 3);
-		 if (id == 'All' || fid == id || (feature.get('cmt') != null && feature.get('cmt').substring(0, 3) == id))
+		 var fid = feature.get('name').substring(0, 2);
+		 if (id == 'All' || fid == id || (feature.get('cmt') != null && feature.get('cmt').substring(0, 2) == id))
 		 {
 			feature.setStyle(null);
 			if (fid == id)
@@ -165,7 +184,7 @@ var selectitems = [];
 
 function populateSelect(source)
 {
-	var features = source.getFeatures()
+	var features = source.getFeatures();
 	for (var i in features)
 	{
 		var feature = features[i];
@@ -175,18 +194,18 @@ function populateSelect(source)
 		}
 		else
 		{
-			feature.setId(feature.get('src'));
+			feature.setId('' + feature.get('src'));
 		}
 	}
 	
 	if (selectitems.length > 30)
 	{
 		selectitems.sort();
+		var select = document.getElementById('segmentchooser');
 		for (var i in selectitems)
 		{
-			var select = document.getElementById('segmentchooser');
 			var opt = document.createElement('option');
-			opt.value = selectitems[i].substring(0, 3);
+			opt.value = selectitems[i].substring(0, 2);
 			opt.innerHTML =  selectitems[i];
 			select.appendChild(opt);			
 		}
@@ -197,12 +216,14 @@ function populateSelect(source)
 function initComplete()
 {
 		getVisited();
-		setInterval(getVisited, 1000*60*10);
+		setInterval(getVisited, 1000*60*1);
 }
 
 var layerDocksE;
 var layerDocksS;
 var layerDocksW;
+var layerDocksP;
+var layerDocksN;
 
 function init()
 {
@@ -255,6 +276,37 @@ function init()
 	  	style: gpxStyle
 	});
 
+	var sourceDocksN = new ol.source.Vector({
+			url: 'https://raw.githubusercontent.com/oobrien/allthedocks/main/allthedocks_N.gpx',
+			format: new ol.format.GPX()
+	});
+	
+	sourceDocksN.on('featuresloadend', function()
+	{
+		populateSelect(sourceDocksN);
+	});
+
+	layerDocksN = new ol.layer.VectorImage({
+		source: sourceDocksN,
+	  	style: gpxStyle
+	});
+
+	var sourceDocksP = new ol.source.Vector({
+			url: 'https://raw.githubusercontent.com/oobrien/allthedocks/main/allthedocks_P.gpx',
+			format: new ol.format.GPX()
+	});
+	
+	sourceDocksP.on('featuresloadend', function()
+	{
+		populateSelect(sourceDocksP);
+	});
+
+	layerDocksP = new ol.layer.VectorImage({
+		source: sourceDocksP,
+	  	style: gpxStyle
+	});
+
+
 	var layerBackground = new ol.layer.Tile({
 	   source: new ol.source.OSM()
 	});
@@ -275,13 +327,13 @@ function init()
       
 	olMap = new ol.Map({
 		target: "mapcontainer",
-		layers: [ layerBackground, layerDocksE, layerDocksS, layerDocksW, layerLocation ],
-		controls: ol.control.defaults({}).extend([
+		layers: [ layerBackground, layerDocksE, layerDocksS, layerDocksW, layerDocksN, layerDocksP, layerLocation ],
+		controls: ol.control.defaults.defaults({}).extend([
 			new ol.control.ScaleLine({geodesic: true, units: 'metric' })
 		]),
 		view: new ol.View({
 			projection: "EPSG:3857",
-			maxZoom: 18,
+			maxZoom: 19,
 			minZoom: 12, 
 			zoom: initialZoom,
 			center: ol.proj.transform([initialLon, initialLat], "EPSG:4326", "EPSG:3857"),
@@ -337,3 +389,8 @@ function init()
 	}));		
 	
 }
+
+$(document).ready(function()
+{
+	init();
+});

@@ -12,7 +12,7 @@ if (!$conn)
 
 mysqli_select_db($conn, $dbdb);
 
-$query1 = "SELECT * FROM allthedocks order by seqcode;;";
+$query1 = "SELECT * FROM allthedocks order by seqcode;";
 $result1 = mysqli_query($conn, $query1);
 if (!$result1)
 {
