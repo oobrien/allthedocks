@@ -329,9 +329,9 @@ src	desc	lat	lon	name	cmt	NULL
 108	"Abbey Orchard Street, Westminster"	51.49812559	-0.132102166	4.AOS	P1.04	NULL
 353	"Greycoat Street , Westminster"	51.49459148	-0.134234258	5.GS	P1.05	NULL
 118	"Rochester Row, Westminster"	51.49582705	-0.13547809	6.RR	P1.06	NULL
-359	"Butler Place, Westminster"	51.49782999	-0.135440826	6.BP	P1.07	NULL
-646	"Buckingham Gate, Westminster"	51.49886563	-0.137424571	7.BG	P1.08	NULL
-316	"Warwick Row, Westminster"	51.497998	-0.14296064	8.WR	P1.09	NULL
+359	"Butler Place, Westminster"	51.49782999	-0.135440826	7.BP	P1.07	NULL
+646	"Buckingham Gate, Westminster"	51.49886563	-0.137424571	8.BG	P1.08	NULL
+316	"Warwick Row, Westminster"	51.497998	-0.14296064	9.WR	P1.09	NULL
 799	"Kings Gate House, Westminster"	51.49769846	-0.137598896	10.KGH	P1.10	NULL
 360	"Howick Place, Westminster"	51.49675303	-0.138733562	11.HP	P1.11	NULL
 177	"Ashley Place, Victoria"	51.49616092	-0.140947636	12.AP	P1.12	NULL

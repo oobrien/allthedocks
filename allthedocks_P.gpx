@@ -1753,19 +1753,19 @@
   <src>118</src>
 </wpt>
 <wpt lat="51.49782999" lon="-0.135440826">
-  <name>6.BP</name>
+  <name>7.BP</name>
   <cmt>P1.07</cmt>
   <desc>Butler Place, Westminster</desc>
   <src>359</src>
 </wpt>
 <wpt lat="51.49886563" lon="-0.137424571">
-  <name>7.BG</name>
+  <name>8.BG</name>
   <cmt>P1.08</cmt>
   <desc>Buckingham Gate, Westminster</desc>
   <src>646</src>
 </wpt>
 <wpt lat="51.497998" lon="-0.14296064">
-  <name>8.WR</name>
+  <name>9.WR</name>
   <cmt>P1.09</cmt>
   <desc>Warwick Row, Westminster</desc>
   <src>316</src>
