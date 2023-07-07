@@ -51,116 +51,115 @@ src	desc	lat	lon	name	cmt	NULL
 399	"Brick Lane Market, Shoreditch"	51.52261762	-0.071653961	50.BLM	E2.14	NULL
 132	"Bethnal Green Road, Shoreditch"	51.52364804	-0.074754872	51.BGR	E2.15	NULL
 322	"Palissy Street, Shoreditch"	51.526293	-0.073955	52.PS	E2.16	NULL
-533	"Wellington Row, Bethnal Green"	51.528222	-0.069743	53.WR	E2.17	NULL
-534	"Goldsmith's Row, Haggerston"	51.531864	-0.066035	54.GR	E2.18	NULL
-512	"Pritchard's Road, Bethnal Green"	51.532091	-0.06142	55.PR	E2.19	NULL
-502	"Bonner Gate, Victoria Park"	51.53341	-0.049591815	56.BG	E2.20	NULL
-485	"Old Ford Road, Bethnal Green"	51.531127	-0.048017	57.OFR	E2.21	NULL
-577	"Globe Town Market, Bethnal Green"	51.528869	-0.047548	58.GTM	E3.01	NULL
-531	"Twig Folly Bridge, Mile End"	51.530326	-0.042744	59.TFB	E3.02	NULL
-521	"Driffield Road, Old Ford"	51.534137	-0.037366	60.DR	E3.03	NULL
-459	"Gunmakers Lane, Old Ford"	51.535179	-0.03338	61.GL	E3.04	NULL
-721	"Wendon Street, Old Ford"	51.53603947	-0.026262677	62.WS	E3.05	NULL
-471	"Hewison Street, Old Ford"	51.533283	-0.028155	63.HS	E3.06	NULL
-517	"Ford Road, Old Ford"	51.532513	-0.033085	64.FR	E3.07	NULL
-472	"Malmesbury Road, Bow"	51.529452	-0.027616	65.MR	E3.08	NULL
-470	"Mostyn Grove, Bow"	51.530535	-0.025492	66.MG	E3.09	NULL
-496	"Devons Road, Bow"	51.52512	-0.015578	67.DR	E3.10	NULL
-484	"Bromley High Street, Bow"	51.528828	-0.013258	68.BHS	E3.11	NULL
-495	"Bow Church Station, Bow"	51.528169	-0.018703	69.BCS	E3.12	NULL
-498	"Bow Road Station, Bow"	51.527058	-0.025296	70.BRS	E3.13	NULL
-497	"Merchant Street, Bow"	51.526578	-0.027581	71.MS	E3.14	NULL
-492	"Maplin Street, Mile End"	51.525501	-0.032267204	72.MS	E3.15	NULL
-467	"Southern Grove, Bow"	51.523538	-0.030556	73.SG	E3.16	NULL
-505	"Ackroyd Drive, Bow"	51.520398	-0.026768	74.AD	E3.17	NULL
-499	"Furze Green, Bow"	51.519265	-0.021345	75.FG	E3.18	NULL
-468	"Cantrell Road, Bow"	51.521564	-0.022694	76.CR	E3.19	NULL
-519	"Teviot Street, Poplar"	51.518811	-0.011662	77.TS	E3.20	NULL
-523	"Langdon Park, Poplar"	51.51549	-0.013475	78.LP	E4.01	NULL
-554	"Aberfeldy Street, Poplar"	51.513548	-0.005659	79.AS	E4.02	NULL
-547	"East India DLR, Blackwall"	51.509474	-0.002275	80.EID	E4.03	NULL
-538	"Naval Row, Blackwall"	51.508981	-0.00699	81.NR	E4.04	NULL
-526	"Lancaster Drive, Blackwall"	51.503143	-0.008428	82.LD	E4.05	NULL
-563	"Preston's Road, Cubitt Town"	51.499286	-0.009152	83.PR	E4.06	NULL
-504	"St. John's Park, Cubitt Town"	51.496454	-0.009506	84.SJP	E4.07	NULL
-447	"Jubilee Crescent, Cubitt Town"	51.493381	-0.007542	85.JC	E4.08	NULL
-476	"Stebondale Street, Cubitt Town"	51.489096	-0.009205	86.SS	E4.09	NULL
-481	"Saunders Ness Road, Cubitt Town"	51.487129	-0.0090011	87.SNR	E4.10	NULL
-454	"Napier Avenue, Millwall"	51.487679	-0.021582	88.NA	E4.11	NULL
-477	"Spindrift Avenue, Millwall"	51.49109	-0.018716	89.SA	E4.12	NULL
-586	"Mudchute DLR, Cubitt Town"	51.490645	-0.014582	90.MD	E4.13	NULL
-455	"East Ferry Road, Cubitt Town"	51.49447	-0.014409	91.EFR	E4.14	NULL
-473	"Millharbour, Millwall"	51.496137	-0.019355	92.M	E4.15	NULL
-576	"Alpha Grove, Millwall"	51.497304	-0.022793	93.AG	E4.16	NULL
-475	"Lightermans Road, Millwall"	51.499041	-0.020157	94.LR	E4.17	NULL
-556	"Heron Quays DLR, Canary Wharf"	51.502661	-0.021596	95.HQD	E4.18	NULL
-532	"Jubilee Plaza, Canary Wharf"	51.5034	-0.0202423	96.JP	E5.01	NULL
-570	"Upper Bank Street, Canary Wharf"	51.503083	-0.017676	97.UBS	E5.02	NULL
-494	"South Quay East, Canary Wharf"	51.50196	-0.016251	98.SQE	E5.03	NULL
-551	"Import Dock, Canary Wharf"	51.505772	-0.016460175	99.ID	E5.04	NULL
-448	"Fisherman's Walk West, Canary Wharf"	51.50623	-0.02296	100.FWW	E5.05	NULL
-811	"Westferry Circus, Canary Wharf"	51.50570304	-0.027772743	101.WC	E5.06	NULL
-510	"Westferry DLR, Limehouse"	51.509303	-0.025996	102.WD	E5.07	NULL
-530	"Newby Place, Poplar"	51.508896	-0.012413	103.NP	E5.08	NULL
-516	"Chrisp Street Market, Poplar"	51.5112	-0.014438	104.CSM	E5.09	NULL
-469	"Lindfield Street, Poplar"	51.513757	-0.020467	105.LS	E5.10	NULL
-716	"Stainsby Road , Poplar"	51.51542791	-0.02356501	106.SR	E5.11	NULL
-487	"Canton Street, Poplar"	51.511811	-0.025626	107.CS	E5.12	NULL
-460	"Burdett Road, Mile End"	51.516196	-0.029138	108.BR	E5.13	NULL
-542	"Salmon Lane, Limehouse"	51.514115	-0.033828	109.SL	E5.14	NULL
-480	"Flamborough Street, Limehouse"	51.5128711	-0.0389866	110.FS	E5.15	NULL
-461	"Aston Street, Stepney"	51.516	-0.038775	111.AS	E5.16	NULL
-712	"Mile End Stadium, Mile End"	51.51854104	-0.034903714	112.MES	E5.17	NULL
-763	"Mile End Park Leisure Centre, Mile End"	51.52059714	-0.032566533	113.MEPLC	E5.18	NULL
-522	"Clinton Road, Mile End"	51.525941	-0.036017	114.CR	E5.19	NULL
-518	"Antill Road, Mile End"	51.528224	-0.037471	115.AR	E5.20	NULL
-520	"Bancroft Road, Bethnal Green"	51.526041	-0.047218	116.BR	E6.01	NULL
-478	"Stepney Green Station, Stepney"	51.521889	-0.04667	117.SGS	E6.02	NULL
-561	"Rectory Square, Stepney"	51.518369	-0.043371	118.RS	E6.03	NULL
-550	"Harford Street, Mile End"	51.521564	-0.039264	119.HS	E6.04	NULL
-491	"Queen Mary's, Mile End"	51.522507	-0.041378	120.QM	E6.05	NULL
-500	"Ansell House, Stepney"	51.520019	-0.05438	121.AH	E6.06	NULL
-282	"Royal London Hospital, Whitechapel"	51.518675	-0.06111	122.RLH	E6.07	NULL
-206	"New Road 1 , Whitechapel"	51.518154	-0.062697	123.NR1	E6.08	NULL
-443	"Philpot Street, Whitechapel"	51.515256	-0.058641	124.PS	E6.09	NULL
-450	"Jubilee Street, Stepney"	51.515975	-0.053177	125.JS	E6.10	NULL
-464	"St. Mary & St. Michael Church, Stepney"	51.51417	-0.052099	126.SMSMC	E6.11	NULL
-715	"Aylward Street, Stepney"	51.51563007	-0.049067243	127.AS	E6.12	NULL
-483	"Albert Gardens, Stepney"	51.51328	-0.047784	128.AG	E6.13	NULL
-513	"Watney Market, Stepney"	51.5142228	-0.055656	129.WM	E6.14	NULL
-511	"Sutton Street, Shadwell"	51.511066	-0.053558	130.SS	E6.15	NULL
-552	"Watney Street, Shadwell"	51.511542	-0.056667	131.WS	E6.16	NULL
-449	"Shadwell Station, Shadwell"	51.511088	-0.057159	132.SS	E6.17	NULL
-453	"Garnet Street, Shadwell"	51.508447	-0.055167	133.GS	E6.18	NULL
-458	"Wapping Lane, Wapping"	51.504749	-0.057544	134.WL	E6.19	NULL
-488	"Reardon Street, Wapping"	51.506946	-0.058681	135.RS	E6.20	NULL
-451	"Hermitage Court, Wapping"	51.504719	-0.063531	136.HC	E6.21	NULL
-134	"Wapping High Street, Wapping"	51.504904	-0.06797	137.WHS	E7.01	NULL
-452	"St. Katharine's Way, Tower"	51.505697	-0.070542	138.SKW	E7.02	NULL
-46	"Nesham Street, Wapping"	51.507131	-0.06691	139.NS	E7.03	NULL
-490	"Pennington Street, Wapping"	51.508622	-0.065006	140.PS	E7.04	NULL
-237	"Dock Street, Wapping"	51.50978602	-0.068161981	141.DS	E7.05	NULL
-202	"Leman Street, Aldgate"	51.51236389	-0.06954201	142.LS	E7.06	NULL
-489	"Christian Street, Whitechapel"	51.513074	-0.064094	143.CS	E7.07	NULL
-33	"Central House, Aldgate"	51.515231	-0.07015	144.CH	E7.08	NULL
-115	"Braham Street, Aldgate"	51.51423368	-0.073537654	145.BS	E7.09	NULL
-102	"Jewry Street, Aldgate"	51.51340693	-0.076793375	146.JS	E7.10	NULL
-263	"St. Mary Axe, Aldgate"	51.51422502	-0.080660083	147.SMA	E7.11	NULL
-779	"Houndsditch, Aldgate"	51.514449	-0.077178979	148.H	E7.12	NULL
-104	"Crosswall, Tower"	51.51159481	-0.077121322	149.C	E7.13	NULL
-130	"Tower Gardens , Tower"	51.50950627	-0.075459482	150.TG	E7.14	NULL
-199	"Great Tower Street, Monument"	51.51048489	-0.082989638	151.GTS	E7.15	NULL
-587	"Monument Street, Monument"	51.50964	-0.08497	152.MS	E7.16	NULL
-276	"Lower Thames Street, Monument"	51.50930161	-0.084985356	153.LTS	E7.17	NULL
-579	"Queen Street 2, Bank"	51.511246	-0.093051	154.QS2	E7.18	NULL
-101	"Queen Street 1, Bank"	51.51155322	-0.0929401	155.QS1	E7.19	NULL
-136	"Queen Victoria Street, St. Paul's"	51.51196176	-0.097441687	156.QVS	E7.20	NULL
-48	"Godliman Street, St. Paul's"	51.51248445	-0.099141408	157.GS	E7.21	NULL
-659	"Blackfriars Station, St. Paul's"	51.511934	-0.10307894	158.BS	E7.22	NULL
-27	"Bouverie Street, Temple"	51.51382102	-0.107927706	159.BS	E7.23	NULL
-82	"Chancery Lane, Holborn"	51.514274	-0.111257	160.CL	E7.24	NULL
-100335	"Tavistock Street, Covent Garden"	51.51196803	-0.120718759	161.TS	E7.25	NULL
-700338	"Wellington Street , Strand"	51.51175646	-0.119643424	162.WS	E7.26	NULL
+401	"Columbia Road, Shoreditch"	51.528187	-0.075375	53.CR	E2.17	NULL
+533	"Wellington Row, Bethnal Green"	51.528222	-0.069743	54.WR	E2.18	NULL
+534	"Goldsmith's Row, Haggerston"	51.531864	-0.066035	55.GR	E2.19	NULL
+512	"Pritchard's Road, Bethnal Green"	51.532091	-0.06142	56.PR	E2.20	NULL
+502	"Bonner Gate, Victoria Park"	51.53341	-0.049591815	57.BG	E2.21	NULL
+485	"Old Ford Road, Bethnal Green"	51.531127	-0.048017	58.OFR	E2.22	NULL
+577	"Globe Town Market, Bethnal Green"	51.528869	-0.047548	59.GTM	E3.01	NULL
+531	"Twig Folly Bridge, Mile End"	51.530326	-0.042744	60.TFB	E3.02	NULL
+521	"Driffield Road, Old Ford"	51.534137	-0.037366	61.DR	E3.03	NULL
+459	"Gunmakers Lane, Old Ford"	51.535179	-0.03338	62.GL	E3.04	NULL
+721	"Wendon Street, Old Ford"	51.53603947	-0.026262677	63.WS	E3.05	NULL
+471	"Hewison Street, Old Ford"	51.533283	-0.028155	64.HS	E3.06	NULL
+517	"Ford Road, Old Ford"	51.532513	-0.033085	65.FR	E3.07	NULL
+472	"Malmesbury Road, Bow"	51.529452	-0.027616	66.MR	E3.08	NULL
+470	"Mostyn Grove, Bow"	51.530535	-0.025492	67.MG	E3.09	NULL
+496	"Devons Road, Bow"	51.52512	-0.015578	68.DR	E3.10	NULL
+484	"Bromley High Street, Bow"	51.528828	-0.013258	69.BHS	E3.11	NULL
+495	"Bow Church Station, Bow"	51.528169	-0.018703	70.BCS	E3.12	NULL
+498	"Bow Road Station, Bow"	51.527058	-0.025296	71.BRS	E3.13	NULL
+497	"Merchant Street, Bow"	51.526578	-0.027581	72.MS	E3.14	NULL
+492	"Maplin Street, Mile End"	51.525501	-0.032267204	73.MS	E3.15	NULL
+467	"Southern Grove, Bow"	51.523538	-0.030556	74.SG	E3.16	NULL
+505	"Ackroyd Drive, Bow"	51.520398	-0.026768	75.AD	E3.17	NULL
+499	"Furze Green, Bow"	51.519265	-0.021345	76.FG	E3.18	NULL
+468	"Cantrell Road, Bow"	51.521564	-0.022694	77.CR	E3.19	NULL
+519	"Teviot Street, Poplar"	51.518811	-0.011662	78.TS	E3.20	NULL
+523	"Langdon Park, Poplar"	51.51549	-0.013475	79.LP	E4.01	NULL
+554	"Aberfeldy Street, Poplar"	51.513548	-0.005659	80.AS	E4.02	NULL
+547	"East India DLR, Blackwall"	51.509474	-0.002275	81.EID	E4.03	NULL
+538	"Naval Row, Blackwall"	51.508981	-0.00699	82.NR	E4.04	NULL
+526	"Lancaster Drive, Blackwall"	51.503143	-0.008428	83.LD	E4.05	NULL
+563	"Preston's Road, Cubitt Town"	51.499286	-0.009152	84.PR	E4.06	NULL
+504	"St. John's Park, Cubitt Town"	51.496454	-0.009506	85.SJP	E4.07	NULL
+447	"Jubilee Crescent, Cubitt Town"	51.493381	-0.007542	86.JC	E4.08	NULL
+476	"Stebondale Street, Cubitt Town"	51.489096	-0.009205	87.SS	E4.09	NULL
+481	"Saunders Ness Road, Cubitt Town"	51.487129	-0.0090011	88.SNR	E4.10	NULL
+454	"Napier Avenue, Millwall"	51.487679	-0.021582	89.NA	E4.11	NULL
+477	"Spindrift Avenue, Millwall"	51.49109	-0.018716	90.SA	E4.12	NULL
+586	"Mudchute DLR, Cubitt Town"	51.490645	-0.014582	91.MD	E4.13	NULL
+455	"East Ferry Road, Cubitt Town"	51.49447	-0.014409	92.EFR	E4.14	NULL
+473	"Millharbour, Millwall"	51.496137	-0.019355	93.M	E4.15	NULL
+576	"Alpha Grove, Millwall"	51.497304	-0.022793	94.AG	E4.16	NULL
+475	"Lightermans Road, Millwall"	51.499041	-0.020157	95.LR	E4.17	NULL
+556	"Heron Quays DLR, Canary Wharf"	51.502661	-0.021596	96.HQD	E4.18	NULL
+532	"Jubilee Plaza, Canary Wharf"	51.5034	-0.0202423	97.JP	E5.01	NULL
+570	"Upper Bank Street, Canary Wharf"	51.503083	-0.017676	98.UBS	E5.02	NULL
+494	"South Quay East, Canary Wharf"	51.50196	-0.016251	99.SQE	E5.03	NULL
+551	"Import Dock, Canary Wharf"	51.505772	-0.016460175	100.ID	E5.04	NULL
+448	"Fisherman's Walk West, Canary Wharf"	51.50623	-0.02296	101.FWW	E5.05	NULL
+811	"Westferry Circus, Canary Wharf"	51.50570304	-0.027772743	102.WC	E5.06	NULL
+510	"Westferry DLR, Limehouse"	51.509303	-0.025996	103.WD	E5.07	NULL
+530	"Newby Place, Poplar"	51.508896	-0.012413	104.NP	E5.08	NULL
+516	"Chrisp Street Market, Poplar"	51.5112	-0.014438	105.CSM	E5.09	NULL
+469	"Lindfield Street, Poplar"	51.513757	-0.020467	106.LS	E5.10	NULL
+716	"Stainsby Road , Poplar"	51.51542791	-0.02356501	107.SR	E5.11	NULL
+487	"Canton Street, Poplar"	51.511811	-0.025626	108.CS	E5.12	NULL
+460	"Burdett Road, Mile End"	51.516196	-0.029138	109.BR	E5.13	NULL
+542	"Salmon Lane, Limehouse"	51.514115	-0.033828	110.SL	E5.14	NULL
+480	"Flamborough Street, Limehouse"	51.5128711	-0.0389866	111.FS	E5.15	NULL
+461	"Aston Street, Stepney"	51.516	-0.038775	112.AS	E5.16	NULL
+712	"Mile End Stadium, Mile End"	51.51854104	-0.034903714	113.MES	E5.17	NULL
+763	"Mile End Park Leisure Centre, Mile End"	51.52059714	-0.032566533	114.MEPLC	E5.18	NULL
+522	"Clinton Road, Mile End"	51.525941	-0.036017	115.CR	E5.19	NULL
+518	"Antill Road, Mile End"	51.528224	-0.037471	116.AR	E5.20	NULL
+520	"Bancroft Road, Bethnal Green"	51.526041	-0.047218	117.BR	E6.01	NULL
+478	"Stepney Green Station, Stepney"	51.521889	-0.04667	118.SGS	E6.02	NULL
+561	"Rectory Square, Stepney"	51.518369	-0.043371	119.RS	E6.03	NULL
+550	"Harford Street, Mile End"	51.521564	-0.039264	120.HS	E6.04	NULL
+491	"Queen Mary's, Mile End"	51.522507	-0.041378	121.QM	E6.05	NULL
+500	"Ansell House, Stepney"	51.520019	-0.05438	122.AH	E6.06	NULL
+282	"Royal London Hospital, Whitechapel"	51.518675	-0.06111	123.RLH	E6.07	NULL
+206	"New Road 1 , Whitechapel"	51.518154	-0.062697	124.NR1	E6.08	NULL
+443	"Philpot Street, Whitechapel"	51.515256	-0.058641	125.PS	E6.09	NULL
+450	"Jubilee Street, Stepney"	51.515975	-0.053177	126.JS	E6.10	NULL
+464	"St. Mary & St. Michael Church, Stepney"	51.51417	-0.052099	127.SMSMC	E6.11	NULL
+715	"Aylward Street, Stepney"	51.51563007	-0.049067243	128.AS	E6.12	NULL
+483	"Albert Gardens, Stepney"	51.51328	-0.047784	129.AG	E6.13	NULL
+513	"Watney Market, Stepney"	51.5142228	-0.055656	130.WM	E6.14	NULL
+511	"Sutton Street, Shadwell"	51.511066	-0.053558	131.SS	E6.15	NULL
+552	"Watney Street, Shadwell"	51.511542	-0.056667	132.WS	E6.16	NULL
+449	"Shadwell Station, Shadwell"	51.511088	-0.057159	133.SS	E6.17	NULL
+453	"Garnet Street, Shadwell"	51.508447	-0.055167	134.GS	E6.18	NULL
+458	"Wapping Lane, Wapping"	51.504749	-0.057544	135.WL	E6.19	NULL
+488	"Reardon Street, Wapping"	51.506946	-0.058681	136.RS	E6.20	NULL
+451	"Hermitage Court, Wapping"	51.504719	-0.063531	137.HC	E6.21	NULL
+134	"Wapping High Street, Wapping"	51.504904	-0.06797	138.WHS	E7.01	NULL
+452	"St. Katharine's Way, Tower"	51.505697	-0.070542	139.SKW	E7.02	NULL
+46	"Nesham Street, Wapping"	51.507131	-0.06691	140.NS	E7.03	NULL
+490	"Pennington Street, Wapping"	51.508622	-0.065006	141.PS	E7.04	NULL
+237	"Dock Street, Wapping"	51.50978602	-0.068161981	142.DS	E7.05	NULL
+202	"Leman Street, Aldgate"	51.51236389	-0.06954201	143.LS	E7.06	NULL
+489	"Christian Street, Whitechapel"	51.513074	-0.064094	144.CS	E7.07	NULL
+33	"Central House, Aldgate"	51.515231	-0.07015	145.CH	E7.08	NULL
+115	"Braham Street, Aldgate"	51.51423368	-0.073537654	146.BS	E7.09	NULL
+102	"Jewry Street, Aldgate"	51.51340693	-0.076793375	147.JS	E7.10	NULL
+263	"St. Mary Axe, Aldgate"	51.51422502	-0.080660083	148.SMA	E7.11	NULL
+779	"Houndsditch, Aldgate"	51.514449	-0.077178979	149.H	E7.12	NULL
+104	"Crosswall, Tower"	51.51159481	-0.077121322	150.C	E7.13	NULL
+130	"Tower Gardens , Tower"	51.50950627	-0.075459482	151.TG	E7.14	NULL
+199	"Great Tower Street, Monument"	51.51048489	-0.082989638	152.GTS	E7.15	NULL
+587	"Monument Street, Monument"	51.50964	-0.08497	153.MS	E7.16	NULL
+276	"Lower Thames Street, Monument"	51.50930161	-0.084985356	154.LTS	E7.17	NULL
+579	"Queen Street 2, Bank"	51.511246	-0.093051	155.QS2	E7.18	NULL
+101	"Queen Street 1, Bank"	51.51155322	-0.0929401	156.QS1	E7.19	NULL
+136	"Queen Victoria Street, St. Paul's"	51.51196176	-0.097441687	157.QVS	E7.20	NULL
+48	"Godliman Street, St. Paul's"	51.51248445	-0.099141408	158.GS	E7.21	NULL
+659	"Blackfriars Station, St. Paul's"	51.511934	-0.10307894	159.BS	E7.22	NULL
+82	"Chancery Lane, Holborn"	51.514274	-0.111257	160.CL	E7.23	NULL
+700338	"Wellington Street , Strand"	51.51175646	-0.119643424	161.WS	E7.24	NULL
 100338	"Wellington Street , Strand"	51.51175646	-0.119643424	1.WS	N1.01	NULL
 283	"Kingsway, Covent Garden"	51.51440928	-0.118478757	2.K	N1.02	NULL
 24	"British Museum, Bloomsbury"	51.51908011	-0.124678402	3.BM	N1.03	NULL
@@ -268,61 +267,60 @@ src	desc	lat	lon	name	cmt	NULL
 588	"Hoxton Street, Hoxton"	51.52959	-0.0801	105.HS	N6.02	NULL
 96	"Falkirk Street, Hoxton"	51.53095071	-0.078505384	106.FS	N6.03	NULL
 539	"Hoxton Station, Hoxton"	51.531091	-0.075901	107.HS	N6.04	NULL
-401	"Columbia Road, Shoreditch"	51.528187	-0.075375	108.CR	N6.05	NULL
-39	"Shoreditch High Street, Shoreditch"	51.5263778	-0.078130921	109.SHS	N6.06	NULL
-58	"New Inn Yard, Shoreditch"	51.52452699	-0.079248081	110.NIY	N6.07	NULL
-40	"Commercial Street, Shoreditch"	51.52127071	-0.0755789	111.CS	N6.08	NULL
-251	"Brushfield Street, Liverpool Street"	51.518908	-0.079249	112.BS	N6.09	NULL
-122	"Norton Folgate, Liverpool Street"	51.52111369	-0.078869751	113.NF	N6.10	NULL
-175	"Worship Street, Shoreditch"	51.521668	-0.079608554	114.WS	N6.11	NULL
-323	"Clifton Street, Shoreditch"	51.523196	-0.083067	115.CS	N6.12	NULL
-32	"Leonard Circus , Shoreditch"	51.52469624	-0.084439283	116.LC	N6.13	NULL
-52	"Roscoe Street, St. Luke's"	51.52295439	-0.094934859	117.RS	N6.14	NULL
-54	"Golden Lane, Barbican"	51.52174785	-0.094475072	118.GL	N6.15	NULL
-95	"Aldersgate Street, Barbican"	51.5208417	-0.097340162	119.AS	N6.16	NULL
-246	"Berry Street, Clerkenwell"	51.52285301	-0.099994052	120.BS	N6.17	NULL
-78	"Sadlers Sports Centre, Finsbury"	51.52486887	-0.099489485	121.SSC	N6.18	NULL
-107	"Finsbury Leisure Centre, St. Luke's"	51.52600832	-0.096317627	122.FLC	N6.19	NULL
-351	"Macclesfield Rd, St Lukes"	51.529423	-0.097122	123.MR	N6.20	NULL
-365	"City Road, Angel"	51.530344	-0.100168	124.CR	N6.21	NULL
-344	"Goswell Road (City Uni), Finsbury"	51.528246	-0.10102611	125.GRCU	N6.22	NULL
-123	"St. John Street, Finsbury"	51.52836014	-0.104724625	126.SJS	N6.23	NULL
-51	"Finsbury Library , Finsbury"	51.52671796	-0.104298194	127.FL	N6.24	NULL
-544	"Percival Street, Finsbury"	51.526153	-0.102208	128.PS	N6.25	NULL
-135	"Clerkenwell Green, Clerkenwell"	51.52326004	-0.104708922	129.CG	N6.26	NULL
-72	"Farringdon Lane, Clerkenwell"	51.52352001	-0.108340165	130.FL	N6.27	NULL
-17	"Hatton Wall, Holborn"	51.5216612	-0.109006325	131.HW	N6.28	NULL
-22	"Northington Street , Holborn"	51.5222641	-0.114079481	132.NS	N6.29	NULL
-433	"Wren Street, Holborn"	51.524564	-0.116279	133.WS	N6.30	NULL
-204	"Margery Street, Clerkenwell"	51.52659961	-0.112432615	134.MS	N7.01	NULL
-264	"Tysoe Street, Clerkenwell"	51.52644342	-0.109256828	135.TS	N7.02	NULL
-170	"Hardwick Street, Clerkenwell"	51.5278427	-0.1080682	136.HS	N7.03	NULL
-1	"River Street , Clerkenwell"	51.52916347	-0.109970527	137.RS	N7.04	NULL
-254	"Chadwell Street, Angel"	51.53051587	-0.106408455	138.CS	N7.05	NULL
-75	"Torrens Street, Angel"	51.53219984	-0.105480698	139.TS	N7.06	NULL
-189	"Claremont Square, Angel"	51.53166681	-0.109914711	140.CS	N7.07	NULL
-70	"Calshot Street , King's Cross"	51.53136059	-0.117069978	141.CS	N7.08	NULL
-593	"Northdown Street, King's Cross"	51.531066	-0.11934	142.NS	N7.09	NULL
-227	"Great Percy Street, Clerkenwell"	51.52891573	-0.115480888	143.GPS	N7.10	NULL
-26	"Ampton Street , Clerkenwell"	51.52728093	-0.11829517	144.AS	N7.11	NULL
-793	"Cromer Street, Bloomsbury"	51.528279	-0.11955857	145.CS	N7.12	NULL
-4	"St. Chad's Street, King's Cross"	51.53005939	-0.120973687	146.SCS	N7.13	NULL
-798	"Birkenhead Street, King's Cross"	51.53019988	-0.122299441	147.BS	N7.14	NULL
-14	"Belgrove Street , King's Cross"	51.52994371	-0.123616824	148.BS	N7.15	NULL
-797	"Ossulston Street, Somers Town"	51.5293	-0.12827903	149.OS	N7.16	NULL
-16	"Cartwright Gardens , Bloomsbury"	51.52635795	-0.125979294	150.CG	N7.17	NULL
-89	"Tavistock Place, Bloomsbury"	51.5262503	-0.123509611	151.TP	N7.18	NULL
-796	"Coram Street, Bloomsbury"	51.524	-0.12640984	152.CS	N7.19	NULL
-77	"Russell Square Station, Bloomsbury"	51.52341837	-0.124121774	153.RSS	N7.20	NULL
-11	"Brunswick Square, Bloomsbury"	51.52395143	-0.122502346	154.BS	N7.21	NULL
-57	"Guilford Street , Bloomsbury"	51.52334672	-0.120202614	155.GS	N7.22	NULL
-68	"Theobald's Road , Holborn"	51.52059681	-0.116688468	156.TR	N7.23	NULL
-23	"Red Lion Square, Holborn"	51.51943538	-0.119123345	157.RLS	N7.24	NULL
-436	"Red Lion Street, Holborn"	51.51824	-0.11655	158.RLS	N7.25	NULL
-809	"Lincoln's Inn Fields, Holborn"	51.51627788	-0.118272992	159.LIF	N7.26	NULL
-372	"Sardinia Street, Holborn"	51.515208	-0.117863	160.SS	N7.27	NULL
-594	"Kingsway Southbound, Strand"	51.513875	-0.117774	161.KS	N7.28	NULL
-600338	"Wellington Street , Strand"	51.51175646	-0.119643424	162.WS	N7.29	NULL
+39	"Shoreditch High Street, Shoreditch"	51.5263778	-0.078130921	108.SHS	N6.05	NULL
+58	"New Inn Yard, Shoreditch"	51.52452699	-0.079248081	109.NIY	N6.06	NULL
+40	"Commercial Street, Shoreditch"	51.52127071	-0.0755789	110.CS	N6.07	NULL
+251	"Brushfield Street, Liverpool Street"	51.518908	-0.079249	111.BS	N6.08	NULL
+122	"Norton Folgate, Liverpool Street"	51.52111369	-0.078869751	112.NF	N6.09	NULL
+175	"Worship Street, Shoreditch"	51.521668	-0.079608554	113.WS	N6.10	NULL
+323	"Clifton Street, Shoreditch"	51.523196	-0.083067	114.CS	N6.11	NULL
+32	"Leonard Circus , Shoreditch"	51.52469624	-0.084439283	115.LC	N6.12	NULL
+52	"Roscoe Street, St. Luke's"	51.52295439	-0.094934859	116.RS	N6.13	NULL
+54	"Golden Lane, Barbican"	51.52174785	-0.094475072	117.GL	N6.14	NULL
+95	"Aldersgate Street, Barbican"	51.5208417	-0.097340162	118.AS	N6.15	NULL
+246	"Berry Street, Clerkenwell"	51.52285301	-0.099994052	119.BS	N6.16	NULL
+78	"Sadlers Sports Centre, Finsbury"	51.52486887	-0.099489485	120.SSC	N6.17	NULL
+107	"Finsbury Leisure Centre, St. Luke's"	51.52600832	-0.096317627	121.FLC	N6.18	NULL
+351	"Macclesfield Rd, St Lukes"	51.529423	-0.097122	122.MR	N6.19	NULL
+365	"City Road, Angel"	51.530344	-0.100168	123.CR	N6.20	NULL
+344	"Goswell Road (City Uni), Finsbury"	51.528246	-0.10102611	124.GRCU	N6.21	NULL
+123	"St. John Street, Finsbury"	51.52836014	-0.104724625	125.SJS	N6.22	NULL
+51	"Finsbury Library , Finsbury"	51.52671796	-0.104298194	126.FL	N6.23	NULL
+544	"Percival Street, Finsbury"	51.526153	-0.102208	127.PS	N6.24	NULL
+135	"Clerkenwell Green, Clerkenwell"	51.52326004	-0.104708922	128.CG	N6.25	NULL
+72	"Farringdon Lane, Clerkenwell"	51.52352001	-0.108340165	129.FL	N6.26	NULL
+17	"Hatton Wall, Holborn"	51.5216612	-0.109006325	130.HW	N6.27	NULL
+22	"Northington Street , Holborn"	51.5222641	-0.114079481	131.NS	N6.28	NULL
+433	"Wren Street, Holborn"	51.524564	-0.116279	132.WS	N6.29	NULL
+204	"Margery Street, Clerkenwell"	51.52659961	-0.112432615	133.MS	N7.01	NULL
+264	"Tysoe Street, Clerkenwell"	51.52644342	-0.109256828	134.TS	N7.02	NULL
+170	"Hardwick Street, Clerkenwell"	51.5278427	-0.1080682	135.HS	N7.03	NULL
+1	"River Street , Clerkenwell"	51.52916347	-0.109970527	136.RS	N7.04	NULL
+254	"Chadwell Street, Angel"	51.53051587	-0.106408455	137.CS	N7.05	NULL
+75	"Torrens Street, Angel"	51.53219984	-0.105480698	138.TS	N7.06	NULL
+189	"Claremont Square, Angel"	51.53166681	-0.109914711	139.CS	N7.07	NULL
+70	"Calshot Street , King's Cross"	51.53136059	-0.117069978	140.CS	N7.08	NULL
+593	"Northdown Street, King's Cross"	51.531066	-0.11934	141.NS	N7.09	NULL
+227	"Great Percy Street, Clerkenwell"	51.52891573	-0.115480888	142.GPS	N7.10	NULL
+26	"Ampton Street , Clerkenwell"	51.52728093	-0.11829517	143.AS	N7.11	NULL
+793	"Cromer Street, Bloomsbury"	51.528279	-0.11955857	144.CS	N7.12	NULL
+4	"St. Chad's Street, King's Cross"	51.53005939	-0.120973687	145.SCS	N7.13	NULL
+798	"Birkenhead Street, King's Cross"	51.53019988	-0.122299441	146.BS	N7.14	NULL
+14	"Belgrove Street , King's Cross"	51.52994371	-0.123616824	147.BS	N7.15	NULL
+797	"Ossulston Street, Somers Town"	51.5293	-0.12827903	148.OS	N7.16	NULL
+16	"Cartwright Gardens , Bloomsbury"	51.52635795	-0.125979294	149.CG	N7.17	NULL
+89	"Tavistock Place, Bloomsbury"	51.5262503	-0.123509611	150.TP	N7.18	NULL
+796	"Coram Street, Bloomsbury"	51.524	-0.12640984	151.CS	N7.19	NULL
+77	"Russell Square Station, Bloomsbury"	51.52341837	-0.124121774	152.RSS	N7.20	NULL
+11	"Brunswick Square, Bloomsbury"	51.52395143	-0.122502346	153.BS	N7.21	NULL
+57	"Guilford Street , Bloomsbury"	51.52334672	-0.120202614	154.GS	N7.22	NULL
+68	"Theobald's Road , Holborn"	51.52059681	-0.116688468	155.TR	N7.23	NULL
+23	"Red Lion Square, Holborn"	51.51943538	-0.119123345	156.RLS	N7.24	NULL
+436	"Red Lion Street, Holborn"	51.51824	-0.11655	157.RLS	N7.25	NULL
+809	"Lincoln's Inn Fields, Holborn"	51.51627788	-0.118272992	158.LIF	N7.26	NULL
+372	"Sardinia Street, Holborn"	51.515208	-0.117863	159.SS	N7.27	NULL
+594	"Kingsway Southbound, Strand"	51.513875	-0.117774	160.KS	N7.28	NULL
+600338	"Wellington Street , Strand"	51.51175646	-0.119643424	161.WS	N7.29	NULL
 300338	"Wellington Street , Strand"	51.51175646	-0.119643424	1.WS	P1.01	NULL
 341	"Craven Street, Strand"	51.50810309	-0.12602103	2.CS	P1.02	NULL
 762	"Storey's Gate, Westminster"	51.50070305	-0.129698963	3.SG	P1.03	NULL
@@ -378,14 +376,14 @@ src	desc	lat	lon	name	cmt	NULL
 744	"Ingrave Street, Clapham Junction"	51.46745485	-0.172293499	53.IS	P3.06	NULL
 638	"Falcon Road, Clapham Junction"	51.46663393	-0.169821175	54.FR	P3.07	NULL
 735	"Grant Road East, Clapham Junction"	51.46489445	-0.17302926	55.GRE	P3.08	NULL
-734	"Plough Terrace, Clapham Junction"	51.46230566	-0.175407201	56.PT	P3.09	NULL
-637	"Spencer Park, Wandsworth Common"	51.45787019	-0.174691623	57.SP	P3.10	NULL
-689	"Spanish Road, Clapham Junction"	51.45922541	-0.180884959	58.SR	P3.11	NULL
-623	"Nantes Close, Wandsworth"	51.46193072	-0.180791784	59.NC	P3.12	NULL
-673	"Hibbert Street, Battersea"	51.46517078	-0.18038939	60.HS	P3.13	NULL
-675	"Usk Road, Clapham Junction"	51.46348914	-0.182126248	61.UR	P3.14	NULL
-621	"Wandsworth Town Station, Wandsworth"	51.46086446	-0.187427294	62.WTS	P3.15	NULL
-724	"Alma Road, Wandsworth"	51.45799126	-0.184806157	63.AR	P3.16	NULL
+673	"Hibbert Street, Battersea"	51.46517078	-0.18038939	56.HS	P3.09	NULL
+675	"Usk Road, Clapham Junction"	51.46348914	-0.182126248	57.UR	P3.10	NULL
+623	"Nantes Close, Wandsworth"	51.46193072	-0.180791784	58.NC	P3.11	NULL
+734	"Plough Terrace, Clapham Junction"	51.46230566	-0.175407201	59.PT	P3.12	NULL
+637	"Spencer Park, Wandsworth Common"	51.45787019	-0.174691623	60.SP	P3.13	NULL
+689	"Spanish Road, Clapham Junction"	51.45922541	-0.180884959	61.SR	P3.14	NULL
+724	"Alma Road, Wandsworth"	51.45799126	-0.184806157	62.AR	P3.15	NULL
+621	"Wandsworth Town Station, Wandsworth"	51.46086446	-0.187427294	63.WTS	P3.16	NULL
 629	"Morie Street, Wandsworth"	51.45995384	-0.190184054	64.MS	P3.17	NULL
 766	"Ram Street, Wandsworth"	51.45752945	-0.192165613	65.RS	P3.18	NULL
 684	"Neville Gill Close, Wandsworth"	51.45475251	-0.195197203	66.NGC	P3.19	NULL
@@ -442,14 +440,14 @@ src	desc	lat	lon	name	cmt	NULL
 738	"Imperial Road, Sands End"	51.47514228	-0.187278987	117.IR	P6.08	NULL
 780	"Imperial Wharf Station, Sands End"	51.474665	-0.18316517	118.IWS	P6.09	NULL
 745	"Upcerne Road, West Chelsea"	51.47816972	-0.18243547	119.UR	P6.10	NULL
-746	"Lots Road, West Chelsea"	51.4795738	-0.17903854	120.LR	P6.11	NULL
-610	"Danvers Street, West Chelsea"	51.48256792	-0.172078187	121.DS	P6.12	NULL
-755	"The Vale, Chelsea"	51.48512191	-0.174971902	122.TV	P6.13	NULL
-589	"Drayton Gardens, West Chelsea"	51.487196	-0.179369	123.DG	P6.14	NULL
-573	"Limerston Street, West Chelsea"	51.485587	-0.18119	124.LS	P6.15	NULL
-649	"World's End Place, West Chelsea"	51.48180515	-0.18027465	125.WEP	P6.16	NULL
-651	"Thorndike Close, West Chelsea"	51.48089844	-0.183853573	126.TC	P6.17	NULL
-739	"Hortensia Road, West Brompton"	51.48176572	-0.185273723	127.HR	P6.18	NULL
+651	"Thorndike Close, West Chelsea"	51.48089844	-0.183853573	120.TC	P6.11	NULL
+739	"Hortensia Road, West Brompton"	51.48176572	-0.185273723	121.HR	P6.12	NULL
+649	"World's End Place, West Chelsea"	51.48180515	-0.18027465	122.WEP	P6.13	NULL
+746	"Lots Road, West Chelsea"	51.4795738	-0.17903854	123.LR	P6.14	NULL
+610	"Danvers Street, West Chelsea"	51.48256792	-0.172078187	124.DS	P6.15	NULL
+755	"The Vale, Chelsea"	51.48512191	-0.174971902	125.TV	P6.16	NULL
+589	"Drayton Gardens, West Chelsea"	51.487196	-0.179369	126.DG	P6.17	NULL
+573	"Limerston Street, West Chelsea"	51.485587	-0.18119	127.LS	P6.18	NULL
 757	"Harcourt Terrace, West Brompton"	51.48795853	-0.187404506	128.HT	P6.19	NULL
 171	"Collingham Gardens, Earl's Court"	51.4916156	-0.186753859	129.CG	P6.20	NULL
 219	"Bramham Gardens, Earl's Court"	51.49016361	-0.19039362	130.BG	P6.21	NULL
@@ -478,13 +476,12 @@ src	desc	lat	lon	name	cmt	NULL
 228	"St. James's Square, St. James's"	51.50742485	-0.134621209	153.SJS	P7.22	NULL
 83	"Panton Street, West End"	51.50963938	-0.131510949	154.PS	P7.23	NULL
 226	"Charles II Street, West End"	51.50844614	-0.131961389	155.CIS	P7.24	NULL
-160	"Waterloo Place, St. James's"	51.50663341	-0.131773845	156.WP	P7.25	NULL
-233	"Pall Mall East, West End"	51.50777049	-0.130699733	157.PME	P7.26	NULL
-325	"St. Martin's Street, West End"	51.50908747	-0.129697889	158.SMS	P7.27	NULL
-64	"William IV Street, Strand"	51.50946212	-0.124749274	159.WIS	P7.28	NULL
-388	"Southampton Street, Strand"	51.51070161	-0.121723604	160.SS	P7.29	NULL
-200335	"Tavistock Street, Covent Garden"	51.51196803	-0.120718759	161.TS	P7.30	NULL
-900338	"Wellington Street , Strand"	51.51175646	-0.119643424	162.WS	P7.31	NULL
+233	"Pall Mall East, West End"	51.50777049	-0.130699733	156.PME	P7.25	NULL
+325	"St. Martin's Street, West End"	51.50908747	-0.129697889	157.SMS	P7.26	NULL
+64	"William IV Street, Strand"	51.50946212	-0.124749274	158.WIS	P7.27	NULL
+388	"Southampton Street, Strand"	51.51070161	-0.121723604	159.SS	P7.28	NULL
+335	"Tavistock Street, Covent Garden"	51.51196803	-0.120718759	160.TS	P7.29	NULL
+900338	"Wellington Street , Strand"	51.51175646	-0.119643424	161.WS	P7.30	NULL
 400338	"Wellington Street , Strand"	51.51175646	-0.119643424	1.WS	S1.01	NULL
 377	"Waterloo Bridge, South Bank"	51.50535447	-0.113656543	2.WB	S1.02	NULL
 173	"Waterloo Road, South Bank"	51.50486	-0.113001	3.WR	S1.03	NULL
@@ -526,127 +523,126 @@ src	desc	lat	lon	name	cmt	NULL
 262	"LSBU (Borough Road), Elephant & Castle"	51.49874469	-0.103132904	39.LSBU	S2.07	NULL
 80	"Webber Street , Southwark"	51.50069361	-0.102091246	40.WS	S2.08	NULL
 645	"Great Suffolk Street, The Borough"	51.50173215	-0.100292412	41.GSS	S2.09	NULL
-196	"Union Street, The Borough"	51.50368837	-0.098497684	42.US	S2.10	NULL
-801	"Lavington Street, Bankside"	51.50522417	-0.098031812	43.LS	S2.11	NULL
-803	"Southwark Street, Bankside"	51.50540994	-0.098341088	44.SS	S2.12	NULL
-193	"Bankside Mix, Bankside"	51.50581776	-0.100186337	45.BM	S2.13	NULL
-792	"Blackfriars Road, Southwark"	51.505461	-0.10454093	46.BR	S2.14	NULL
-421	"Southwark Station 2, Southwark"	51.504044	-0.104778	47.SS2	S2.15	NULL
-420	"Southwark Station 1, Southwark"	51.504043	-0.105312	48.SS1	S2.16	NULL
-839	"Sea Containers, South Bank"	51.508033	-0.10682363	49.SC	S2.17	NULL
-195	"Milroy Walk, South Bank"	51.50724437	-0.106237501	50.MW	S2.18	NULL
-230	"Poured Lines, Bankside"	51.50669284	-0.103137426	51.PL	S2.19	NULL
-810	"Tate Modern, Bankside"	51.50672529	-0.098807246	52.TM	S2.20	NULL
-9	"New Globe Walk, Bankside"	51.5073853	-0.096440751	53.NGW	S2.21	NULL
-10	"Park Street, Bankside"	51.50597426	-0.092754157	54.PS	S2.22	NULL
-194	"Hop Exchange, The Borough"	51.50462759	-0.091773776	55.HE	S2.23	NULL
-732	"Duke Street Hill, London Bridge"	51.50630441	-0.087262995	56.DSH	S2.24	NULL
-706	"Snowsfields, London Bridge"	51.50215353	-0.083632928	57.S	S2.25	NULL
-314	"Tyers Gate, Bermondsey"	51.50088934	-0.083159352	58.TG	S2.26	NULL
-85	"Tanner Street, Bermondsey"	51.50064702	-0.078600401	59.TS	S2.27	NULL
-278	"Tooley Street, Bermondsey"	51.5034938	-0.07962099	60.TS	S2.28	NULL
-298	"Curlew Street, Shad Thames"	51.50227992	-0.074189225	61.CS	S2.29	NULL
-841	"Tower Wharf, Bermondsey"	51.500845	-0.074704305	62.TW	S2.30	NULL
-840	"George Row, Bermondsey"	51.498585	-0.068981764	63.GR	S2.31	NULL
-845	"Bermondsey Station, Bermondsey"	51.497995	-0.063471392	64.BS	S3.01	NULL
-411	"Rotherhithe Roundabout, Rotherhithe"	51.499169	-0.055846029	65.RR	S3.02	NULL
-844	"Canada Water Station, Rotherhithe"	51.498439	-0.049150215	66.CWS	S3.03	NULL
-687	"Clements Road, Bermondsey"	51.4954	-0.061698585	67.CR	S3.04	NULL
-847	"South Bermondsey Station, Bermondsey"	51.488067	-0.057774596	68.SBS	S3.05	NULL
-851	"The Blue, Bermondsey"	51.492221	-0.0625131	69.TB	S3.06	NULL
-666	"Harris Academy, Bermondsey"	51.492668	-0.072350665	70.HA	S3.07	NULL
-849	"Crimscott Street, Bermondsey"	51.495598	-0.078893	71.CS	S3.08	NULL
-321	"Bermondsey Street, Bermondsey"	51.49785559	-0.081608045	72.BS	S3.09	NULL
-308	"Long Lane , Bermondsey"	51.49907558	-0.085666316	73.LL	S3.10	NULL
-269	"Empire Square, The Borough"	51.50082346	-0.089740764	74.ES	S3.11	NULL
-295	"Swan Street, The Borough"	51.50029631	-0.092762704	75.SS	S3.12	NULL
-125	"Borough High Street, The Borough"	51.50069491	-0.094524319	76.BHS	S3.13	NULL
-249	"Harper Road, The Borough"	51.49859784	-0.096191134	77.HR	S3.14	NULL
-317	"Dickens Square, Borough"	51.49679128	-0.093913472	78.DS	S3.15	NULL
-156	"New Kent Road, The Borough"	51.49443626	-0.092921165	79.NKR	S3.16	NULL
-61	"Great Dover Street, The Borough"	51.49738251	-0.089446947	80.GDS	S3.17	NULL
-94	"Bricklayers Arms, Borough"	51.49506109	-0.085814489	81.BA	S3.18	NULL
-223	"Rodney Road , Walworth"	51.49148474	-0.090220911	82.RR	S3.19	NULL
-820	"Victory Place, Walworth"	51.492807	-0.091938	83.VP	S4.01	NULL
-725	"Walworth Square, Walworth"	51.491327	-0.096518684	84.WS	S4.02	NULL
-850	"Brandon Street, Walworth"	51.489102	-0.0915489	85.BS	S4.03	NULL
-846	"Burgess Park Albany Road, Walworth"	51.48224	-0.0942844	86.BPAR	S4.04	NULL
-580	"Doddington Grove, Kennington"	51.48692917	-0.102996299	87.DG	S4.05	NULL
-149	"Kennington Road Post Office, Oval"	51.48478899	-0.110683213	88.KRPO	S4.06	NULL
-440	"Kennington Oval, Oval"	51.483145	-0.113134	89.KO	S4.07	NULL
-654	"Ashmole Estate, Oval"	51.48267821	-0.117661574	90.AE	S4.08	NULL
-827	"Cranmer Road, Stockwell"	51.479601	-0.11147178	91.CR	S4.09	NULL
-603	"Caldwell Street, Stockwell"	51.477839	-0.116493	92.CS	S4.10	NULL
-802	"Albert Square, Stockwell"	51.47659006	-0.118256789	93.AS	S4.11	NULL
-828	"Normandy Road, Stockwell"	51.473874	-0.11258096	94.NR	S4.12	NULL
-830	"Sidney Road, Stockwell"	51.469202	-0.11902256	95.SR	S4.13	NULL
-829	"Wynne Road, Stockwell"	51.469217	-0.11268674	96.WR	S4.14	NULL
-831	"St John's Crescent, Brixton"	51.466232	-0.11317995	97.SJC	S4.15	NULL
-833	"Saltoun Road, Brixton"	51.460232	-0.11537509	98.SR	S4.16	NULL
-832	"Ferndale Road, Brixton"	51.464019	-0.11578197	99.FR	S4.17	NULL
-808	"Gauden Road, Clapham"	51.464995	-0.13090885	100.GR	S5.01	NULL
-355	"Clapham Common Station, Clapham Common"	51.461388	-0.13922146	101.CCS	S5.02	NULL
-794	"Victoria Rise, Clapham Common"	51.461376	-0.14780467	102.VR	S5.03	NULL
-768	"Clapham Common North Side, Clapham Common"	51.46134382	-0.159322467	103.CCNS	S5.04	NULL
-777	"Limburg Road, Clapham Junction"	51.46192307	-0.165297857	104.LR	S5.05	NULL
-764	"St. John's Road, Clapham Junction"	51.46239255	-0.16829214	105.SJR	S5.06	NULL
-683	"Dorothy Road, Clapham Junction"	51.46506424	-0.163750945	106.DR	S5.07	NULL
-609	"Sugden Road, Clapham"	51.46512358	-0.157788279	107.SR	S5.08	NULL
-670	"Ashley Crescent, Battersea"	51.46718562	-0.152248582	108.AC	S5.09	NULL
-677	"Heath Road, Battersea"	51.46866929	-0.146544642	109.HR	S5.10	NULL
-612	"Wandsworth Rd, Isley Court, Wandsworth Road"	51.46925984	-0.141812513	110.WR	S5.11	NULL
-714	"Stewart's Road, Wandsworth Road"	51.47311696	-0.137235175	111.SR	S5.12	NULL
-602	"Union Grove, Wandsworth Road"	51.472993	-0.133972	112.UG	S5.13	NULL
-624	"Courland Grove, Wandsworth Road"	51.4729184	-0.132102704	113.CG	S5.14	NULL
-630	"Clarence Walk, Stockwell"	51.47073264	-0.126994068	114.CW	S5.15	NULL
-814	"Clapham Road, Lingham Street, Stockwell"	51.47143307	-0.123670736	115.CR	S5.16	NULL
-772	"Binfield Road, Stockwell"	51.47250956	-0.122831913	116.BR	S5.17	NULL
-669	"Teversham Lane, Stockwell"	51.47614939	-0.1232585	117.TL	S5.18	NULL
-600	"South Lambeth Road, Vauxhall"	51.481747	-0.124642	118.SLR	S5.19	NULL
-676	"Hartington Road, Stockwell"	51.47787084	-0.126874471	119.HR	S6.01	NULL
-631	"Battersea Park Road, Nine Elms"	51.4795017	-0.141770709	120.BPR	S6.02	NULL
-834	"Gas Holders, Battersea Park"	51.477966	-0.14785703	121.GH	S6.03	NULL
-625	"Queen's Circus, Battersea Park"	51.47761941	-0.149551631	122.QC	S6.04	NULL
-800	"Sopwith Way, Battersea Park"	51.48112194	-0.149035375	123.SW	S6.05	NULL
-419	"Chelsea Bridge, Pimlico"	51.485821	-0.149004	124.CB	S6.06	NULL
-245	"Grosvenor Road, Pimlico"	51.4853572	-0.142207481	125.GR	S6.07	NULL
-291	"Claverton Street, Pimlico"	51.48483991	-0.138089062	126.CS	S6.08	NULL
-821	"Battersea Power Station, Battersea Park"	51.48350749	-0.147714557	127.BPS	S6.09	NULL
-817	"Riverlight South, Nine Elms"	51.48133547	-0.138212296	128.RS	S6.10	NULL
-183	"Riverlight North, Nine Elms"	51.482362	-0.13612398	129.RN	S6.11	NULL
-74	"Vauxhall Cross, Vauxhall"	51.48591714	-0.124469948	130.VC	S6.12	NULL
-270	"Kennington Lane Rail Bridge, Vauxhall"	51.4863434	-0.122492418	131.KLRB	S6.13	NULL
-813	"New Spring Gardens Walk, Vauxhall"	51.48780745	-0.122759626	132.NSGW	S6.14	NULL
-437	"Vauxhall Walk, Vauxhall"	51.488124	-0.120903	133.VW	S6.15	NULL
-100	"Albert Embankment, Vauxhall"	51.49043573	-0.122806861	134.AE	S6.16	NULL
-146	"Vauxhall Bridge , Pimlico"	51.48836528	-0.129361842	135.VB	S6.17	NULL
-190	"Rampayne Street, Pimlico"	51.48997562	-0.132845681	136.RS	S7.01	NULL
-294	"St. George's Square, Pimlico"	51.488226	-0.135635511	137.SGS	S7.02	NULL
-185	"Alderney Street, Pimlico"	51.48805753	-0.140741432	138.AS	S7.03	NULL
-178	"Warwick Square, Pimlico"	51.48985626	-0.141923621	139.WS	S7.04	NULL
-243	"Gloucester Street, Pimlico"	51.49096258	-0.139625122	140.GS	S7.05	NULL
+421	"Southwark Station 2, Southwark"	51.504044	-0.104778	42.SS2	S2.10	NULL
+420	"Southwark Station 1, Southwark"	51.504043	-0.105312	43.SS1	S2.11	NULL
+195	"Milroy Walk, South Bank"	51.50724437	-0.106237501	44.MW	S2.12	NULL
+839	"Sea Containers, South Bank"	51.508033	-0.10682363	45.SC	S2.13	NULL
+230	"Poured Lines, Bankside"	51.50669284	-0.103137426	46.PL	S2.14	NULL
+193	"Bankside Mix, Bankside"	51.50581776	-0.100186337	47.BM	S2.15	NULL
+803	"Southwark Street, Bankside"	51.50540994	-0.098341088	48.SS	S2.16	NULL
+801	"Lavington Street, Bankside"	51.50522417	-0.098031812	49.LS	S2.17	NULL
+196	"Union Street, The Borough"	51.50368837	-0.098497684	50.US	S2.18	NULL
+810	"Tate Modern, Bankside"	51.50672529	-0.098807246	51.TM	S2.19	NULL
+9	"New Globe Walk, Bankside"	51.5073853	-0.096440751	52.NGW	S2.20	NULL
+10	"Park Street, Bankside"	51.50597426	-0.092754157	53.PS	S2.21	NULL
+194	"Hop Exchange, The Borough"	51.50462759	-0.091773776	54.HE	S2.22	NULL
+732	"Duke Street Hill, London Bridge"	51.50630441	-0.087262995	55.DSH	S2.23	NULL
+706	"Snowsfields, London Bridge"	51.50215353	-0.083632928	56.S	S2.24	NULL
+314	"Tyers Gate, Bermondsey"	51.50088934	-0.083159352	57.TG	S2.25	NULL
+85	"Tanner Street, Bermondsey"	51.50064702	-0.078600401	58.TS	S2.26	NULL
+278	"Tooley Street, Bermondsey"	51.5034938	-0.07962099	59.TS	S2.27	NULL
+298	"Curlew Street, Shad Thames"	51.50227992	-0.074189225	60.CS	S2.28	NULL
+841	"Tower Wharf, Bermondsey"	51.500845	-0.074704305	61.TW	S2.29	NULL
+840	"George Row, Bermondsey"	51.498585	-0.068981764	62.GR	S2.30	NULL
+845	"Bermondsey Station, Bermondsey"	51.497995	-0.063471392	63.BS	S3.01	NULL
+411	"Rotherhithe Roundabout, Rotherhithe"	51.499169	-0.055846029	64.RR	S3.02	NULL
+844	"Canada Water Station, Rotherhithe"	51.498439	-0.049150215	65.CWS	S3.03	NULL
+687	"Clements Road, Bermondsey"	51.4954	-0.061698585	66.CR	S3.04	NULL
+847	"South Bermondsey Station, Bermondsey"	51.488067	-0.057774596	67.SBS	S3.05	NULL
+851	"The Blue, Bermondsey"	51.492221	-0.0625131	68.TB	S3.06	NULL
+666	"Harris Academy, Bermondsey"	51.492668	-0.072350665	69.HA	S3.07	NULL
+849	"Crimscott Street, Bermondsey"	51.495598	-0.078893	70.CS	S3.08	NULL
+321	"Bermondsey Street, Bermondsey"	51.49785559	-0.081608045	71.BS	S3.09	NULL
+308	"Long Lane , Bermondsey"	51.49907558	-0.085666316	72.LL	S3.10	NULL
+269	"Empire Square, The Borough"	51.50082346	-0.089740764	73.ES	S3.11	NULL
+295	"Swan Street, The Borough"	51.50029631	-0.092762704	74.SS	S3.12	NULL
+125	"Borough High Street, The Borough"	51.50069491	-0.094524319	75.BHS	S3.13	NULL
+249	"Harper Road, The Borough"	51.49859784	-0.096191134	76.HR	S3.14	NULL
+317	"Dickens Square, Borough"	51.49679128	-0.093913472	77.DS	S3.15	NULL
+156	"New Kent Road, The Borough"	51.49443626	-0.092921165	78.NKR	S3.16	NULL
+61	"Great Dover Street, The Borough"	51.49738251	-0.089446947	79.GDS	S3.17	NULL
+94	"Bricklayers Arms, Borough"	51.49506109	-0.085814489	80.BA	S3.18	NULL
+223	"Rodney Road , Walworth"	51.49148474	-0.090220911	81.RR	S3.19	NULL
+820	"Victory Place, Walworth"	51.492807	-0.091938	82.VP	S4.01	NULL
+725	"Walworth Square, Walworth"	51.491327	-0.096518684	83.WS	S4.02	NULL
+850	"Brandon Street, Walworth"	51.489102	-0.0915489	84.BS	S4.03	NULL
+846	"Burgess Park Albany Road, Walworth"	51.48224	-0.0942844	85.BPAR	S4.04	NULL
+580	"Doddington Grove, Kennington"	51.48692917	-0.102996299	86.DG	S4.05	NULL
+149	"Kennington Road Post Office, Oval"	51.48478899	-0.110683213	87.KRPO	S4.06	NULL
+440	"Kennington Oval, Oval"	51.483145	-0.113134	88.KO	S4.07	NULL
+654	"Ashmole Estate, Oval"	51.48267821	-0.117661574	89.AE	S4.08	NULL
+827	"Cranmer Road, Stockwell"	51.479601	-0.11147178	90.CR	S4.09	NULL
+603	"Caldwell Street, Stockwell"	51.477839	-0.116493	91.CS	S4.10	NULL
+802	"Albert Square, Stockwell"	51.47659006	-0.118256789	92.AS	S4.11	NULL
+828	"Normandy Road, Stockwell"	51.473874	-0.11258096	93.NR	S4.12	NULL
+830	"Sidney Road, Stockwell"	51.469202	-0.11902256	94.SR	S4.13	NULL
+829	"Wynne Road, Stockwell"	51.469217	-0.11268674	95.WR	S4.14	NULL
+831	"St John's Crescent, Brixton"	51.466232	-0.11317995	96.SJC	S4.15	NULL
+833	"Saltoun Road, Brixton"	51.460232	-0.11537509	97.SR	S4.16	NULL
+832	"Ferndale Road, Brixton"	51.464019	-0.11578197	98.FR	S4.17	NULL
+808	"Gauden Road, Clapham"	51.464995	-0.13090885	99.GR	S5.01	NULL
+355	"Clapham Common Station, Clapham Common"	51.461388	-0.13922146	100.CCS	S5.02	NULL
+794	"Victoria Rise, Clapham Common"	51.461376	-0.14780467	101.VR	S5.03	NULL
+768	"Clapham Common North Side, Clapham Common"	51.46134382	-0.159322467	102.CCNS	S5.04	NULL
+777	"Limburg Road, Clapham Junction"	51.46192307	-0.165297857	103.LR	S5.05	NULL
+764	"St. John's Road, Clapham Junction"	51.46239255	-0.16829214	104.SJR	S5.06	NULL
+683	"Dorothy Road, Clapham Junction"	51.46506424	-0.163750945	105.DR	S5.07	NULL
+609	"Sugden Road, Clapham"	51.46512358	-0.157788279	106.SR	S5.08	NULL
+670	"Ashley Crescent, Battersea"	51.46718562	-0.152248582	107.AC	S5.09	NULL
+677	"Heath Road, Battersea"	51.46866929	-0.146544642	108.HR	S5.10	NULL
+612	"Wandsworth Rd, Isley Court, Wandsworth Road"	51.46925984	-0.141812513	109.WR	S5.11	NULL
+714	"Stewart's Road, Wandsworth Road"	51.47311696	-0.137235175	110.SR	S5.12	NULL
+602	"Union Grove, Wandsworth Road"	51.472993	-0.133972	111.UG	S5.13	NULL
+624	"Courland Grove, Wandsworth Road"	51.4729184	-0.132102704	112.CG	S5.14	NULL
+630	"Clarence Walk, Stockwell"	51.47073264	-0.126994068	113.CW	S5.15	NULL
+814	"Clapham Road, Lingham Street, Stockwell"	51.47143307	-0.123670736	114.CR	S5.16	NULL
+772	"Binfield Road, Stockwell"	51.47250956	-0.122831913	115.BR	S5.17	NULL
+669	"Teversham Lane, Stockwell"	51.47614939	-0.1232585	116.TL	S5.18	NULL
+600	"South Lambeth Road, Vauxhall"	51.481747	-0.124642	117.SLR	S5.19	NULL
+676	"Hartington Road, Stockwell"	51.47787084	-0.126874471	118.HR	S6.01	NULL
+631	"Battersea Park Road, Nine Elms"	51.4795017	-0.141770709	119.BPR	S6.02	NULL
+834	"Gas Holders, Battersea Park"	51.477966	-0.14785703	120.GH	S6.03	NULL
+625	"Queen's Circus, Battersea Park"	51.47761941	-0.149551631	121.QC	S6.04	NULL
+800	"Sopwith Way, Battersea Park"	51.48112194	-0.149035375	122.SW	S6.05	NULL
+419	"Chelsea Bridge, Pimlico"	51.485821	-0.149004	123.CB	S6.06	NULL
+245	"Grosvenor Road, Pimlico"	51.4853572	-0.142207481	124.GR	S6.07	NULL
+291	"Claverton Street, Pimlico"	51.48483991	-0.138089062	125.CS	S6.08	NULL
+821	"Battersea Power Station, Battersea Park"	51.48350749	-0.147714557	126.BPS	S6.09	NULL
+817	"Riverlight South, Nine Elms"	51.48133547	-0.138212296	127.RS	S6.10	NULL
+183	"Riverlight North, Nine Elms"	51.482362	-0.13612398	128.RN	S6.11	NULL
+74	"Vauxhall Cross, Vauxhall"	51.48591714	-0.124469948	129.VC	S6.12	NULL
+270	"Kennington Lane Rail Bridge, Vauxhall"	51.4863434	-0.122492418	130.KLRB	S6.13	NULL
+813	"New Spring Gardens Walk, Vauxhall"	51.48780745	-0.122759626	131.NSGW	S6.14	NULL
+437	"Vauxhall Walk, Vauxhall"	51.488124	-0.120903	132.VW	S6.15	NULL
+100	"Albert Embankment, Vauxhall"	51.49043573	-0.122806861	133.AE	S6.16	NULL
+146	"Vauxhall Bridge , Pimlico"	51.48836528	-0.129361842	134.VB	S6.17	NULL
+190	"Rampayne Street, Pimlico"	51.48997562	-0.132845681	135.RS	S7.01	NULL
+294	"St. George's Square, Pimlico"	51.488226	-0.135635511	136.SGS	S7.02	NULL
+185	"Alderney Street, Pimlico"	51.48805753	-0.140741432	137.AS	S7.03	NULL
+178	"Warwick Square, Pimlico"	51.48985626	-0.141923621	138.WS	S7.04	NULL
+243	"Gloucester Street, Pimlico"	51.49096258	-0.139625122	139.GS	S7.05	NULL
 268	"Belgrave Road, Victoria"	51.49320445	-0.144132875	140.GS	S7.06	NULL
-161	"Guildhouse Street, Victoria"	51.49234577	-0.141334487	142.GS	S7.07	NULL
-148	"Tachbrook Street, Victoria"	51.49211134	-0.138364847	143.TS	S7.08	NULL
-299	"Vincent Square, Westminster"	51.49398524	-0.136928582	144.VS	S7.09	NULL
-267	"Regency Street, Westminster"	51.49206037	-0.132224622	145.RS	S7.10	NULL
-426	"Vincent Street, Pimlico"	51.493072	-0.129925	146.VS	S7.11	NULL
-376	"Millbank Tower, Pimlico"	51.49188409	-0.125674815	147.MT	S7.12	NULL
-558	"Page Street, Westminster"	51.493978	-0.127554	148.PS	S7.13	NULL
-221	"Horseferry Road, Westminster"	51.49481649	-0.13045856	149.HR	S7.14	NULL
-281	"Smith Square, Westminster"	51.49580589	-0.127575233	150.SS	S7.15	NULL
-583	"Abingdon Green, Westminster"	51.49764	-0.12597218	151.AG	S7.16	NULL
-818	"Westminster Pier, Westminster"	51.501513	-0.12382322	152.WP	S7.17	NULL
-229	"Whitehall Place, Strand"	51.50654321	-0.123179697	153.WP	S7.18	NULL
-354	"Northumberland Avenue, Strand"	51.506767	-0.123702	154.NA	S7.19	NULL
-309	"Embankment (Savoy), Strand"	51.50963123	-0.119047563	155.ES	S7.20	NULL
-564	"Somerset House, Strand"	51.509943	-0.117619	156.SH	S7.21	NULL
-842	"Temple Gardens, Temple"	51.510981	-0.10832249	157.TG	S7.22	NULL
-773	"Tallis Street, Temple"	51.511891	-0.107349	158.TS	S7.23	NULL
-79	"Arundel Street, Temple"	51.511726	-0.11385596	159.AS	S7.24	NULL
-174	"Strand, Strand"	51.512582	-0.1150573	160.S	S7.25	NULL
-300335	"Tavistock Street, Covent Garden"	51.51196803	-0.120718759	161.TS	S7.26	NULL
-800338	"Wellington Street , Strand"	51.51175646	-0.119643424	162.WS	S7.27	NULL
+161	"Guildhouse Street, Victoria"	51.49234577	-0.141334487	141.GS	S7.07	NULL
+148	"Tachbrook Street, Victoria"	51.49211134	-0.138364847	142.TS	S7.08	NULL
+299	"Vincent Square, Westminster"	51.49398524	-0.136928582	143.VS	S7.09	NULL
+267	"Regency Street, Westminster"	51.49206037	-0.132224622	144.RS	S7.10	NULL
+426	"Vincent Street, Pimlico"	51.493072	-0.129925	145.VS	S7.11	NULL
+376	"Millbank Tower, Pimlico"	51.49188409	-0.125674815	146.MT	S7.12	NULL
+558	"Page Street, Westminster"	51.493978	-0.127554	147.PS	S7.13	NULL
+221	"Horseferry Road, Westminster"	51.49481649	-0.13045856	148.HR	S7.14	NULL
+281	"Smith Square, Westminster"	51.49580589	-0.127575233	149.SS	S7.15	NULL
+583	"Abingdon Green, Westminster"	51.49764	-0.12597218	150.AG	S7.16	NULL
+818	"Westminster Pier, Westminster"	51.501513	-0.12382322	151.WP	S7.17	NULL
+229	"Whitehall Place, Strand"	51.50654321	-0.123179697	152.WP	S7.18	NULL
+354	"Northumberland Avenue, Strand"	51.506767	-0.123702	153.NA	S7.19	NULL
+309	"Embankment (Savoy), Strand"	51.50963123	-0.119047563	154.ES	S7.20	NULL
+564	"Somerset House, Strand"	51.509943	-0.117619	155.SH	S7.21	NULL
+79	"Arundel Street, Temple"	51.511726	-0.11385596	156.AS	S7.22	NULL
+842	"Temple Gardens, Temple"	51.510981	-0.10832249	157.TG	S7.23	NULL
+773	"Tallis Street, Temple"	51.511891	-0.107349	158.TS	S7.24	NULL
+27	"Bouverie Street, Temple"	51.51382102	-0.107927706	159.BS	S7.25	NULL
+174	"Strand, Strand"	51.512582	-0.1150573	160.S	S7.26	NULL
+800338	"Wellington Street , Strand"	51.51175646	-0.119643424	161.WS	S7.27	NULL
 200338	"Wellington Street , Strand"	51.51175646	-0.119643424	1.WS	W1.01	NULL
 244	"Earnshaw Street , Covent Garden"	51.51611887	-0.128585022	2.ES	W1.02	NULL
 109	"Soho Square , Soho"	51.51563144	-0.132328837	3.SS	W1.03	NULL
@@ -762,11 +758,11 @@ src	desc	lat	lon	name	cmt	NULL
 176	"Gloucester Terrace, Bayswater"	51.51791921	-0.188098863	113.GT	W5.20	NULL
 592	"Bishop's Bridge Road East, Bayswater"	51.5171	-0.18377	114.BBRE	W6.01	NULL
 164	"Cleveland Gardens, Bayswater"	51.515607	-0.183118788	115.CG	W6.02	NULL
-397	"Devonshire Terrace, Bayswater"	51.51348	-0.17977	116.DT	W6.03	NULL
-330	"Eastbourne Mews, Paddington"	51.51641749	-0.179135079	117.EM	W6.04	NULL
-165	"Orsett Terrace, Bayswater"	51.517932	-0.183716959	118.OT	W6.05	NULL
-568	"Bishop's Bridge Road West, Bayswater"	51.51616	-0.18697	119.BBRW	W6.06	NULL
-105	"Westbourne Grove, Bayswater"	51.51552971	-0.190240716	120.WG	W6.07	NULL
+330	"Eastbourne Mews, Paddington"	51.51641749	-0.179135079	116.EM	W6.03	NULL
+165	"Orsett Terrace, Bayswater"	51.517932	-0.183716959	117.OT	W6.04	NULL
+568	"Bishop's Bridge Road West, Bayswater"	51.51616	-0.18697	118.BBRW	W6.05	NULL
+105	"Westbourne Grove, Bayswater"	51.51552971	-0.190240716	119.WG	W6.06	NULL
+397	"Devonshire Terrace, Bayswater"	51.51348	-0.17977	120.DT	W6.07	NULL
 524	"Lancaster Gate , Bayswater"	51.511654	-0.179668	121.LG	W6.08	NULL
 153	"Bayswater Road, Hyde Park"	51.511933	-0.174411	122.BR	W6.09	NULL
 752	"London Street, Paddington"	51.515117	-0.17371276	123.LS	W6.10	NULL
@@ -807,5 +803,4 @@ src	desc	lat	lon	name	cmt	NULL
 162	"Southampton Place, Holborn"	51.51760685	-0.121328408	158.SP	W7.21	NULL
 751	"Newton Street, Covent Garden"	51.51612862	-0.120909408	159.NS	W7.22	NULL
 18	"Drury Lane, Covent Garden"	51.51477076	-0.12221963	160.DL	W7.23	NULL
-335	"Tavistock Street, Covent Garden"	51.51196803	-0.120718759	161.TS	W7.24	NULL
-500338	"Wellington Street , Strand"	51.51175646	-0.119643424	162.WS	W7.25	NULL
+500338	"Wellington Street , Strand"	51.51175646	-0.119643424	161.WS	W7.24	NULL
