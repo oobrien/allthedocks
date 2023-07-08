@@ -14,7 +14,7 @@ V2 published on 6 July 2023 pm, updated S route to include a new docking station
 
 V3 published late on 7 July 2023, update routes to reflect two removals. Now 161 in total for all teams. Also some rerouting based on a TSP solver's suggestions. 
 
-V4 will be published late on 8 July, the "London 10K" edition, with P and W early stages changed significantly to avoid the closed sections. (Minor changes to the other teams too). 
+V4 was published late on 8 July, the "London 10K" edition, with P and W early stages changed significantly to avoid the closed sections. (Minor changes to the other teams too). 
 
 ## Team distances (km)
 
@@ -24,4 +24,4 @@ V4 will be published late on 8 July, the "London 10K" edition, with P and W earl
 | V1   | 71.8 | 72.7 | 72.2 | 70.7 | 72.4 | 72.0 | 798 | 162 |
 | V2   | 71.8 | 73.0 | 72.5 | 70.7 | 72.4 | 72.1 | 797 | 162 |
 | V3 "TSP" | 71.7 | 71.7 | 71.9 | 70.6 | 72.2 | 71.6 | 796 | 161 |
-| V4 "London 10K Edition" | TBC | TBC | TBC | TBC | TBC | TBC | 797? | 162? |
+| V4 "London 10K Edition" | 72.0 | 72.9 | 72.1 | 70.6 | 72.1 | 71.9 | 797 | 162 |
