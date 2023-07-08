@@ -453,9 +453,9 @@ src	desc	lat	lon	name	cmt	NULL
 171	"Collingham Gardens, Earl's Court"	51.4916156	-0.186753859	128.CG	P6.20	NULL
 219	"Bramham Gardens, Earl's Court"	51.49016361	-0.19039362	129.BG	P6.21	NULL
 158	"Trebovir Road, Earl's Court"	51.49085368	-0.196170309	130.TR	P6.22	NULL
-37	"Penywern Road, Earl's Court"	51.49159394	-0.192369256	131.PR	P7.01	NULL
-296	"Knaresborough Place, Earl's Court"	51.49363156	-0.190603326	132.KP	P7.02	NULL
-128	"Emperor's Gate, South Kensington"	51.49536226	-0.185296516	133.EG	P7.03	NULL
+332	"Nevern Place, Earl's Court"	51.49334336	-0.194757949	131.NP	P7.01	NULL
+37	"Penywern Road, Earl's Court"	51.49159394	-0.192369256	132.PR	P7.02	NULL
+296	"Knaresborough Place, Earl's Court"	51.49363156	-0.190603326	133.KP	P7.03	NULL
 405	"Gloucester Road Station, South Kensington"	51.49418566	-0.18267094	134.GRS	P7.04	NULL
 216	"Old Brompton Road, South Kensington"	51.49094565	-0.181190899	135.OBR	P7.05	NULL
 187	"Queen's Gate (South), South Kensington"	51.49247977	-0.178433004	136.QGS	P7.06	NULL
@@ -688,10 +688,10 @@ src	desc	lat	lon	name	cmt	NULL
 36	"De Vere Gardens, Kensington"	51.50173726	-0.184980612	39.DVG	W2.11	NULL
 97	"Gloucester Road (North), Kensington"	51.49792478	-0.183834706	40.GRN	W2.12	NULL
 113	"Gloucester Road (Central), South Kensington"	51.49646288	-0.183289032	41.GRC	W2.13	NULL
-155	"Lexham Gardens, Kensington"	51.49586666	-0.191933711	42.LG	W2.14	NULL
-384	"Marloes Road, Kensington"	51.496481	-0.192404	43.MR	W2.15	NULL
-38	"Abingdon Villas, Kensington"	51.4973875	-0.197245586	44.AV	W2.16	NULL
-332	"Nevern Place, Earl's Court"	51.49334336	-0.194757949	45.NP	W2.17	NULL
+128	"Emperor's Gate, South Kensington"	51.49536226	-0.185296516	42.EG	W2.14	NULL
+155	"Lexham Gardens, Kensington"	51.49586666	-0.191933711	43.LG	W2.15	NULL
+384	"Marloes Road, Kensington"	51.496481	-0.192404	44.MR	W2.16	NULL
+38	"Abingdon Villas, Kensington"	51.4973875	-0.197245586	45.AV	W2.17	NULL
 142	"West Cromwell Road, Earl's Court"	51.49372451	-0.198286569	46.WCR	W2.18	NULL
 274	"Warwick Road, Olympia"	51.49671237	-0.20528437	47.WR	W2.19	NULL
 559	"Abbotsbury Road, Holland Park"	51.501391	-0.205991	48.AR	W2.20	NULL
