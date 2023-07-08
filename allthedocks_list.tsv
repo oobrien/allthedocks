@@ -632,8 +632,8 @@ src	desc	lat	lon	name	cmt	NULL
 376	"Millbank Tower, Pimlico"	51.49188409	-0.125674815	145.MT	S7.13	NULL
 558	"Page Street, Westminster"	51.493978	-0.127554	146.PS	S7.14	NULL
 281	"Smith Square, Westminster"	51.49580589	-0.127575233	147.SS	S7.15	NULL
-108	"Abbey Orchard Street, Westminster"	51.49812559	-0.132102166	148.AOS	S7.16	NULL
-583	"Abingdon Green, Westminster"	51.49764	-0.12597218	149.AG	S7.17	NULL
+108	"Abbey Orchard Street, Westminster"	51.49812559	-0.132102166	149.AOS	S7.17	NULL
+583	"Abingdon Green, Westminster"	51.49764	-0.12597218	148.AG	S7.16	NULL
 762	"Storey's Gate, Westminster"	51.50070305	-0.129698963	150.SG	S7.18	NULL
 818	"Westminster Pier, Westminster"	51.501513	-0.12382322	151.WP	S7.19	NULL
 229	"Whitehall Place, Strand"	51.50654321	-0.123179697	152.WP	S7.20	NULL
