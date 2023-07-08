@@ -2646,17 +2646,17 @@
   <desc>Pall Mall East, West End</desc>
   <src>233</src>
 </wpt>
-<wpt lat="51.50810309" lon="-0.12602103">
-  <name>157.CS</name>
-  <cmt>P7.27</cmt>
-  <desc>Craven Street, Strand</desc>
-  <src>341</src>
-</wpt>
 <wpt lat="51.50908747" lon="-0.129697889">
-  <name>158.SMS</name>
-  <cmt>P7.28</cmt>
+  <name>157.SMS</name>
+  <cmt>P7.27</cmt>
   <desc>St. Martin's Street, West End</desc>
   <src>325</src>
+</wpt>
+<wpt lat="51.50810309" lon="-0.12602103">
+  <name>158.CS</name>
+  <cmt>P7.28</cmt>
+  <desc>Craven Street, Strand</desc>
+  <src>341</src>
 </wpt>
 <wpt lat="51.50946212" lon="-0.124749274">
   <name>159.WIS</name>
