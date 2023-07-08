@@ -18,10 +18,10 @@ V4 will be published late on 8 July, the "London 10K" edition, with P and W earl
 
 ## Team distances (km)
 
-| Edition | W   | P   | S   | N   | E   | Average | Docks |
-| ------- | --- | --- | --- | --- | --- | ----- | ---- |
-| First Draft | 72.1  | 76.1 | 70.2 | 64.7 | 76.3 | 71.9 | 162 | 
-| V1   | 71.8 | 72.7 | 72.2 | 70.7 | 72.4 | 72.0 | 162 |
-| V2   | 71.8 | 73.0 | 72.5 | 70.7 | 72.4 | 72.1 | 162 |
-| V3 "TSP" | 71.7 | 71.7 | 71.9 | 70.6 | 72.2 | 71.6 | 161 |
-| V4 "London 10K Edition" | TBC | TBC | TBC | TBC | TBC | TBC | 162? |
+| Edition | W   | P   | S   | N   | E   | Average | Docks | Docks/Team |
+| ------- | --- | --- | --- | --- | --- | ----- | ---- | --- |
+| First Draft | 72.1  | 76.1 | 70.2 | 64.7 | 76.3 | 71.9 | 799 | 162 | 
+| V1   | 71.8 | 72.7 | 72.2 | 70.7 | 72.4 | 72.0 | 162 | 798 |
+| V2   | 71.8 | 73.0 | 72.5 | 70.7 | 72.4 | 72.1 | 162 |797 |
+| V3 "TSP" | 71.7 | 71.7 | 71.9 | 70.6 | 72.2 | 71.6 | 796 | 161 |
+| V4 "London 10K Edition" | TBC | TBC | TBC | TBC | TBC | TBC | 797? | 162? |
