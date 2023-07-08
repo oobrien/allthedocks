@@ -16,7 +16,7 @@ V3 published late on 7 July 2023, update routes to reflect two removals. Now 161
 
 V4 will be published late on 8 July, the "London 10K" edition, with P and W early stages changed significantly to avoid the closed sections. (Minor changes to the other teams too). 
 
-!! Team distances (km)
+## Team distances (km)
 
 | Edition | W   | P   | S   | N   | E   | Average | Docks |
 | ------- | --- | --- | --- | --- | --- | ----- | ---- |
