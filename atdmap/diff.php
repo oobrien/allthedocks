@@ -14,9 +14,9 @@
 $docks = array();
 $wps = array();
 
-$excludeids = array("src", "#id", "100256", "200256");
+$excludeids = array("src", "#id", "100338", "200338", "300338", "400338", "500338", "600338", "700338", "800338", "900338", "100335", "200335", "300335", "400335");
 
-$current = fopen('https://julie.geog.ucl.ac.uk/~ollie/bikesapi/latest/london.csv', 'r');
+$current = fopen('https://gladys.geog.ucl.ac.uk/bikesapi/load.php?scheme=london', 'r');
 while ($row = fgetcsv($current))
 {
 	if (!in_array($row[0], $excludeids))
@@ -50,7 +50,7 @@ foreach ($docks as $dock)
 {
 	if ($wps[$dock[0]] == null)
 	{
-		$map = "https://julie.geog.ucl.ac.uk/~ollie/js/staticmaplite/staticmap.php?zoom=14&size=240x240&maptype=mapnik&center=" . $dock[3] . "," . $dock[4] . "&markers=" . $dock[3] . "," . $dock[4] . ",lightblue1";
+		$map = "https://gladys.geog.ucl.ac.uk/staticmaplite/staticmap.php?zoom=14&size=240x240&maptype=mapnik&center=" . $dock[3] . "," . $dock[4] . "&markers=" . $dock[3] . "," . $dock[4] . ",lightblue1";
 		echo "<tr><td>" . $dock[0] . "</td><td>" . $dock[2] . "</td><td>" . $dock[3] . "</td><td>" . $dock[4] . "</td><td>" . $dock[5] . "</td><td>" . $dock[10] . "</td><td><img src='" . $map . "'></td></tr>";	
 	}
 }
@@ -88,7 +88,7 @@ foreach ($docks as $dock)
 <?php 
 foreach ($docks as $dock)
 {
-	$map = "https://julie.geog.ucl.ac.uk/~ollie/js/staticmaplite/staticmap.php?zoom=14&size=240x240&maptype=mapnik&center=" . $dock[3] . "," . $dock[4] . "&markers=" . $dock[3] . "," . $dock[4] . ",lightblue1";
+	$map = "https://gladys.geog.ucl.ac.uk/staticmaplite/staticmap.php?zoom=14&size=240x240&maptype=mapnik&center=" . $dock[3] . "," . $dock[4] . "&markers=" . $dock[3] . "," . $dock[4] . ",lightblue1";
 	$latdiff = $wps[$dock[0]][2] - $dock[3];
 	$londiff = $wps[$dock[0]][3] != $dock[4];
 	if ($wps[$dock[0]] != null && ($londiff > 0.000001 || $latdiff > 0.000001))
@@ -104,7 +104,7 @@ foreach ($docks as $dock)
 <?php 
 foreach ($docks as $dock)
 {
-	if ($wps[$dock[0]] != null && $wps[$dock[0]][1] != $dock[2])
+	if ($wps[$dock[0]] != null && $wps[$dock[0]][1] != str_replace('  ', ' ', str_replace('&amp;', '&', $dock[2])))
 	{
 		echo "<tr><td>" . $wps[$dock[0]][0] . "</td><td>" . $wps[$dock[0]][1] . "</td><td>" . $wps[$dock[0]][4] . "</td><td>" . $wps[$dock[0]][5] . "</td><td>" . $dock[2] . "</td></tr>";	
 	}
@@ -114,7 +114,7 @@ foreach ($docks as $dock)
 
 <h2>Full</h2>
 <table>
-<tr><th></th><th>West</th><th>South</th><th>East</th><th></th></tr>
+<tr><th></th><th>West</th><th>South</th><th>Putney</th><th>North</th><th>East</th><th></th></tr>
 <tr><td>
 <?php 
 
@@ -129,7 +129,7 @@ foreach ($docks as $dock)
 }
 
 
-ksort($fulllist);
+krsort($fulllist);
 $currindex = "";
 
 foreach($fulllist as $seq=>$shortcode)

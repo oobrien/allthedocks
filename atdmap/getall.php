@@ -1,5 +1,7 @@
 <?php
 
+$start = hrtime(true);
+
 include 'db.php';
 
 $conn = mysqli_connect($dbhost, $dbuser, $dbpass);
@@ -30,8 +32,11 @@ else
 		{
             $rows[] = $row;
     	}
+
+    	$end = hrtime(true);
+		$diff = ($end-$start)/1000000.0;
     	
-        $returnData = array('success'=>true, 'message'=>'', 'result'=>$rows);        
+        $returnData = array('success'=>true, 'message'=>'', 'timestamp'=>time(), 'proctime_ms'=>$diff, 'result'=>$rows);        
     	echo json_encode($returnData, JSON_NUMERIC_CHECK);   	
 }
 ?>

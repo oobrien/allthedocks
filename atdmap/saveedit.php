@@ -49,12 +49,12 @@ else
 	if ($visited == 0)
 	{
 		$query2 = sprintf("update allthedocks set visited = NULL where tfl_id = %d", $tfl_id);
-		$query3 = sprintf("insert into allthedocks_log values(%d, 'unvisited', NOW(), '%s', null)", $tfl_id, $_SERVER['HTTP_USER_AGENT']); 
+		$query3 = sprintf("insert into allthedocks_log values(%d, 'unvisited', NOW(), '%s', null)", $tfl_id, $_SERVER['REMOTE_ADDR'] . ": " . $_SERVER['HTTP_USER_AGENT']); 
 	}
 	else
 	{
 		$query2 = sprintf("update allthedocks set visited = NOW() where tfl_id = %d", $tfl_id);
-		$query3 = sprintf("insert into allthedocks_log values(%d, 'visited', NOW(), '%s', null)", $tfl_id, $_SERVER['HTTP_USER_AGENT']); 	
+		$query3 = sprintf("insert into allthedocks_log values(%d, 'visited', NOW(), '%s', null)", $tfl_id, $_SERVER['REMOTE_ADDR'] . ": " . $_SERVER['HTTP_USER_AGENT']); 	
 	}
 }
 

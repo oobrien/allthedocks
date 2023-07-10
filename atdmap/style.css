@@ -16,7 +16,7 @@ body
 
 .locate
 {
-	top: 8em;
+	top: 5em;
 	left: 0.5em;
 }
 
@@ -27,6 +27,26 @@ body
 	top: 10px;
 
 }
+
+#scoreboard
+{
+	position: absolute; 
+	left: 50px;
+	top: 30px;
+	background-color: white;
+
+}
+
+#scoreboard td
+{
+	padding-right: 10px;
+}
+
+#ltrow th
+{
+	font-size: 16px;
+}
+
 table
 {
 	width: 100%;

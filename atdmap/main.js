@@ -45,11 +45,20 @@ const lineColours =
 
 const pointColours = 
 {
-	'E': 'rgba(255,0,0,0.6)',
-	'N': 'rgba(255,0,255,0.6)',
-	'P': 'rgba(128,128,255,0.6)',
-	'S': 'rgba(128,0,255,0.6)',
+	'E': 'rgba(255,64,64,0.6)',
+	'N': 'rgba(255,64,255,0.6)',
+	'P': 'rgba(64,64,192,0.6)',
+	'S': 'rgba(128,64,255,0.6)',
 	'W': 'rgba(0,192,0,0.6)',
+}
+
+const scoreColours = 
+{
+	'E': 'rgba(255,0,0,1)',
+	'N': 'rgba(255,0,255,1)',
+	'P': 'rgba(64,64,255,1)',
+	'S': 'rgba(128,0,255,1)',
+	'W': 'rgba(0,192,0,1)',
 }
 
 const labelColours = 
@@ -106,18 +115,19 @@ function getVisited()
 	{ 
 		var docks = data['result'];
 
-		var w = layerDocksW.getSource().getFeatures();
-		var s = layerDocksS.getSource().getFeatures();
+		var e = layerDocksE.getSource().getFeatures();
 		var n = layerDocksN.getSource().getFeatures();
 		var p = layerDocksP.getSource().getFeatures();
-		var e = layerDocksE.getSource().getFeatures();
+		var s = layerDocksS.getSource().getFeatures();
+		var w = layerDocksW.getSource().getFeatures();
 
-		for (var i in w) { w[i].set('visited', null)}
-		for (var i in s) { s[i].set('visited', null)}
 		for (var i in e) { e[i].set('visited', null)}
 		for (var i in n) { n[i].set('visited', null)}
 		for (var i in p) { p[i].set('visited', null)}
+		for (var i in s) { s[i].set('visited', null)}
+		for (var i in w) { w[i].set('visited', null)}
 
+		var ev = 0, nv = 0, pv = 0, sv = 0, wv = 0;
 		for (var i in docks)
 		{
 			$('#cb' + docks[i][0]).prop('checked', true);
@@ -127,33 +137,49 @@ function getVisited()
 			if (team == "E")
 			{
 				layerDocksE.getSource().getFeatureById(docks[i][0]).set('visited', docks[i][1]);
-			}
-			else if (team == "W")
-			{
-				layerDocksW.getSource().getFeatureById(docks[i][0]).set('visited', docks[i][1]);
-			}
-			else if (team == "S")
-			{
-				layerDocksS.getSource().getFeatureById(docks[i][0]).set('visited', docks[i][1]);
+				ev++;
 			}
 			else if (team == "N")
 			{
 				layerDocksN.getSource().getFeatureById(docks[i][0]).set('visited', docks[i][1]);
+				nv++;
 			}
 			else if (team == "P")
 			{
 				layerDocksP.getSource().getFeatureById(docks[i][0]).set('visited', docks[i][1]);
+				pv++;
 			}
-		}		
+			else if (team == "S")
+			{
+				layerDocksS.getSource().getFeatureById(docks[i][0]).set('visited', docks[i][1]);
+				sv++;
+			}
+			else if (team == "W")
+			{
+				layerDocksW.getSource().getFeatureById(docks[i][0]).set('visited', docks[i][1]);
+				wv++;
+			}
+		}	
+		$('#sbE').html(ev);	
+		$('#sbN').html(nv);	
+		$('#sbP').html(pv);	
+		$('#sbS').html(sv);	
+		$('#sbW').html(wv);	
 	}});
 }
 
-
 function filter()
 {
-	var id = document.getElementById('segmentchooser').value; 
-	//var id = name.substring(0, 3);
-
+	var id = document.getElementById('segmentchooser').value;
+	if (id == 'All Stages')
+	{
+		window.location.hash = '';
+	}
+	else
+	{
+		window.location.hash = id;
+	}
+	
 	var features = [];
 	var features2 = features.concat(layerDocksE.getSource().getFeatures());
 	var features3 = features2.concat(layerDocksS.getSource().getFeatures());
@@ -165,7 +191,7 @@ function filter()
 	{
 		 var feature = features[i];
 		 var fid = feature.get('name').substring(0, 2);
-		 if (id == 'All' || fid == id || (feature.get('cmt') != null && feature.get('cmt').substring(0, 2) == id))
+		 if (id == 'All Stages' || fid == id || (feature.get('cmt') != null && feature.get('cmt').substring(0, 2) == id))
 		 {
 			feature.setStyle(null);
 			if (fid == id)
@@ -190,7 +216,7 @@ function populateSelect(source)
 		var feature = features[i];
 		if (feature.getGeometry().getType() == 'MultiLineString' || feature.getGeometry().getType() == 'LineString')
 		{
-			selectitems.push(feature.get('name') + " (" + (0.1*Math.round(0.01*feature.get('desc'))).toFixed(1) + "km, " + feature.get('src') + " wpts)");
+			selectitems.push(feature.get('name') + " (" + (0.1*Math.round(0.01*feature.get('desc'))).toFixed(1) + "km, " + feature.get('src') + " docks)");
 		}
 		else
 		{
@@ -215,8 +241,16 @@ function populateSelect(source)
 
 function initComplete()
 {
-		getVisited();
-		setInterval(getVisited, 1000*60*1);
+	getVisited();
+	setInterval(getVisited, 1000*60*5);
+	
+	var hash = window.location.hash.substring(1);
+
+	if (hash != '')
+	{
+		document.getElementById('segmentchooser').value = hash;
+		filter();
+	}
 }
 
 var layerDocksE;
@@ -234,58 +268,24 @@ function init()
 	var sourceDocksE = new ol.source.Vector({
 			url: 'https://raw.githubusercontent.com/oobrien/allthedocks/main/allthedocks_E.gpx',
 			format: new ol.format.GPX()
-	});
-	
+	});	
 	sourceDocksE.on('featuresloadend', function()
 	{
 		populateSelect(sourceDocksE);
 	});
-
 	layerDocksE = new ol.layer.VectorImage({
 		source: sourceDocksE,
 	  	style: gpxStyle
 	});
 	
-	var sourceDocksS = new ol.source.Vector({
-			url: 'https://raw.githubusercontent.com/oobrien/allthedocks/main/allthedocks_S.gpx',
-			format: new ol.format.GPX()
-	});
-	
-	sourceDocksS.on('featuresloadend', function()
-	{
-		populateSelect(sourceDocksS);
-	});
-
-    layerDocksS = new ol.layer.VectorImage({
-		source: sourceDocksS,
-	  	style: gpxStyle
-	});
-
-	var sourceDocksW = new ol.source.Vector({
-			url: 'https://raw.githubusercontent.com/oobrien/allthedocks/main/allthedocks_W.gpx',
-			format: new ol.format.GPX()
-	});
-	
-	sourceDocksW.on('featuresloadend', function()
-	{
-		populateSelect(sourceDocksW);
-	});
-
-	layerDocksW = new ol.layer.VectorImage({
-		source: sourceDocksW,
-	  	style: gpxStyle
-	});
-
 	var sourceDocksN = new ol.source.Vector({
 			url: 'https://raw.githubusercontent.com/oobrien/allthedocks/main/allthedocks_N.gpx',
 			format: new ol.format.GPX()
-	});
-	
+	});	
 	sourceDocksN.on('featuresloadend', function()
 	{
 		populateSelect(sourceDocksN);
 	});
-
 	layerDocksN = new ol.layer.VectorImage({
 		source: sourceDocksN,
 	  	style: gpxStyle
@@ -294,18 +294,41 @@ function init()
 	var sourceDocksP = new ol.source.Vector({
 			url: 'https://raw.githubusercontent.com/oobrien/allthedocks/main/allthedocks_P.gpx',
 			format: new ol.format.GPX()
-	});
-	
+	});	
 	sourceDocksP.on('featuresloadend', function()
 	{
 		populateSelect(sourceDocksP);
 	});
-
 	layerDocksP = new ol.layer.VectorImage({
 		source: sourceDocksP,
 	  	style: gpxStyle
 	});
+	
+	var sourceDocksS = new ol.source.Vector({
+			url: 'https://raw.githubusercontent.com/oobrien/allthedocks/main/allthedocks_S.gpx',
+			format: new ol.format.GPX()
+	});	
+	sourceDocksS.on('featuresloadend', function()
+	{
+		populateSelect(sourceDocksS);
+	});
+    layerDocksS = new ol.layer.VectorImage({
+		source: sourceDocksS,
+	  	style: gpxStyle
+	});
 
+	var sourceDocksW = new ol.source.Vector({
+			url: 'https://raw.githubusercontent.com/oobrien/allthedocks/main/allthedocks_W.gpx',
+			format: new ol.format.GPX()
+	});	
+	sourceDocksW.on('featuresloadend', function()
+	{
+		populateSelect(sourceDocksW);
+	});
+	layerDocksW = new ol.layer.VectorImage({
+		source: sourceDocksW,
+	  	style: gpxStyle
+	});
 
 	var layerBackground = new ol.layer.Tile({
 	   source: new ol.source.OSM()
@@ -327,7 +350,7 @@ function init()
       
 	olMap = new ol.Map({
 		target: "mapcontainer",
-		layers: [ layerBackground, layerDocksE, layerDocksS, layerDocksW, layerDocksN, layerDocksP, layerLocation ],
+		layers: [ layerBackground, layerDocksE, layerDocksN, layerDocksP, layerDocksS, layerDocksW, layerLocation ],
 		controls: ol.control.defaults.defaults({}).extend([
 			new ol.control.ScaleLine({geodesic: true, units: 'metric' })
 		]),
@@ -386,8 +409,13 @@ function init()
 	});
 	olMap.addControl(new ol.control.Control({
 	  element: locate
-	}));		
+	}));	
 	
+	for (var i in scoreColours) 
+	{
+		$('#sbt' + i).css('color', scoreColours[i]);
+		$('#lt' + i).css('color', scoreColours[i]);
+	}	
 }
 
 $(document).ready(function()
