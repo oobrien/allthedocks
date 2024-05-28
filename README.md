@@ -2,7 +2,7 @@
 
 Route planning.
 
-Working map at [https://map.allthedocks.com/](https://misc.oomap.co.uk/atdmap/)
+Working map at https://misc.oomap.co.uk/atdmap/
 
 The GPX files each contain 7 routes (along the streets) + all the waypoints (docks)
 
